@@ -1,12 +1,8 @@
 ---
 title: "Staves"
-metaTitle: "Staves - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Complete staff details for Shiren the Wanderer DS2: Magic Castle of the Desert."
+metaTitle: "Staves - Shiren DS1 Wiki"
+metaDescription: "Complete staff details for Shiren the Wanderer DS1."
 ---
-
-<br/>
-
-<span class="redText">※ English names might change as the translation project progresses.</span>
 
 # Overview
 
@@ -30,158 +26,297 @@ metaDescription: "Complete staff details for Shiren the Wanderer DS2: Magic Cast
   </thead>
   <tbody>
     <tr>
-      <td class="priceTableName">Mage Staff</td>
-      <td rowspan="3">300</td>
-      <td rowspan="3">30</td>
+      <td class="priceTableName">Skull Staff</td>
+      <td>300</td>
+      <td>30</td>
       <td>90</td>
       <td>9</td>
-      <td class="leftText">Inflicts Asleep, Confused, Slow, or warps the target elsewhere.</td>
+      <td class="leftText">Inflicts Sleepy, Confused, Slow, or warps the target elsewhere.</td>
     </tr>
     <tr>
       <td class="priceTableName">Knockback Staff</td>
-      <td rowspan="2">150</td>
-      <td rowspan="2">15</td>
-      <td class="leftText">Knocks a creature, item, or stairs back 10 tiles. (Excludes merchandise)</td>
+      <td rowspan="4">500</td>
+      <td rowspan="4">50</td>
+      <td rowspan="4">150</td>
+      <td rowspan="4">15</td>
+      <td class="leftText">Knocks a target back 10 tiles and deals 5 damage.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Swap Staff</td>
-      <td class="leftText">Swap places with a target.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Tunnel Staff</td>
-      <td rowspan="3">500</td>
-      <td rowspan="3">50</td>
-      <td rowspan="2">200</td>
-      <td rowspan="2">20</td>
-      <td class="leftText">Digs a tunnel if the magic bullet hits a wall.<br/>Deals 10 damage if the magic bullet hits a creature.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Pinning Staff</td>
-      <td class="leftText">Leap forward toward whatever the magic bullet hit.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Miss Staff</td>
-      <td>250</td>
-      <td>25</td>
-      <td class="leftText">Inflicts Inaccurate status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Presto Staff</td>
-      <td rowspan="2">750</td>
-      <td rowspan="2">75</td>
-      <td>300</td>
-      <td>30</td>
-      <td class="leftText">Transforms a monster into a different monster.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Pull Staff</td>
-      <td>350</td>
-      <td>35</td>
-      <td class="leftText">Pulls a creature, item, or stairs toward you. (Excludes merchandise)</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Swift Staff</td>
-      <td>800</td>
-      <td>80</td>
-      <td>400</td>
-      <td>40</td>
-      <td class="leftText">Increases action speed by 1 stage.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Invisible Staff</td>
-      <td>900</td>
-      <td>90</td>
-      <td>450</td>
-      <td>45</td>
-      <td class="leftText">Inflicts Invisible status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Balance Staff</td>
-      <td rowspan="2">1000</td>
-      <td>0</td>
-      <td rowspan="2">500</td>
-      <td>0</td>
-      <td class="leftText">Prevents tripping if it's in your inventory (Not in a pot).</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Tenjin Staff</td>
-      <td>100</td>
-      <td>50</td>
-      <td class="leftText"><span class="purpleText">How to Obtain</span>: Castle Tower (Presto Pot on boss floor)</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Empathy Staff</td>
-      <td>1300</td>
-      <td>130</td>
-      <td>650</td>
-      <td>65</td>
-      <td class="leftText">Inflicts Empathetic status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Transient Staff</td>
-      <td>1400</td>
-      <td>140</td>
-      <td>700</td>
-      <td>70</td>
+      <td class="priceTableName">Staff of Postpone</td>
       <td class="leftText">Warps a target to the stairs, then inflicts Paralyzed status.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Paralysis Staff</td>
-      <td rowspan="6">1500</td>
-      <td rowspan="6">150</td>
-      <td>450</td>
-      <td>45</td>
-      <td class="leftText">Inflicts Paralyzed status.</td>
+      <td class="priceTableName">Staff of Happiness</td>
+      <td class="leftText">Increases a target's level by 1.<br/>If it hits Shiren, he gains 500 experience points.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Decoy Staff</td>
-      <td rowspan="5">1500</td>
-      <td rowspan="5">150</td>
-      <td class="leftText">Inflicts Decoy status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Seal Staff</td>
-      <td class="leftText">Inflicts Sealed status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Unlucky Staff</td>
+      <td class="priceTableName">Staff of Misfortune</td>
       <td class="leftText">Decreases a target's level by 1.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Happy Staff</td>
-      <td class="leftText">Increases a target's level by 1.</td>
+      <td class="priceTableName">Switching Staff</td>
+      <td rowspan="3">700</td>
+      <td rowspan="3">70</td>
+      <td rowspan="3">210</td>
+      <td rowspan="3">21</td>
+      <td class="leftText">Switch positions with a target.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Quarter Staff</td>
-      <td class="leftText">Reduces a target's HP to 1/4 of their current HP.</td>
+      <td class="priceTableName">Accelerating Staff</td>
+      <td class="leftText">Increases action speed by 1 stage.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Rage Staff</td>
+      <td class="priceTableName">Staff of Sloth</td>
+      <td class="leftText">Decreases action speed by 1 stage.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Pain Sharing Staff</td>
+      <td rowspan="3">1200</td>
+      <td rowspan="3">120</td>
+      <td rowspan="3">360</td>
+      <td rowspan="3">36</td>
+      <td class="leftText">Inflicts Pain-sharing status.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Staff of Recovery</td>
+      <td class="leftText">Restores 50 HP.<br/>Ghost types take 50 damage.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Staff of Stability</td>
+      <td class="leftText">Prevents tripping if it's in your inventory (Not in a pot).</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Sealing Staff</td>
+      <td rowspan="3">1500</td>
+      <td rowspan="3">150</td>
+      <td rowspan="3">450</td>
+      <td rowspan="3">45</td>
+      <td class="leftText">Inflicts Sealed status.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Staff of Paralysis</td>
+      <td class="leftText">Inflicts Paralyzed status.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Doppelganger Staff</td>
+      <td class="leftText">Inflicts Doppelganger status (30 turns).<br/>If it hits Shiren, inflicts Confused status (6~10 turns).</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Lightning Staff</td>
       <td>2000</td>
       <td>200</td>
-      <td>1000</td>
-      <td>100</td>
-      <td class="leftText">Inflicts Enraged status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Grass Gainer</td>
-      <td rowspan="2">2500</td>
-      <td rowspan="2">250</td>
-      <td rowspan="2">1250</td>
-      <td rowspan="2">125</td>
-      <td class="leftText">Stand on a grass item and swing this to get hit by a magic bullet<br/>that has the same effect as the grass item.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Grass Tosser</td>
-      <td class="leftText">Stand on a grass item and swing this to shoot a magic bullet<br/>that has the same effect as the grass item.</td>
+      <td>600</td>
+      <td>60</td>
+      <td class="leftText">Magic bullet homes at a nearby enemy, dealing 15~22 damage.</td>
     </tr>
     <tr>
       <td class="priceTableName">Bufu's Staff</td>
-      <td>5000</td>
-      <td>500</td>
-      <td>2500</td>
-      <td>250</td>
-      <td class="leftText">Turns a monster into meat.</td>
+      <td>3000</td>
+      <td>300</td>
+      <td>900</td>
+      <td>90</td>
+      <td class="leftText">Turns a monster into meat.<br/>If it hits Shiren, inflicts Riceball status (10 turns).</td>
     </tr>
   </tbody>
+</table>
+
+# Locations
+
+- F - Floor, Monster drop
+- S - Shop
+- C - Jar of Change, Thiefwalrus drop
+
+<br/>
+
+<table class="itemListCentered">
+  <tr>
+    <th rowspan="2">Item</th>
+    <th colspan="7">Dungeon</th>
+    <th rowspan="2">Village Shop<br/>Monster</th>
+  </tr>
+  <tr>
+    <th>TM</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>Skull Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Skull Mage family</td>
+  </tr>
+  <tr>
+    <td>Knockback Staff</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td>S</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Staff of Postpone</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Staff of Happiness</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>S</td>
+    <td></td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Staff of Misfortune</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>S</td>
+    <td></td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Switching Staff</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>S</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Accelerating Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Staff of Sloth</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Pain Sharing Staff</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Staff of Recovery</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Staff of Stability</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Sealing Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Bamboo</td>
+  </tr>
+  <tr>
+    <td>Staff of Paralysis</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Doppelganger Staff</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>S</td>
+    <td></td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Lightning Staff</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Bufu's Staff</td>
+    <td>S</td>
+    <td>S</td>
+    <td></td>
+    <td></td>
+    <td>FS</td>
+    <td></td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
 </table>

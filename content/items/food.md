@@ -1,12 +1,8 @@
 ---
 title: "Food"
-metaTitle: "Food - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Complete food details for Shiren the Wanderer DS2: Magic Castle of the Desert."
+metaTitle: "Food - Shiren DS1 Wiki"
+metaDescription: "Complete food details for Shiren the Wanderer DS1."
 ---
-
-<br/>
-
-<span class="redText">※ English names might change as the translation project progresses.</span>
 
 # Overview
 
@@ -25,40 +21,114 @@ metaDescription: "Complete food details for Shiren the Wanderer DS2: Magic Castl
   </thead>
   <tbody>
     <tr>
-      <td class="priceTableName">Onigiri</td>
-      <td>25</td>
-      <td>10</td>
-      <td class="leftText">Replenishes 50 fullness.<br/>Increases max fullness by 1 if already full.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Large Onigiri</td>
-      <td>100</td>
-      <td>50</td>
-      <td class="leftText">Replenishes 100 fullness.<br/>Increases max fullness by 2 if already full.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Huge Onigiri</td>
-      <td>200</td>
-      <td>100</td>
-      <td class="leftText">Replenishes fullness to max, and increases max fullness by 5.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Special Onigiri</td>
-      <td>350</td>
+      <td class="priceTableName">Riceball</td>
       <td>150</td>
-      <td class="leftText">Replenishes 30 fullness, and something good happens.<br/>(Restore HP, Strength+1, Satiated, Identifier, Silent, or Alert status)<br/>Increases max fullness by 1 if already full.</td>
+      <td>45</td>
+      <td class="leftText">Replenishes 50 fullness.<br/>Increases max fullness by 3 if already full.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Spoiled Onigiri</td>
-      <td>2</td>
-      <td>1</td>
-      <td class="leftText">Replenishes 30 fullness, take damage, and something bad happens.<br/>(Level-1, Max strength-1, Confused, Asleep, or Blind status)</td>
+      <td class="priceTableName">Big Riceball</td>
+      <td>300</td>
+      <td>90</td>
+      <td class="leftText">Replenishes 100 fullness.<br/>Increases max fullness by 5 if already full.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Bufu's Onigiri</td>
-      <td>1000</td>
-      <td>500</td>
-      <td class="leftText">Replenishes 100 fullness.<br/>Increases max fullness by 2 if already full.<br/><span class="purpleText">How to Obtain</span>: Castle Keep (Presto Pot on boss floor)</td>
+      <td class="priceTableName">Giant Riceball</td>
+      <td>400</td>
+      <td>120</td>
+      <td class="leftText">Replenishes fullness to max, and increases max fullness by 7.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Special Riceball</td>
+      <td>300</td>
+      <td>90</td>
+      <td class="leftText">Replenishes 30 fullness, and something good happens.<br/>(Restore HP, Strength+1, Ever-Full, Auto Identify, Wide Awake, or Silent Movement status)<br/>Increases max fullness by 1 if already full.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Rotten Riceball</td>
+      <td>50</td>
+      <td>15</td>
+      <td class="leftText">Replenishes 30 fullness, take 5 damage, and something bad happens.<br/>(Level-1, Strength-3, Confused, Sleepy, or Blinded status)</td>
     </tr>
   </tbody>
+</table>
+
+# Locations
+
+- F - Floor, Monster drop
+- S - Shop
+- C - Jar of Change, Thiefwalrus drop
+
+<br/>
+
+<table class="itemListCentered">
+  <tr>
+    <th rowspan="2">Item</th>
+    <th colspan="7">Dungeon</th>
+    <th rowspan="2">Village Shop<br/>Monster</th>
+  </tr>
+  <tr>
+    <th>TM</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>Riceball</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FC</td>
+    <td>Bamboo, Stream, Rice Changer, Egg Thing</td>
+  </tr>
+  <tr>
+    <td>Big Riceball</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td>S</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream, Rice Boss, Running Egg</td>
+  </tr>
+  <tr>
+    <td>Giant Riceball</td>
+    <td>S</td>
+    <td>S</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>S</td>
+    <td>FS</td>
+    <td>Stream, Rice Master</td>
+  </tr>
+  <tr>
+    <td>Special Riceball</td>
+    <td>S</td>
+    <td>S</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>S</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Rotten Riceball</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

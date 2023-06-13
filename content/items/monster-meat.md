@@ -1,30 +1,20 @@
 ---
 title: "Monster Meat"
-metaTitle: "Monster Meat - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Complete monster meat details for Shiren the Wanderer DS2: Magic Castle of the Desert."
+metaTitle: "Monster Meat - Shiren DS1 Wiki"
+metaDescription: "Complete monster meat details for Shiren the Wanderer DS1."
 ---
-
-<br/>
-
-<span class="redText">※ English names might change as the translation project progresses.</span>
 
 # Overview
 
-#### Shiren
-
+- Meat is mainly obtained by using a Bufu's Cleaver or Bufu's Staff.
 - Eat meat to transform into that monster.
-    - Meat also replenishes fullness by 15 and cures status conditions.
-- The transformation lasts either a set number of turns, or for the duration of the floor.
-    - You can manually cancel the transformation anytime.
-- Select <span class="blueText">Power</span> to use the monster's special attack.
+    - Meat also replenishes 10 fullness and cures status conditions.
+- The transformation lasts for the duration of the current floor.
+    - Select <span class="blueText">Revert</span> to cancel the transformation.
+- Select <span class="blueText">Special</span> to use the monster's special attack.
     - Some monsters don't have a special attack.
 - Items can't be picked up or used while transformed into a monster.
     - You can't open the <span class="blueText">Items</span> menu, either.
-
-#### Nfuu
-
-- Throw meat at Nfuu to have them learn that monster's power.
-    - Some meats don't grant a power.
 
 # Summary
 
@@ -34,514 +24,1081 @@ metaDescription: "Complete monster meat details for Shiren the Wanderer DS2: Mag
       <th>Name</th>
       <th>Buy</th>
       <th>Sell</th>
-      <th>Shiren</th>
-      <th>Nfuu</th>
+      <th>Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="priceTableName">Ironhead Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Attack up to 2 tiles ahead.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Vampire Baron Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Transform into a monster in front of you.<br/>Change back when you use their power.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Shady Wisp Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Can Waterwalk.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Squid King Type</td>
-      <td>2000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Inflict Blind status for 50 turns.<br/>Lv1-2: Adjacent target.<br/>Lv3-4: All targets in the room.<br/>Instantly collapse if hit by an onigiri item.</td>
-      <td class="leftText">Inflict Blind status for 50 turns.<br/>Lv1-2: Adjacent target.<br/>Lv3-4: All targets in the room.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Dozy Genie Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Occasionally fall asleep.<br/>Lv1: 5 turns - Lv2: 10 turns<br/>Lv3: 15 turns - Lv4: 20 turns.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Healer Rabbit Type</td>
-      <td>2500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">30 Turns</span><br/>Lv1: Restore 50 HP to self.<br/>Lv2: Also heal nearby creatures.</td>
-      <td class="leftText">Lv1: Restore 10 HP to Shiren.<br/>Lv2: Restore 20 HP to Shiren.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Pitcher Plant Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Eat an item underfoot to apply an effect.<br/>Lv1: Turn it into grass. - Lv2: Identify it.<br/>Lv3: Bless it. - Lv4: Upgrade it.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Wolf Droid Type</td>
-      <td>3500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Throw a bomb.<br/>Lv1: 10 damage, 2 tiles.<br/>Lv2: 15 damage, 3 tiles.<br/>Lv3: 20 damage, 5 tiles.<br/>Lv4: 25 damage, 6 tiles.</td>
-      <td class="leftText">Throw a bomb.<br/>Lv1: 10 damage, 2 tiles.<br/>Lv2: 15 damage, 3 tiles.<br/>Lv3: 20 damage, 5 tiles.<br/>Lv4: 25 damage, 6 tiles.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Ether Devil Type</td>
+      <td class="highlightCyan">Air Devil</td>
       <td>5000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Gain Invisible status, can Waterwalk.<br/>Lv1: Absorb magic bullets.<br/>Lv2-4: Reflect magic bullets.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Mutaikon Type</td>
-      <td>8000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Throws grass 10 tiles ahead.<br/>Lv1: Poison Grass.<br/>Lv2: Dizzy Grass.<br/>Lv3-4: Sleep Grass.</td>
-      <td class="leftText">Throws grass 10 tiles ahead.<br/>Lv1: Poison Grass.<br/>Lv2: Dizzy Grass.<br/>Lv3-4: Sleep Grass.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Pop Tank Type</td>
-      <td>2000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Fire a cannonball.<br/>Lv1: 20 damage, Slow.<br/>Lv2: 30 damage.<br/>Lv3: 40 damage, Swift 2.<br/>Lv4: 50 damage, Swift 2.</td>
-      <td class="leftText">Fire a cannonball.<br/>Lv1: 20 damage.<br/>Lv2: 30 damage.<br/>Lv3: 40 damage.<br/>Lv4: 50 damage.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Skull Mage Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Fire a magic bullet.<br/>Lv1: Swift, Swap, Knockback, Warp.<br/>Lv2: Transient, Confused, 25 damage, Presto.<br/>Lv3: Paralysis, Slow, Sealed, Level-1, Bufu, Decoy.<br/>Lv4: Asleep, Blind, 40 damage, Bufu, Level-3.</td>
-      <td class="leftText">Fire a magic bullet.<br/>Lv1: Swift, Swap, Knockback, Warp.<br/>Lv2: Transient, Confused, 25 damage, Presto.<br/>Lv3: Paralysis, Slow, Sealed, Level-1, Bufu, Decoy.<br/>Lv4: Asleep, Blind, 40 damage, Bufu, Level-3.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Wily Tanuki Type</td>
-      <td>300</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">30 Turns</span><br/>Turn into a pot and hide from enemies.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Impact Boar Type</td>
-      <td>5000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Deal 5 tiles of knockback and 5 damage.</td>
-      <td class="leftText">Deal 5 tiles of knockback and 5 damage.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Teaser Monkey Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Crow Tengu Type</td>
       <td>500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: None.<br/>Gain Invisible status.<br/>Can move across water and air tiles.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Daze Hermit Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Lv1: Inflict Inaccurate status (5 turns).<br/>Lv2: Inflict Asleep status (2 turns).<br/>Lv3: Evade all direct attacks.<br/>Lv4: Inflict Confused status (10 turns).</td>
-      <td class="leftText">Lv1: Inflict Inaccurate status (5 turns).<br/>Lv2: Inflict Asleep status (2 turns).<br/>Lv3-4: Doesn't learn a power.</td>
+      <td class="highlightCyan">Wraith Devil</td>
+      <td>5500</td>
+      <td>550</td>
     </tr>
     <tr>
-      <td class="priceTableName">Demon Warrior Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Revive as Ghost Warrior if you collapse.<br/>Lv2: Reflect direct attacks as well.</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td class="highlightCyan">Mirage Devil</td>
+      <td>6000</td>
+      <td>600</td>
     </tr>
     <tr>
-      <td class="priceTableName">Gyaza Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Convert all attacks other than direct attacks<br/>and those that inflict Blind status into 2 damage.</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td class="highlightCyan">Astral Devil</td>
+      <td>6500</td>
+      <td>650</td>
     </tr>
     <tr>
-      <td class="priceTableName">Gyadon Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Can Waterwalk.</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td class="highlightCyan2">Baby Tengu</td>
+      <td class="highlightGray">700</td>
+      <td class="highlightGray">70</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: None.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Fog Hermit Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">30 Turns</span><br/>Halve an adjacent target's HP.</td>
-      <td class="leftText">Halve an adjacent target's HP.</td>
+      <td class="highlightCyan2">Young Tengu</td>
+      <td class="highlightGray">800</td>
+      <td class="highlightGray">80</td>
     </tr>
     <tr>
-      <td class="priceTableName">Twisty Hani Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">20 Turns</span><br/>Lower an adjacent target's level by 1.</td>
-      <td class="leftText">Lower an adjacent target's level by 1.</td>
+      <td class="highlightCyan2">Tengu Chief</td>
+      <td class="highlightGray">900</td>
+      <td class="highlightGray">90</td>
     </tr>
     <tr>
-      <td class="priceTableName">Gazer Type</td>
-      <td>3000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Inflict Afraid status on an adjacent target.</td>
-      <td class="leftText">Inflict Afraid status on an adjacent target.</td>
+      <td class="highlightCyan2">Tengu Elder</td>
+      <td class="highlightGray">1000</td>
+      <td class="highlightGray">100</td>
     </tr>
     <tr>
-      <td class="priceTableName">Alert Fly Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Can Waterwalk.<br/>Wakes up monsters and allies.</td>
-      <td class="leftText">Wakes up monsters and Shiren.</td>
+      <td class="highlightCyan">Bowboy</td>
+      <td>2000</td>
+      <td>200</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Shoot a Wooden Arrow.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Goggler Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Lobber Beetle Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Throw a monster at a monster. (5 damage)<br/>Lv1: 5 tiles - Lv2: 10 tiles<br/>Lv3: 15 tiles - Lv4: 20 tiles</td>
-      <td class="leftText">Throw a monster at a monster. (5 damage)<br/>Lv1: 5 tiles - Lv2: 10 tiles<br/>Lv3: 15 tiles - Lv4: 20 tiles</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Zen Guru Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Can Waterwalk.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Samuraidon Type</td>
+      <td class="highlightCyan">Crossbowboy</td>
       <td>4000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Lv1: Reflect 1/4 damage received.<br/>Lv2: Reflect magic bullets.<br/>Lv3: Reflect projectiles.<br/>Lv4: Has all Lv1-3 abilities.</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td>400</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Shoot an Iron Arrow.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Death Reaper Type</td>
-      <td>1500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Can Waterwalk, Swift 2.<br/>Lv3-4: Can Wall Clip.</td>
-      <td class="leftText">Hasten action speed by 1 stage. (5 turns)</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Jungarian Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Steal an item and place it on the ground.</td>
-      <td class="leftText">Steal an item and place it on the ground.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Schubell Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">30 Turns</span><br/>Summon 1 monster. (Level equal to meat level)<br/>Summoned monster has Decoy status.<br/>If a 2nd monster is summoned, the 1st monster<br/>changes to Confused status.</td>
-      <td class="leftText">Summon 1 monster. (Level equal to meat level)<br/>Summoned monster has Decoy status.<br/>If a 2nd monster is summoned, the 1st monster<br/>has their status condition cured.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Rock Head Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Sip Leech Type</td>
-      <td>2000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Restore strength when you transform.<br/>Lv1: 1 strength - Lv2: 2 strength<br/>Lv3: 3 strength - Lv4: 4 strength</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Cell Armor Type</td>
-      <td>6000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Can Waterwalk.<br/>Knock away 1 item from an adjacent target.</td>
-      <td class="leftText">Knock away 1 item from an adjacent target.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Taur Type</td>
-      <td>3000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Occasionally deal a critical hit.</td>
-      <td class="leftText">Occasionally deal a critical hit.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Dagyan Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Snacky Type</td>
-      <td>2500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Become afflicted with Slow status.</td>
-      <td class="leftText">Slow your own action speed by 1 stage (6 turns).</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Chicken Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">Lv1: 1 Floor - Lv2-4: 50 Turns</span><br/>Gain Swift 1 action speed.<br/>Lv1: Replenish 100 fullness, but attack and<br/>defense set to Chicken's stats.</td>
-      <td class="leftText">Lv1: Swift 1 action speed.<br/>Lv2: Doesn't learn a power.<br/>Lv3-4: Attack 2 times in a row.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Lamp Puffer Type</td>
-      <td>6000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Replenish fullness when facing a target.<br/>Lv1: Replenish 10 fullness.<br/>Lv2: Replenish 30 fullness.<br/>Lv3: Raise max fullness by 5.<br/>Lv4: Raise max fullness by 10.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Chintala Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Baby Mage Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Fire a magic bullet.<br/>Lv1: Switch positions - Lv2: Knockback<br/>Lv3: Paralyzed status - Lv4: Warp</td>
-      <td class="leftText">Fire a magic bullet.<br/>Lv1: Switch positions - Lv2: Knockback<br/>Lv3: Paralyzed status - Lv4: Warp</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Pot Fisher Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Defeated monsters drop pots more often.</td>
-      <td class="leftText">Defeated monsters drop pots more often.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Porky Type</td>
+      <td class="highlightCyan">Baby Tank</td>
       <td>4500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Throw a rock.<br/>Lv1: 2 tiles - Lv2: 5 tiles<br/>Lv3: 10 tiles - Lv4: 15 tiles</td>
-      <td class="leftText">Throw a rock.<br/>Lv1: 2 tiles - Lv2: 5 tiles<br/>Lv3: 10 tiles - Lv4: 15 tiles</td>
+      <td>450</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Shoot an Iron Arrow.<br/>Swift action speed.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Floor Dragon Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Move 2 tiles ahead.</td>
-      <td class="leftText">Move 2 tiles ahead.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Dragon Type</td>
-      <td>10000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Spew a flame.<br/>Lv1: 30 damage, straight line.<br/>Lv2: 40 damage, homing.<br/>Lv3: 50 damage, homing + piercing.<br/>Lv4: 60 damage, homing + piercing.</td>
-      <td class="leftText">Spew a flame.<br/>Lv1: 30 damage, straight line.<br/>Lv2: 40 damage, homing.<br/>Lv3: 50 damage, homing + piercing.<br/>Lv4: 60 damage, homing + piercing.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Nigiri Novice Type</td>
-      <td>2000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">30 Turns</span><br/>Defeated monsters might drop onigiri.<br/>Lv1: Nothing - Lv2: Onigiri<br/>Lv3: Large Onigiri - Lv4: Huge Onigiri</td>
-      <td class="leftText">Defeated monsters might drop onigiri.<br/>Lv1: Nothing - Lv2: Onigiri<br/>Lv3: Large Onigiri - Lv4: Huge Onigiri</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Glare Snake Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Minion Mouse Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Curse Girl Type</td>
-      <td>1500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Inventory items purified when you transform.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">King Tusker Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Fire a magic bullet.<br/>Lv1: Sealed status - Lv2: Slow status<br/>Lv3: Reduce HP to 1/4 - Lv4: Drop an item</td>
-      <td class="leftText">Fire a magic bullet.<br/>Lv1: Sealed status - Lv2: Slow status<br/>Lv3: Reduce HP to 1/4 - Lv4: Drop an item</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Explochin Type</td>
+      <td class="highlightCyan">Mini Tank</td>
+      <td>5000</td>
       <td>500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">5 Turns</span><br/>Explode after 5 turns. (Shiren takes damage)<br/>Lv1: Landmine<br/>Lv2-4: Big Landmine</td>
-      <td class="leftText">Explode after 5 turns. (No damage to Nfuu)<br/>Lv1: Landmine<br/>Lv2-4: Big Landmine</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Shoot a Silver Arrow.<br/>Swift action speed.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Pumphantasm Type</td>
-      <td>3000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Can Waterwalk and Wall Clip.</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td class="highlightCyan2">Cell Armor</td>
+      <td class="highlightGray">6500</td>
+      <td class="highlightGray">650</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Parry a shield.<br/>(Parrying only works 1 time per enemy monster)</td>
     </tr>
     <tr>
-      <td class="priceTableName">Punter Scarab Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Can push the stairs while moving.</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td class="highlightCyan2">Metal Armor</td>
+      <td class="highlightGray">7500</td>
+      <td class="highlightGray">750</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Parry a weapon or shield.<br/>(Parrying only works 1 time per enemy monster)</td>
     </tr>
     <tr>
-      <td class="priceTableName">Bat Kangaroo Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Fire a magic bullet in a straight line.<br/>Lv1: Enraged status - Lv2: Swift status<br/>Lv3-4: Enraged and Swift statuses</td>
-      <td class="leftText">Fire a magic bullet in a straight line.<br/>Lv1: Enraged status - Lv2: Swift status<br/>Lv3-4: Enraged and Swift statuses</td>
+      <td class="highlightCyan2">Steel Armor</td>
+      <td class="highlightGray">8500</td>
+      <td class="highlightGray">850</td>
+      <td rowspan="2" class="leftText highlightGray"><span class="purpleText">Special</span>: Parry a weapon, shield, or armband.<br/>(Parrying only works 1 time per enemy monster)</td>
     </tr>
     <tr>
-      <td class="priceTableName">Scurry Egg Type</td>
-      <td>3000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Lowers your attack power, Swift 1.<br/>Lv3-4: Warp when you receive damage.</td>
-      <td class="leftText">Swift 1 action speed.<br/>Lv3-4: Warp.</td>
+      <td class="highlightCyan2">Alloy Armor</td>
+      <td class="highlightGray">9500</td>
+      <td class="highlightGray">950</td>
     </tr>
     <tr>
-      <td class="priceTableName">Sheep Priest Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Halve an adjacent target's attack power.</td>
-      <td class="leftText">Halve an adjacent target's attack power.</td>
+      <td class="highlightCyan">Chintala</td>
+      <td>300</td>
+      <td>30</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: None.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Bored Kappa Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Throw an underfoot item.<br/>Lv1: 5 tiles - Lv2: 10 tiles<br/>Lv3-4: Piercing properties</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td class="highlightCyan">Mid Chintala</td>
+      <td>600</td>
+      <td>60</td>
     </tr>
     <tr>
-      <td class="priceTableName">Gawkulus Type</td>
-      <td>3500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Inflict Confused status. (10 turns)<br/>Lv1-2: Adjacent target.<br/>Lv3-4: All targets in the room.</td>
-      <td class="leftText">Inflict Confused status. (10 turns)<br/>Lv1-2: Adjacent target.<br/>Lv3-4: All targets in the room.</td>
+      <td class="highlightCyan">Big Chintala</td>
+      <td>1200</td>
+      <td>120</td>
     </tr>
     <tr>
-      <td class="priceTableName">Soldier Ant Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Can dig through walls.<br/>Lv3-4: Swift action speed.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Bow Boy Type</td>
-      <td>1500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Shoot arrows.<br/>Lv1: Wood Arrow - Lv2: Iron Arrow</td>
-      <td class="leftText">Shoot arrows.<br/>Lv1: Wood Arrow - Lv2: Iron Arrow</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Boy Tank Type</td>
-      <td>1500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Shoot arrows, Swift 1 action speed.<br/>Lv1: Iron Arrow - Lv2: Silver Arrow</td>
-      <td class="leftText">Shoot arrows.<br/>Lv1: Iron Arrow - Lv2: Silver Arrow</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Ghost Warrior Type</td>
-      <td>500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Lv1: Possess a different monster.<br/>Lv2: Reflect direct attacks.<br/>Lv3-4: Revive an adjacent ally if they collapse.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Doze Mage Type</td>
-      <td>4400</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Inflict Asleep status. (5 turns)</td>
-      <td class="leftText">Inflict Asleep status. (5 turns)</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Mamel Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.<br/>Lv4: Swift action speed.</td>
-      <td class="leftText">Lv4: Attack 2 times in a row.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Slime Type</td>
-      <td>500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Lower a target's attack power and defense.<br/>Lv1: 1/2 - Lv2: 1/4 - Lv3-4: Set to 0<br/>Lv2-4: Multiply when hit.</td>
-      <td class="leftText">Lower a target's attack power and defense.<br/>Lv1: 1/2 - Lv2: 1/4 - Lv3-4: Set to 0</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Mini Mixer Type</td>
+      <td class="highlightCyan">Giga Chintala</td>
       <td>2500</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Eat underfoot items and synthesize them.<br/>Lv1: 2 items - Lv2: 3 items<br/>Lv3: 4 items - Lv4: 5 items</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td>250</td>
     </tr>
     <tr>
-      <td class="priceTableName">Morabi Type</td>
+      <td class="highlightCyan2">Curse Girl</td>
+      <td class="highlightGray">1000</td>
+      <td class="highlightGray">100</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: None.<br/>Curses are removed from all inventory items except for<br/>those in jars when you transform.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Curse Sis</td>
+      <td class="highlightGray">1500</td>
+      <td class="highlightGray">150</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Curse Mom</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Curse Gran</td>
+      <td class="highlightGray">2500</td>
+      <td class="highlightGray">250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Dark Eye</td>
+      <td>500</td>
+      <td>50</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: None.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Hidden Eye</td>
+      <td>1500</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Shadow Eye</td>
+      <td>2500</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Fear Eye</td>
+      <td>3500</td>
+      <td>350</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Dark Owl</td>
+      <td class="highlightGray">5000</td>
+      <td class="highlightGray">500</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: None.<br/>Reveals the floor's layout, item and monster locations.<br/>Napping enemies won't wake from your footsteps.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Ghost Owl</td>
+      <td class="highlightGray">6000</td>
+      <td class="highlightGray">600</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Dusk Owl</td>
+      <td class="highlightGray">7000</td>
+      <td class="highlightGray">700</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Chaos Owl</td>
+      <td class="highlightGray">8000</td>
+      <td class="highlightGray">800</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Dead Soldier</td>
+      <td>3000</td>
+      <td>300</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: Take control of an enemy monster.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Dead Veteran</td>
+      <td>4000</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Dead General</td>
+      <td>5000</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Dead Shogun</td>
+      <td>6000</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Death Reaper</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+      <td rowspan="2" class="leftText highlightGray"><span class="purpleText">Special</span>: None.<br/>Swift action speed.<br/>Can move across water and air tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Hell Reaper</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Death Angel</td>
+      <td class="highlightGray">4000</td>
+      <td class="highlightGray">400</td>
+      <td rowspan="2" class="leftText highlightGray"><span class="purpleText">Special</span>: None.<br/>Swift action speed.<br/>Can move across water, air, and wall tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Death Master</td>
+      <td class="highlightGray">5000</td>
+      <td class="highlightGray">500</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Dragon</td>
+      <td>10000</td>
       <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Spew a flame (30 damage, straight line).<br/>Can move across water and air tiles.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Dark Slasher Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Dark Vassal Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">50 Turns</span><br/>Lv1-2: Nullify magic.<br/>Lv3: Dodge projectiles.<br/>Lv4: Heal 10 HP when hit by a projectile.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Trap Genin Type</td>
-      <td>1000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.</td>
-      <td class="leftText">Doesn't learn a power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Bad Froggo Type</td>
+      <td class="highlightCyan">Sky Dragon</td>
+      <td>20000</td>
       <td>2000</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Steal Gitan and warp, can pick up Gitan.</td>
-      <td class="leftText">Steal Gitan and warp, places it on the ground.</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Spew a flame (40 damage, same room).<br/>Can move across water and air tiles.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Bad Zalokleft Type</td>
-      <td>3600</td>
-      <td>1</td>
-      <td class="leftText"><span class="purpleText">1 Floor</span><br/>Steal an item and warp.<br/>Lv2-4: Multiply when hit.</td>
-      <td class="leftText">Steal an item and warp, places it on the ground.</td>
+      <td class="highlightCyan">Ark Dragon</td>
+      <td>30000</td>
+      <td>3000</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Spew a flame (50 damage, same floor).<br/>Can move across water and air tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Hell Dragon</td>
+      <td>40000</td>
+      <td>4000</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Spew a flame (60 damage, same floor).<br/>Can move across water and air tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Dremlas</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: Deal knockback + 5 damage.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Madremlas</td>
+      <td class="highlightGray">3500</td>
+      <td class="highlightGray">350</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Hardremlas</td>
+      <td class="highlightGray">4000</td>
+      <td class="highlightGray">400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Heavyremlas</td>
+      <td class="highlightGray">4500</td>
+      <td class="highlightGray">450</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Egg Thing</td>
+      <td>1000</td>
+      <td>100</td>
+      <td rowspan="2" class="leftText"><span class="purpleText">Special</span>: None.<br/>Attack power set to 1, Warp when you get hit.<br/>Swift action speed.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Running Egg</td>
+      <td>2500</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Flying Egg</td>
+      <td>4000</td>
+      <td>400</td>
+      <td rowspan="2" class="leftText"><span class="purpleText">Special</span>: Warp elsewhere on the floor.<br/>Attack power set to 1, Warp when you get hit.<br/>Swift action speed.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Hiding Egg</td>
+      <td>5500</td>
+      <td>550</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Evil Soldier</td>
+      <td class="highlightGray">5000</td>
+      <td class="highlightGray">500</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: None.<br/>Revive as a Dead Soldier type monster if you collapse.<br/>(Fully restores HP, strength, fullness, and status)</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Evil Veteran</td>
+      <td class="highlightGray">6000</td>
+      <td class="highlightGray">600</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Evil General</td>
+      <td class="highlightGray">7000</td>
+      <td class="highlightGray">700</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Evil Shogun</td>
+      <td class="highlightGray">8000</td>
+      <td class="highlightGray">800</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Field Bandit</td>
+      <td>1000</td>
+      <td>100</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: Throw Weeds (2 damage).<br/>Step on an item to turn it into Weeds.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Jar Bandit</td>
+      <td>1100</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Item Bandit</td>
+      <td>1200</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Trove Bandit</td>
+      <td>1300</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Firepuff</td>
+      <td class="highlightGray">1500</td>
+      <td class="highlightGray">150</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Puff Fire 1 tile ahead (10 damage, can fail).<br/>Can move across water and air tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Flamepuff</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Puff Fire 1 tile ahead (20 damage, can fail).<br/>Can move across water and air tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Blazepuff</td>
+      <td class="highlightGray">4500</td>
+      <td class="highlightGray">450</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Puff Fire 1 tile ahead (30 damage, can fail).<br/>Can move across water and air tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Infernopuff</td>
+      <td class="highlightGray">6000</td>
+      <td class="highlightGray">600</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Puff Fire 1 tile ahead (40 damage, can fail).<br/>Can move across water and air tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Floor Dragon</td>
+      <td>1000</td>
+      <td>100</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: Move 2 tiles ahead.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Dragon Head</td>
+      <td>1500</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Dirt Dragon</td>
+      <td>2000</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Earth Dragon</td>
+      <td>2500</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Fluffy Bunny</td>
+      <td class="highlightGray">2500</td>
+      <td class="highlightGray">250</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Restore 50 HP (Self and adjacent allies)</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Flying Fowl</td>
+      <td>1000</td>
+      <td>100</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: None.<br/>Can move across water and air tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Flutter Fowl</td>
+      <td>2000</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Hover Fowl</td>
+      <td>3000</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Jet Fowl</td>
+      <td>4000</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Fog Hermit</td>
+      <td class="highlightGray">1500</td>
+      <td class="highlightGray">150</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: Halve an adjacent target's HP.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Haze Hermit</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Mist Hermit</td>
+      <td class="highlightGray">2500</td>
+      <td class="highlightGray">250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Cloud Hermit</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Gather</td>
+      <td>1000</td>
+      <td>100</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: None.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Killer Gather</td>
+      <td>1500</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Hell Gather</td>
+      <td>2000</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Fallen Gather</td>
+      <td>2500</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Gaze</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: Inflict Confused status on an adjacent target.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Super Gaze</td>
+      <td class="highlightGray">4000</td>
+      <td class="highlightGray">400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Hyper Gaze</td>
+      <td class="highlightGray">5000</td>
+      <td class="highlightGray">500</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Ultra Gaze</td>
+      <td class="highlightGray">6000</td>
+      <td class="highlightGray">600</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Ghost Radish</td>
+      <td>1500</td>
+      <td>150</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Toss Poison Herb (10 tiles, straight line).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Daze Radish</td>
+      <td>3000</td>
+      <td>300</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Toss Herb of Confusion (10 tiles, straight line).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Sleep Radish</td>
+      <td>7500</td>
+      <td>750</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Toss Sleeping Herb (10 tiles, straight line).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Fear Radish</td>
+      <td>10000</td>
+      <td>1000</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Toss Kigny Seed (10 tiles, straight line).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Green Slime</td>
+      <td class="highlightGray">800</td>
+      <td class="highlightGray">80</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Reduces a target's attack and defense to 3/4.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Purple Slime</td>
+      <td class="highlightGray">900</td>
+      <td class="highlightGray">90</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Reduces a target's attack and defense to 1/2.<br/>Occasionally multiplies when attacked.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Grey Slime</td>
+      <td class="highlightGray">1000</td>
+      <td class="highlightGray">100</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Reduces a target's attack and defense to 1/4.<br/>Occasionally multiplies when attacked.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Red Slime</td>
+      <td class="highlightGray">1100</td>
+      <td class="highlightGray">110</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Sets a target's attack and defense to 1.<br/>Occasionally multiplies when attacked.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Half Warrior</td>
+      <td>5000</td>
+      <td>500</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: None.<br/>Only take 1 damage when attacked from the front.<br/>Receive 100 damage if attacked from the side or back.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Half Fighter</td>
+      <td>6000</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Half Master</td>
+      <td>7000</td>
+      <td>700</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Half Lord</td>
+      <td>8000</td>
+      <td>800</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Hen</td>
+      <td class="highlightGray">1500</td>
+      <td class="highlightGray">150</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: None.<br/>Attack set to 1, Defense set to 0, Swift action speed.<br/>(Replenishes 100 fullness instead of 10 when eaten)</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Master Hen</td>
+      <td class="highlightGray">1000</td>
+      <td class="highlightGray">100</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: None.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Great Hen</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+      <td rowspan="2" class="leftText highlightGray"><span class="purpleText">Special</span>: None.<br/>Swift action speed.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Miracle Hen</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Inferno</td>
+      <td>1000</td>
+      <td>100</td>
+      <td class="leftText"><span class="purpleText">Special</span>: None.<br/>Immune to projectiles that lack piercing properties.<br/>Immune to fire and explosion damage.<br/>Multiplies from explosions.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Ironhead</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: Attack 2 tiles ahead.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Chainhead</td>
+      <td class="highlightGray">2500</td>
+      <td class="highlightGray">250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Gigahead</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Deathhead</td>
+      <td class="highlightGray">3500</td>
+      <td class="highlightGray">350</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Kigny</td>
+      <td>1000</td>
+      <td>100</td>
+      <td class="leftText"><span class="purpleText">Special</span>: None.<br/>Gain Kigny status for a while, then return to normal.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Knifegator</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Attack 2 times in a row.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Sabregator</td>
+      <td class="highlightGray">4000</td>
+      <td class="highlightGray">400</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Attack 3 times in a row.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Bladegator</td>
+      <td class="highlightGray">6000</td>
+      <td class="highlightGray">600</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Attack 4 times in a row.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Swordgator</td>
+      <td class="highlightGray">8000</td>
+      <td class="highlightGray">800</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Attack 5 times in a row.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Leech Worm</td>
+      <td>1500</td>
+      <td>150</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: Reduces a target's attack power.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Leech Bug</td>
+      <td>2000</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Leech Fly</td>
+      <td>2500</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Leech Queen</td>
+      <td>3000</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Mamel</td>
+      <td class="highlightGray">300</td>
+      <td class="highlightGray">30</td>
+      <td rowspan="3" class="leftText highlightGray"><span class="purpleText">Special</span>: None.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Pit Mamel</td>
+      <td class="highlightGray">600</td>
+      <td class="highlightGray">60</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Cave Mamel</td>
+      <td class="highlightGray">1000</td>
+      <td class="highlightGray">100</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Gitan Mamel</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: None.<br/>Swift action speed.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Mecharoid</td>
+      <td>3000</td>
+      <td>300</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: Create a trap.<br/>Traps become visible, Monsters can be trapped.<br/>Swift action speed.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Steamroid</td>
+      <td>3500</td>
+      <td>350</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Electroid</td>
+      <td>4000</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Bioroid</td>
+      <td>4500</td>
+      <td>450</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Mini Robber</td>
+      <td class="highlightGray">400</td>
+      <td class="highlightGray">40</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: None.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Robber</td>
+      <td class="highlightGray">700</td>
+      <td class="highlightGray">70</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Robber Chief</td>
+      <td class="highlightGray">1000</td>
+      <td class="highlightGray">100</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Robber Lord</td>
+      <td class="highlightGray">1300</td>
+      <td class="highlightGray">130</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">N'Duba</td>
+      <td>1000</td>
+      <td>100</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: Gain Hidden status (20 turns).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">N'Dulu</td>
+      <td>1100</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">N'Bama</td>
+      <td>1200</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">N'Balun</td>
+      <td>1300</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Pacorepkin</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: None.<br/>Can move across water, air, and wall tiles.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Pacorepkina</td>
+      <td class="highlightGray">4000</td>
+      <td class="highlightGray">400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Pacorepking</td>
+      <td class="highlightGray">5000</td>
+      <td class="highlightGray">500</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Pacorepgod</td>
+      <td class="highlightGray">6000</td>
+      <td class="highlightGray">600</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Parthenos</td>
+      <td>1000</td>
+      <td>100</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: None.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Mistonos</td>
+      <td>2000</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Verginos</td>
+      <td>3000</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Goldinos</td>
+      <td>4000</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Pickpocket</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: Steal Gitan and warp.<br/>Can pick up Gitan on the ground.<br/>(Stealing only works 1 time per enemy monster)</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Thief</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Burglar</td>
+      <td class="highlightGray">4000</td>
+      <td class="highlightGray">400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Kleptomaniac</td>
+      <td class="highlightGray">5000</td>
+      <td class="highlightGray">500</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Piggy</td>
+      <td>2500</td>
+      <td>250</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Throw a rock (2 tile range, homing).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Piggo</td>
+      <td>3500</td>
+      <td>350</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Throw a rock (5 tile range, homing).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Piggora</td>
+      <td>4500</td>
+      <td>450</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Throw a rock (10 tile range, homing).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Piggaron</td>
+      <td>5500</td>
+      <td>550</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Throw a rock (15 tile range, homing).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Polygon Spin</td>
+      <td class="highlightGray">1500</td>
+      <td class="highlightGray">150</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Replenish 10 fullness when next to an enemy.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Polygon Jive</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Replenish 30 fullness when next to an enemy.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Polygon Song</td>
+      <td class="highlightGray">8000</td>
+      <td class="highlightGray">800</td>
+      <td rowspan="2" class="leftText highlightGray"><span class="purpleText">Special</span>: Raise max fullness by 10 when next to an enemy.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Polygon Jig</td>
+      <td class="highlightGray">9000</td>
+      <td class="highlightGray">900</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Popster Tank</td>
+      <td>2500</td>
+      <td>250</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Fire a cannon (20 damage).<br/>Slow action speed.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Dadster Tank</td>
+      <td>3500</td>
+      <td>350</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Fire a cannon (30 damage).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Oldster Tank</td>
+      <td>4500</td>
+      <td>450</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Fire a cannon (40 damage).<br/>Swift action speed.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Cranky Tank</td>
+      <td>5500</td>
+      <td>550</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Fire a cannon (50 damage).<br/>Swift action speed.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Rice Baby</td>
+      <td class="highlightGray">500</td>
+      <td class="highlightGray">50</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: None.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Rice Changer</td>
+      <td class="highlightGray">1000</td>
+      <td class="highlightGray">100</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Defeated enemy may drop a Riceball.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Rice Boss</td>
+      <td class="highlightGray">2500</td>
+      <td class="highlightGray">250</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Defeated enemy may drop a Big Riceball.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Rice Master</td>
+      <td class="highlightGray">5000</td>
+      <td class="highlightGray">500</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Defeated enemy may drop a Giant Riceball.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Schubell</td>
+      <td>1000</td>
+      <td>100</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Summon 1 level 1 monster.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Menbell</td>
+      <td>2000</td>
+      <td>200</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Summon 1 level 2 monster.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Bellthoven</td>
+      <td>3000</td>
+      <td>300</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Summon 1~3 level 3 monsters.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Showpin</td>
+      <td>4000</td>
+      <td>400</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Summon 1~3 level 4 monsters.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Skull Mage</td>
+      <td class="highlightGray">1000</td>
+      <td class="highlightGray">100</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Fires a magic bullet with a random effect.<br/>(Warp, Knockback, Switch positions, Swift)</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Skull Wizard</td>
+      <td class="highlightGray">1500</td>
+      <td class="highlightGray">150</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Fires a magic bullet with a random effect.<br/>(Presto, Confused, Postpone, 25 damage)</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Skull Wraith</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Fires a magic bullet with a random effect.<br/>(Bufu, Paralyzed, Slow, Sealed, Doppelganger, Level-1)</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Skull Demon</td>
+      <td class="highlightGray">2500</td>
+      <td class="highlightGray">250</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Fires a magic bullet with a random effect.<br/>(Bufu, Sleepy, Blinded, 40 damage, Level-3)</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Snaky</td>
+      <td>700</td>
+      <td>70</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: None.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Vipy</td>
+      <td>800</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Pythy</td>
+      <td>900</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Anacondy</td>
+      <td>1000</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Soldier Ant</td>
+      <td class="highlightGray">1000</td>
+      <td class="highlightGray">100</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: Dig out a wall tile.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Corporal Ant</td>
+      <td class="highlightGray">1500</td>
+      <td class="highlightGray">150</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Captain Ant</td>
+      <td class="highlightGray">2000</td>
+      <td class="highlightGray">200</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">General Ant</td>
+      <td class="highlightGray">2500</td>
+      <td class="highlightGray">250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Spike Bomb</td>
+      <td>1000</td>
+      <td>100</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: None.<br/>Explodes when HP &lt; 20%, then reverts to normal self.<br/>(Current HP is set to 1 after exploding)</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Spike Blast</td>
+      <td>1500</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Spike Fire</td>
+      <td>2000</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Spike Erupt</td>
+      <td>2500</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Taur</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+      <td rowspan="4" class="leftText highlightGray"><span class="purpleText">Special</span>: Occasionally deal a critical hit.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Minotaur</td>
+      <td class="highlightGray">4000</td>
+      <td class="highlightGray">400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Megataur</td>
+      <td class="highlightGray">5000</td>
+      <td class="highlightGray">500</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Gigataur</td>
+      <td class="highlightGray">6000</td>
+      <td class="highlightGray">600</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Thiefwalrus</td>
+      <td>2000</td>
+      <td>200</td>
+      <td class="leftText"><span class="purpleText">Special</span>: Steal an item and warp.<br/>Can pick up an item on the ground.<br/>(Stealing only works 1 time per enemy monster).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Greenwalrus</td>
+      <td>3000</td>
+      <td>300</td>
+      <td rowspan="3" class="leftText"><span class="purpleText">Special</span>: Steal an item and warp.<br/>Can pick up an item on the ground.<br/>Occasionally multiplies when attacked.<br/>(Stealing only works 1 time per enemy monster).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Ironwalrus</td>
+      <td>4000</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Roguewalrus</td>
+      <td>5000</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Tiger Uho</td>
+      <td class="highlightGray">3000</td>
+      <td class="highlightGray">300</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Toss an adjacent creature at an enemy (5 tiles).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Tiger Uhoho</td>
+      <td class="highlightGray">4500</td>
+      <td class="highlightGray">450</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Toss an adjacent creature at an enemy (10 tiles).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Tiger Uhon</td>
+      <td class="highlightGray">6000</td>
+      <td class="highlightGray">600</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Toss an adjacent creature at an enemy (15 tiles).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan2">Tiger Uboho</td>
+      <td class="highlightGray">7500</td>
+      <td class="highlightGray">750</td>
+      <td class="leftText highlightGray"><span class="purpleText">Special</span>: Toss an adjacent creature at an enemy (20 tiles).</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Twisty Hani</td>
+      <td>2000</td>
+      <td>200</td>
+      <td rowspan="4" class="leftText"><span class="purpleText">Special</span>: Decrease an adjacent target's level by 1.</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Floppy Hani</td>
+      <td>3000</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Droopy Hani</td>
+      <td>4000</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td class="highlightCyan">Wrinkly Hani</td>
+      <td>5000</td>
+      <td>500</td>
     </tr>
   </tbody>
 </table>

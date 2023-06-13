@@ -1,16 +1,14 @@
 ---
 title: "Monsters"
-metaTitle: "Monsters - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic Castle of the Desert."
+metaTitle: "Monsters - Shiren DS1 Wiki"
+metaDescription: "Complete list of monsters for Shiren the Wanderer DS1."
 ---
-
-<p><span class="redText">※ English names might change as the translation project progresses.</span></p>
 
 # Monster List
 
 <table id="monsterList" class="monsterPageTable">
   <tr>
-    <th colspan="8">Monster (Family)</th>
+    <th colspan="6">Monster (Family)</th>
   </tr>
   <tr>
     <th class="highlightNormal">1</th>
@@ -19,108 +17,86 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
     <th class="highlightNormal">4</th>
     <th class="highlightNormal">5</th>
     <th class="highlightNormal">6</th>
-    <th class="highlightNormal">7</th>
-    <th class="highlightNormal">8</th>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#ironhead">Ironhead</a></td>
-    <td class="highlightYellow2"><a href="#skull-mage">Skull Mage</a></td>
-    <td class="highlightYellow"><a href="#fog-hermit">Fog Hermit</a></td>
-    <td class="highlightYellow2"><a href="#schubell">Schubell</a></td>
-    <td class="highlightYellow"><a href="#baby-mage">Baby Mage</a></td>
-    <td class="highlightYellow2"><a href="#explochin">Explochin</a></td>
-    <td class="highlightYellow"><a href="#boy-tank">Boy Tank</a></td>
-    <td class="highlightYellow2"><a href="#bad-froggo">Bad Froggo</a></td>
+    <td class="highlightGrey"><a href="#air-devil">Air Devil</a></td>
+    <td><a href="#dragon">Dragon</a></td>
+    <td class="highlightGrey"><a href="#gather">Gather</a></td>
+    <td><a href="#leech-worm">Leech Worm</a></td>
+    <td class="highlightGrey"><a href="#popster-tank">Popster Tank</a></td>
+    <td><a href="#twisty-hani">Twisty Hani</a></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#vampire-baron">Vampire Baron</a></td>
-    <td class="highlightYellow2"><a href="#wily-tanuki">Wily Tanuki</a></td>
-    <td class="highlightYellow"><a href="#twisty-hani">Twisty Hani</a></td>
-    <td class="highlightYellow2"><a href="#rock-head">Rock Head</a></td>
-    <td class="highlightYellow"><a href="#pot-fisher">Pot Fisher</a></td>
-    <td class="highlightYellow2"><a href="#pumphantasm">Pumphantasm</a></td>
-    <td class="highlightYellow"><a href="#pop-tank">Pop Tank</a></td>
-    <td class="highlightYellow2"><a href="#bad-zalokleft">Bad Zalokleft</a></td>
+    <td class="highlightGrey"><a href="#baby-tengu">Baby Tengu</a></td>
+    <td><a href="#dremlas">Dremlas</a></td>
+    <td class="highlightGrey"><a href="#gaze">Gaze</a></td>
+    <td><a href="#mamel">Mamel</a></td>
+    <td class="highlightGrey"><a href="#rice-baby">Rice Baby</a></td>
+    <td><a href="#shop-group">Shop Group</a></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#shady-wisp">Shady Wisp</a></td>
-    <td class="highlightYellow2"><a href="#impact-boar">Impact Boar</a></td>
-    <td class="highlightYellow"><a href="#gazer">Gazer</a></td>
-    <td class="highlightYellow2"><a href="#sip-leech">Sip Leech</a></td>
-    <td class="highlightYellow"><a href="#porky">Porky</a></td>
-    <td class="highlightYellow2"><a href="#punter-scarab">Punter Scarab</a></td>
-    <td class="highlightYellow"><a href="#doze-mage">Doze Mage</a></td>
-    <td class="highlightYellow2"><a href="#other-group">Other Group</a></td>
+    <td class="highlightGrey"><a href="#bowboy">Bowboy</a></td>
+    <td><a href="#egg-thing">Egg Thing</a></td>
+    <td class="highlightGrey"><a href="#ghost-radish">Ghost Radish</a></td>
+    <td><a href="#mecharoid">Mecharoid</a></td>
+    <td class="highlightGrey"><a href="#schubell">Schubell</a></td>
+    <td><a href="#boss-group">Boss Group</a></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#squid-king">Squid King</a></td>
-    <td class="highlightYellow2"><a href="#teaser-monkey">Teaser Monkey</a></td>
-    <td class="highlightYellow"><a href="#alert-fly">Alert Fly</a></td>
-    <td class="highlightYellow2"><a href="#cell-armor">Cell Armor</a></td>
-    <td class="highlightYellow"><a href="#floor-dragon">Floor Dragon</a></td>
-    <td class="highlightYellow2"><a href="#bat-kangaroo">Bat Kangaroo</a></td>
-    <td class="highlightYellow"><a href="#mamel">Mamel</a></td>
-    <td class="highlightYellow2"><a href="#boss-group">Boss Group</a></td>
+    <td class="highlightGrey"><a href="#cell-armor">Cell Armor</a></td>
+    <td><a href="#evil-soldier">Evil Soldier</a></td>
+    <td class="highlightGrey"><a href="#green-slime">Green Slime</a></td>
+    <td><a href="#mini-robber">Mini Robber</a></td>
+    <td class="highlightGrey"><a href="#skull-mage">Skull Mage</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#dozy-genie">Dozy Genie</a></td>
-    <td class="highlightYellow2"><a href="#crow-tengu">Crow Tengu</a></td>
-    <td class="highlightYellow"><a href="#goggler">Goggler</a></td>
-    <td class="highlightYellow2"><a href="#taur">Taur</a></td>
-    <td class="highlightYellow"><a href="#dragon">Dragon</a></td>
-    <td class="highlightYellow2"><a href="#scurry-egg">Scurry Egg</a></td>
-    <td class="highlightYellow"><a href="#slime">Slime</a></td>
-    <td class="highlightYellow2"></td>
+    <td class="highlightGrey"><a href="#chintala">Chintala</a></td>
+    <td><a href="#field-bandit">Field Bandit</a></td>
+    <td class="highlightGrey"><a href="#half-warrior">Half Warrior</a></td>
+    <td><a href="#n'duba">N'Duba</a></td>
+    <td class="highlightGrey"><a href="#snaky">Snaky</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#healer-rabbit">Healer Rabbit</a></td>
-    <td class="highlightYellow2"><a href="#daze-hermit">Daze Hermit</a></td>
-    <td class="highlightYellow"><a href="#lobber-beetle">Lobber Beetle</a></td>
-    <td class="highlightYellow2"><a href="#dagyan">Dagyan</a></td>
-    <td class="highlightYellow"><a href="#nigiri-novice">Nigiri Novice</a></td>
-    <td class="highlightYellow2"><a href="#sheep-priest">Sheep Priest</a></td>
-    <td class="highlightYellow"><a href="#mini-mixer">Mini Mixer</a></td>
-    <td class="highlightYellow2"></td>
+    <td class="highlightGrey"><a href="#curse-girl">Curse Girl</a></td>
+    <td><a href="#firepuff">Firepuff</a></td>
+    <td class="highlightGrey"><a href="#hen">Hen</a></td>
+    <td><a href="#pacorepkin">Pacorepkin</a></td>
+    <td class="highlightGrey"><a href="#soldier-ant">Soldier Ant</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#pitcher-plant">Pitcher Plant</a></td>
-    <td class="highlightYellow2"><a href="#demon-warrior">Demon Warrior</a></td>
-    <td class="highlightYellow"><a href="#zen-guru">Zen Guru</a></td>
-    <td class="highlightYellow2"><a href="#snacky">Snacky</a></td>
-    <td class="highlightYellow"><a href="#glare-snake">Glare Snake</a></td>
-    <td class="highlightYellow2"><a href="#bored-kappa">Bored Kappa</a></td>
-    <td class="highlightYellow"><a href="#morabi">Morabi</a></td>
-    <td class="highlightYellow2"></td>
+    <td class="highlightGrey"><a href="#dark-eye">Dark Eye</a></td>
+    <td><a href="#floor-dragon">Floor Dragon</a></td>
+    <td class="highlightGrey"><a href="#inferno">Inferno</a></td>
+    <td><a href="#parthenos">Parthenos</a></td>
+    <td class="highlightGrey"><a href="#spike-bomb">Spike Bomb</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#wolf-droid">Wolf Droid</a></td>
-    <td class="highlightYellow2"><a href="#ghost-warrior">Ghost Warrior</a></td>
-    <td class="highlightYellow"><a href="#samuraidon">Samuraidon</a></td>
-    <td class="highlightYellow2"><a href="#chicken">Chicken</a></td>
-    <td class="highlightYellow"><a href="#minion-mouse">Minion Mouse</a></td>
-    <td class="highlightYellow2"><a href="#gawkulus">Gawkulus</a></td>
-    <td class="highlightYellow"><a href="#dark-slasher">Dark Slasher</a></td>
-    <td class="highlightYellow2"></td>
+    <td class="highlightGrey"><a href="#dark-owl">Dark Owl</a></td>
+    <td><a href="#fluffy-bunny">Fluffy Bunny</a></td>
+    <td class="highlightGrey"><a href="#ironhead">Ironhead</a></td>
+    <td><a href="#pickpocket">Pickpocket</a></td>
+    <td class="highlightGrey"><a href="#taur">Taur</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#ether-devil">Ether Devil</a></td>
-    <td class="highlightYellow2"><a href="#gyaza">Gyaza</a></td>
-    <td class="highlightYellow"><a href="#death-reaper">Death Reaper</a></td>
-    <td class="highlightYellow2"><a href="#lamp-puffer">Lamp Puffer</a></td>
-    <td class="highlightYellow"><a href="#curse-girl">Curse Girl</a></td>
-    <td class="highlightYellow2"><a href="#soldier-ant">Soldier Ant</a></td>
-    <td class="highlightYellow"><a href="#dark-vassal">Dark Vassal</a></td>
-    <td class="highlightYellow2"></td>
+    <td class="highlightGrey"><a href="#dead-soldier">Dead Soldier</a></td>
+    <td><a href="#flying-fowl">Flying Fowl</a></td>
+    <td class="highlightGrey"><a href="#kigny">Kigny</a></td>
+    <td><a href="#piggy">Piggy</a></td>
+    <td class="highlightGrey"><a href="#thiefwalrus">Thiefwalrus</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#mutaikon">Mutaikon</a></td>
-    <td class="highlightYellow2"><a href="#gyadon">Gyadon</a></td>
-    <td class="highlightYellow"><a href="#jungarian">Jungarian</a></td>
-    <td class="highlightYellow2"><a href="#chintala">Chintala</a></td>
-    <td class="highlightYellow"><a href="#king-tusker">King Tusker</a></td>
-    <td class="highlightYellow2"><a href="#bow-boy">Bow Boy</a></td>
-    <td class="highlightYellow"><a href="#trap-genin">Trap Genin</a></td>
-    <td class="highlightYellow2"></td>
+    <td class="highlightGrey"><a href="#death-reaper">Death Reaper</a></td>
+    <td><a href="#fog-hermit">Fog Hermit</a></td>
+    <td class="highlightGrey"><a href="#knifegator">Knifegator</a></td>
+    <td><a href="#polygon-spin">Polygon Spin</a></td>
+    <td class="highlightGrey"><a href="#tiger-uho">Tiger Uho</a></td>
+    <td></td>
   </tr>
 </table>
 
@@ -138,20 +114,18 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
     - Swift 1 = Double speed, 1 attack.
     - Swift 2 = Double speed, 2 attacks.
     - Prism = Special attack can be blocked by a Prism Shield.
-    - Magic = Special attack can be blocked by an Echo Shield.
     - Theft = Special attack can be blocked by a Walrus Shield.
-    - Weapon = Water Pot reduces the monster's attack power.
-    - Drain = Weak to ド (Drain Buster) rune.
-    - Dragon = Weak to 竜 (Dragon Killer) rune.
-    - Cyclops = Weak to 目 (Cyclops Killer) rune.
-    - Ghost = Weak to 仏 (Ghost Sickle) rune, HP restoring items deal damage.
-    - Bomb = Weak to 月 (Crescent Arm) rune.
-    - Floating = Weak to 空 (Sky Splitter) rune, can move across water tiles.
+    - Drain = Weak to Drain Buster.
+    - Dragon = Weak to Dragonkiller.
+    - One-Eyed = Weak to Cyclops Killer.
+    - Ghost = Weak to Sickle Slayer, HP restoring items deal damage.
+    - Exploding = Weak to Crescent Arm.
+    - Floating = Weak to Air Slayer, can move across water tiles.
 
-### Ironhead
+### Air Devil
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/ironhead.png"/>
+  <img src="../images/monsters/air_devil.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -167,1177 +141,117 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Ironhead</td>
-    <td>70</td>
-    <td>51</td>
-    <td>48</td>
-    <td>1500</td>
-    <td rowspan="4">Cyclops</td>
-    <td rowspan="4">Attacks 2 tiles ahead.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Chainhead</td>
-    <td>68</td>
-    <td>67</td>
-    <td>60</td>
-    <td>4000</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Gigahead</td>
-    <td>90</td>
-    <td>70</td>
-    <td>65</td>
-    <td>4400</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Doomhead</td>
-    <td>95</td>
-    <td>77</td>
-    <td>72</td>
-    <td>6000</td>
-  </tr>
-</table>
-
-### Vampire Baron
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/vampire_baron.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Vampire Baron</td>
-    <td>39</td>
-    <td>16</td>
-    <td>26</td>
-    <td>52</td>
-    <td rowspan="4">Ghost</td>
-    <td rowspan="4">Uses the special attack of an adjacent monster.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Vampire Duke</td>
-    <td>55</td>
-    <td>38</td>
-    <td>45</td>
-    <td>400</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Vampire Tyrant</td>
-    <td>90</td>
-    <td>70</td>
-    <td>66</td>
-    <td>4600</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Vampire Lord</td>
-    <td>99</td>
-    <td>99</td>
-    <td>66</td>
-    <td>6660</td>
-  </tr>
-</table>
-
-### Shady Wisp
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/shady_wisp.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Shady Wisp</td>
-    <td>14</td>
-    <td>7</td>
-    <td>3</td>
-    <td>6</td>
-    <td rowspan="4">Floating<br/>Ghost</td>
-    <td rowspan="4">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Fearful Wisp</td>
-    <td>34</td>
-    <td>18</td>
-    <td>24</td>
-    <td>40</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Wailing Wisp</td>
-    <td>60</td>
-    <td>23</td>
-    <td>29</td>
-    <td>70</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Vengeful Wisp</td>
-    <td>72</td>
-    <td>53</td>
-    <td>44</td>
-    <td>2400</td>
-  </tr>
-</table>
-
-### Squid King
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/squid_king.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Squid King</td>
-    <td>69</td>
-    <td>30</td>
-    <td>35</td>
-    <td>160</td>
-    <td rowspan="4">Prism</td>
-    <td rowspan="2">Blinds an adjacent target.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Squid Lord</td>
-    <td>80</td>
-    <td>60</td>
-    <td>55</td>
-    <td>3500</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Squid Emperor</td>
-    <td>84</td>
-    <td>62</td>
-    <td>56</td>
-    <td>4000</td>
-    <td rowspan="2">Blinds all targets in the room.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Squid Kaiser</td>
-    <td>92</td>
-    <td>65</td>
-    <td>57</td>
-    <td>4500</td>
-  </tr>
-</table>
-
-### Dozy Genie
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/dozy_genie.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dozy Genie</td>
-    <td>20</td>
-    <td>4</td>
+    <td>Air Devil</td>
     <td>50</td>
-    <td>23</td>
-    <td rowspan="4">-</td>
-    <td>Occasionally falls asleep for 5 turns in hallways.</td>
+    <td>13</td>
+    <td>8</td>
+    <td>30</td>
+    <td rowspan="4">Ghost<br/>Floating</td>
+    <td rowspan="4">Invisible, reflects magic bullets.<br/>Unpredictable movement.<br/>Becomes Sealed when hit by Herb of Sight.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Groggy Genie</td>
-    <td>33</td>
+    <td>Wraith Devil</td>
+    <td>50</td>
+    <td>19</td>
     <td>10</td>
-    <td>50</td>
-    <td>40</td>
-    <td>Same as Dozy Genie, but 10 turns.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Sleepy Genie</td>
-    <td>50</td>
-    <td>20</td>
-    <td>80</td>
-    <td>1500</td>
-    <td>Same as Dozy Genie, but 15 turns.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Drowsy Genie</td>
-    <td>56</td>
-    <td>30</td>
-    <td>85</td>
-    <td>3200</td>
-    <td>Same as Dozy Genie, but 20 turns.</td>
-  </tr>
-</table>
-
-### Healer Rabbit
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/healer_rabbit.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Healer Rabbit</td>
-    <td>30</td>
-    <td>17</td>
-    <td>30</td>
-    <td>35</td>
-    <td rowspan="2">-</td>
-    <td>Restores 50 HP to an adjacent monster.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Life Rabbit</td>
-    <td>90</td>
-    <td>60</td>
-    <td>46</td>
-    <td>85</td>
-    <td>Same as Healer Rabbit, but also warps to hurt monsters.</td>
-  </tr>
-</table>
-
-### Pitcher Plant
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/pitcher_plant.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Pitcher Plant</td>
-    <td>20</td>
-    <td>6</td>
-    <td>18</td>
-    <td>10</td>
-    <td rowspan="4">-</td>
-    <td>Eats and transforms a thrown item into grass.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Identify Plant</td>
-    <td>61</td>
-    <td>35</td>
-    <td>38</td>
-    <td>500</td>
-    <td>Eats and identifies a thrown item.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Blessing Plant</td>
-    <td>63</td>
-    <td>35</td>
-    <td>39</td>
-    <td>500</td>
-    <td>Eats and blesses a thrown item.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Upgrade Plant</td>
-    <td>82</td>
-    <td>40</td>
-    <td>40</td>
-    <td>1000</td>
-    <td>Eats and upgrades a thrown item.<br/>Weapon or shield upgrade value, staff uses, or arrow count = +5.<br/>Repairs a cracked bracelet, turns any scroll into a Blank Scroll.<br/>An onigiri item is upgraded to a bigger onigiri.</td>
-  </tr>
-</table>
-
-### Wolf Droid
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/wolf_droid.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Wolf Droid</td>
-    <td>30</td>
-    <td>15</td>
-    <td>20</td>
-    <td>35</td>
-    <td rowspan="4">Bomb</td>
-    <td>Lobs bombs that home in on a target within 2 tiles, dealing 10 damage.<br/>Bombs damage other characters and destroy wall tiles in a 1 tile radius.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Gorilla Bot</td>
-    <td>35</td>
-    <td>20</td>
-    <td>22</td>
-    <td>50</td>
-    <td>Same as Wolf Droid, but range of 3 tiles and 15 damage.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Bear Borg</td>
-    <td>85</td>
-    <td>65</td>
-    <td>62</td>
-    <td>3600</td>
-    <td>Same as Wolf Droid, but range of 5 tiles and 20 damage.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Gao Tiger</td>
-    <td>95</td>
-    <td>70</td>
-    <td>65</td>
-    <td>4400</td>
-    <td>Same as Wolf Droid, but range of 6 tiles and 25 damage.</td>
-  </tr>
-</table>
-
-### Ether Devil
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/ether_devil.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Ether Devil</td>
-    <td>26</td>
-    <td>18</td>
-    <td>26</td>
-    <td>27</td>
-    <td rowspan="2">Floating<br/>Ghost</td>
-    <td>Invisible, and unpredictable movement.<br/>Nullifies magic bullets.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Phantom Devil</td>
-    <td>79</td>
-    <td>55</td>
-    <td>55</td>
-    <td>1800</td>
-    <td>Same as Ether Devil, but reflects magic bullets in a straight line.</td>
+    <td>150</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Mirage Devil</td>
-    <td>95</td>
-    <td>70</td>
-    <td>65</td>
-    <td>3300</td>
-    <td rowspan="2">Floating<br/>Ghost<br/>Swift 2</td>
-    <td rowspan="2">Same as Ether Devil, but reflects magic bullets in a random direction.<br/>Double speed (2 attacks).</td>
+    <td>50</td>
+    <td>25</td>
+    <td>14</td>
+    <td>400</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Astral Devil</td>
-    <td>100</td>
-    <td>85</td>
-    <td>75</td>
-    <td>4200</td>
-  </tr>
-</table>
-
-### Mutaikon
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/mutaikon.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Mutaikon</td>
-    <td>65</td>
-    <td>41</td>
-    <td>47</td>
-    <td>1800</td>
-    <td rowspan="4">-</td>
-    <td>Throws Poison Grass 2 tiles ahead.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Dazikon</td>
-    <td>70</td>
-    <td>43</td>
-    <td>52</td>
-    <td>2000</td>
-    <td>Throws Dizzy Grass within a 2 tile radius,<br/>or Poison Grass if Shiren is already Confused.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Dozikon</td>
-    <td>75</td>
-    <td>45</td>
-    <td>53</td>
-    <td>3000</td>
-    <td>Throws Sleep Grass within a 3 tile radius,<br/>or Poison Grass if Shiren is already Asleep.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Mesmerikon</td>
-    <td>80</td>
     <td>50</td>
-    <td>58</td>
-    <td>3500</td>
-    <td>Throws Sleep Grass within a 3 tile radius,<br/>or Poison Grass if Shiren is already Asleep.</td>
-  </tr>
-</table>
-
-### Skull Mage
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/skull_mage.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Skull Mage</td>
-    <td>25</td>
-    <td>15</td>
-    <td>15</td>
-    <td>20</td>
-    <td rowspan="4">Floating<br/>Ghost<br/>Magic</td>
-    <td>Fires a magic bullet with a random effect in a line.<br/>(Warp, Knockback, Switch positions, Swift)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Skull Wizard</td>
-    <td>40</td>
-    <td>25</td>
-    <td>40</td>
-    <td>280</td>
-    <td>Fires a magic bullet with a random effect in a line.<br/>(Presto, Confused, Transient, 25 damage)</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Skull Wraith</td>
-    <td>75</td>
-    <td>43</td>
-    <td>47</td>
-    <td>2500</td>
-    <td>Fires a magic bullet with a random effect in a line.<br/>(Onigiri, Paralyzed, Confused, Slow, Sealed, Level-1)</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Skull Demon</td>
-    <td>80</td>
-    <td>52</td>
-    <td>60</td>
-    <td>3200</td>
-    <td>Fires a magic bullet with a random effect in a line.<br/>(Onigiri, Asleep, Blind, 40 damage, Level-3)</td>
-  </tr>
-</table>
-
-### Wily Tanuki
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/wily_tanuki.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Wily Tanuki</td>
-    <td>16</td>
-    <td>20</td>
-    <td>15</td>
-    <td>5</td>
-    <td rowspan="4">-</td>
-    <td rowspan="4">Disguised as an item, attacks if you try to use it.<br/>Item's name changes to the monster's name if you change floors.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Tricky Tanuki</td>
-    <td>52</td>
-    <td>55</td>
-    <td>42</td>
-    <td>300</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Crafty Tanuki</td>
-    <td>95</td>
-    <td>75</td>
-    <td>50</td>
-    <td>1500</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Shifty Tanuki</td>
-    <td>110</td>
-    <td>77</td>
-    <td>55</td>
-    <td>2000</td>
-  </tr>
-</table>
-
-### Impact Boar
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/impact_boar.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Impact Boar</td>
-    <td>15</td>
-    <td>7</td>
-    <td>12</td>
-    <td>8</td>
-    <td rowspan="4">Prism</td>
-    <td rowspan="4">Lunge deals 5 damage and 5 tiles of knockback, and<br/>makes Shiren trip and drop items if he isn't against a wall.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Crash Boar</td>
-    <td>64</td>
-    <td>45</td>
-    <td>42</td>
-    <td>800</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Wrecker Boar</td>
-    <td>70</td>
-    <td>48</td>
-    <td>48</td>
-    <td>1900</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Quake Boar</td>
-    <td>76</td>
-    <td>53</td>
-    <td>53</td>
-    <td>2200</td>
-  </tr>
-</table>
-
-### Teaser Monkey
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/teaser_monkey.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Teaser Monkey</td>
-    <td>12</td>
-    <td>5</td>
-    <td>12</td>
-    <td>10</td>
-    <td rowspan="4">-</td>
-    <td rowspan="4">Moves away from Shiren while inside rooms.<br/>Repeatedly approaches and backs away in hallways.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Derider Monkey</td>
-    <td>68</td>
-    <td>43</td>
-    <td>49</td>
-    <td>1250</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Mocker Monkey</td>
-    <td>72</td>
-    <td>49</td>
-    <td>52</td>
-    <td>1550</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Scorner Monkey</td>
-    <td>80</td>
-    <td>55</td>
-    <td>58</td>
-    <td>1850</td>
-  </tr>
-</table>
-
-### Crow Tengu
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/crow_tengu.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Crow Tengu</td>
-    <td>50</td>
-    <td>15</td>
-    <td>20</td>
-    <td>100</td>
-    <td rowspan="4">-</td>
-    <td rowspan="4">Disguised as a monster from the floor's monster table.<br/>It can't use abilities of the monster it's disguised as.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Falcon Tengu</td>
-    <td>60</td>
-    <td>15</td>
-    <td>25</td>
-    <td>500</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Eagle Tengu</td>
-    <td>70</td>
-    <td>15</td>
-    <td>30</td>
-    <td>600</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Phoenix Tengu</td>
-    <td>80</td>
-    <td>15</td>
-    <td>35</td>
-    <td>800</td>
-  </tr>
-</table>
-
-### Daze Hermit
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/daze_hermit.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Daze Hermit</td>
-    <td>33</td>
-    <td>16</td>
-    <td>24</td>
-    <td>46</td>
-    <td rowspan="2">Prism</td>
-    <td>Inflicts Inaccurate on an adjacent target.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Scold Hermit</td>
-    <td>32</td>
-    <td>18</td>
-    <td>32</td>
-    <td>46</td>
-    <td>Inflicts Asleep on an adjacent target.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Spry Hermit</td>
-    <td>60</td>
-    <td>46</td>
-    <td>51</td>
-    <td>2000</td>
-    <td>-</td>
-    <td>Evades all direct attacks.<br/>必 (Homing Blade) rune and Spark Sword's critical hit are effective.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Ramble Hermit</td>
-    <td>75</td>
-    <td>54</td>
-    <td>58</td>
-    <td>2300</td>
-    <td>Prism</td>
-    <td>Inflicts Confused on an adjacent target.</td>
-  </tr>
-</table>
-
-### Demon Warrior
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/demon_warrior.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Demon Warrior</td>
-    <td>40</td>
-    <td>18</td>
-    <td>22</td>
-    <td>47</td>
-    <td rowspan="4">Weapon</td>
-    <td>Ghost Warrior appears 3 turns after it's defeated.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Hannya Warrior</td>
-    <td>65</td>
-    <td>60</td>
-    <td>50</td>
-    <td>1300</td>
-    <td>Ghost Hannya appears 3 turns after it's defeated.<br/>Reflects direct attacks.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Shogun</td>
-    <td>70</td>
-    <td>60</td>
-    <td>60</td>
-    <td>1350</td>
-    <td>Ghost Shogun appears 3 turns after it's defeated.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Daishogun</td>
-    <td>80</td>
-    <td>70</td>
-    <td>60</td>
-    <td>2250</td>
-    <td>Ghost Daishogun appears 3 turns after it's defeated.</td>
-  </tr>
-</table>
-
-### Ghost Warrior
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/ghost_warrior.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Ghost Warrior</td>
-    <td>4</td>
-    <td>0</td>
-    <td>250</td>
-    <td>1</td>
-    <td rowspan="4">Ghost</td>
-    <td>Possesses a monster and raises their level by 1.<br/>Takes 1 damage from direct attacks.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Ghost Hannya</td>
-    <td>4</td>
-    <td>12</td>
-    <td>250</td>
-    <td>1</td>
-    <td>Approaches Shiren, and reflects direct attacks.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Ghost Shogun</td>
-    <td>4</td>
-    <td>0</td>
-    <td>250</td>
-    <td>1</td>
-    <td rowspan="2">Follows an enemy and revives them if they collapse.<br/>Takes 1 damage from direct attacks.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Ghost Daishogun</td>
-    <td>4</td>
-    <td>36</td>
-    <td>250</td>
-    <td>1</td>
-  </tr>
-</table>
-
-### Gyaza
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/gyaza.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Gyaza</td>
-    <td>50</td>
-    <td>20</td>
-    <td>34</td>
-    <td>180</td>
-    <td rowspan="4">-</td>
-    <td rowspan="4">Converts all attacks and effects other than<br/>direct attacks or explosions into 2 damage.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Killer Gyaza</td>
-    <td>60</td>
-    <td>40</td>
-    <td>55</td>
-    <td>5000</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hell Gyaza</td>
-    <td>81</td>
-    <td>65</td>
-    <td>65</td>
-    <td>6100</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Doom Gyaza</td>
-    <td>91</td>
-    <td>71</td>
-    <td>71</td>
-    <td>7200</td>
-  </tr>
-</table>
-
-### Gyadon
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/gyadon.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Gyadon</td>
-    <td>60</td>
     <td>31</td>
-    <td>39</td>
-    <td>165</td>
-    <td rowspan="4">Floating<br/>Theft<br/>Prism</td>
-    <td>Reduces a staff's remaining uses to 0.<br/>(Can't peck staves that are inside pots)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Gyairas</td>
-    <td>65</td>
-    <td>32</td>
-    <td>40</td>
-    <td>165</td>
-    <td>Reduces a pot's capacity to 0.<br/>All items in the pot vanish.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Gyandora</td>
-    <td>80</td>
-    <td>77</td>
-    <td>61</td>
-    <td>4200</td>
-    <td>Erases 1 rune from a weapon or shield.<br/>(Can peck equipped items as well)</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Gyandoron</td>
-    <td>90</td>
-    <td>82</td>
-    <td>65</td>
-    <td>4800</td>
-    <td>Turns a grass or seed item into Weeds.</td>
-  </tr>
-</table>
-
-### Fog Hermit
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/fog_hermit.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Fog Hermit</td>
-    <td>13</td>
-    <td>6</td>
-    <td>8</td>
-    <td>8</td>
-    <td rowspan="4">Drain<br/>Magic<br/>Prism</td>
-    <td>Casts a spell when adjacent that stops HP regeneration for 10 turns.<br/>If you get hit by the spell again, it changes to HP Drain.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Haze Hermit</td>
-    <td>56</td>
-    <td>30</td>
-    <td>30</td>
-    <td>350</td>
-    <td>Same as Fog Hermit, but casts the spell in a straight line, and lasts 20 turns.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Mist Hermit</td>
-    <td>80</td>
-    <td>60</td>
-    <td>55</td>
-    <td>2000</td>
-    <td>Same as Fog Hermit, but casts the spell in the same room, and lasts 30 turns.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Cloud Hermit</td>
-    <td>92</td>
-    <td>72</td>
-    <td>65</td>
-    <td>2800</td>
-    <td>Same as Fog Hermit, but casts the spell from anywhere, and lasts 40 turns.</td>
-  </tr>
-</table>
-
-### Twisty Hani
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/twisty_hani.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Twisty Hani</td>
-    <td>25</td>
     <td>18</td>
-    <td>15</td>
-    <td>35</td>
-    <td rowspan="4">Drain<br/>Prism</td>
-    <td rowspan="4">Decreases an adjacent target's level by 1.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Floppy Hani</td>
-    <td>40</td>
-    <td>34</td>
-    <td>38</td>
-    <td>1200</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Droopy Hani</td>
-    <td>80</td>
-    <td>80</td>
-    <td>75</td>
-    <td>4000</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Wrinkly Hani</td>
-    <td>20</td>
-    <td>96</td>
-    <td>150</td>
-    <td>6000</td>
+    <td>700</td>
   </tr>
 </table>
 
-### Gazer
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Air Devil</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Wraith Devil</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Mirage Devil</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Astral Devil</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Baby Tengu
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/gazer.png"/>
+  <img src="../images/monsters/baby_tengu.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -1353,584 +267,240 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Gazer</td>
-    <td>19</td>
+    <td>Baby Tengu</td>
     <td>10</td>
-    <td>17</td>
-    <td>20</td>
-    <td rowspan="4">Cyclops<br/>Magic<br/>Prism</td>
-    <td rowspan="3">Hypnotizes an adjacent target.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Super Gazer</td>
-    <td>75</td>
-    <td>39</td>
-    <td>29</td>
-    <td>600</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hyper Gazer</td>
-    <td>100</td>
-    <td>80</td>
-    <td>48</td>
-    <td>4000</td>
-  </tr>
-  <tr>
     <td>4</td>
-    <td>Ultra Gazer</td>
-    <td>120</td>
-    <td>85</td>
-    <td>54</td>
-    <td>4700</td>
-    <td>Same as Gazer, but always drops 5000 Gitan.</td>
-  </tr>
-</table>
-
-### Alert Fly
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/alert_fly.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Alert Fly</td>
-    <td>34</td>
-    <td>17</td>
-    <td>20</td>
-    <td>48</td>
-    <td rowspan="4">Floating</td>
-    <td rowspan="4">Wakes up all monsters on the floor if you move next to it.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Fink Fly</td>
-    <td>56</td>
-    <td>35</td>
-    <td>40</td>
-    <td>450</td>
-  </tr>
-  <tr>
     <td>3</td>
-    <td>Nark Fly</td>
-    <td>60</td>
-    <td>60</td>
-    <td>50</td>
-    <td>850</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Snitch Fly</td>
-    <td>70</td>
-    <td>65</td>
-    <td>60</td>
-    <td>1500</td>
-  </tr>
-</table>
-
-### Goggler
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/goggler.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Goggler</td>
-    <td>35</td>
-    <td>20</td>
-    <td>15</td>
-    <td>30</td>
-    <td rowspan="4">-</td>
-    <td rowspan="4">Doesn't approach unless you step within 2 tiles of it.<br/>Lv2~4 can't be found naturally.</td>
+    <td>5</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Disguises itself as a different monster.<br/>(It can't use that monster's special attack)</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Worth Goggler</td>
-    <td>66</td>
-    <td>51</td>
-    <td>51</td>
-    <td>2000</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Glenn Goggler</td>
-    <td>77</td>
-    <td>84</td>
-    <td>60</td>
-    <td>4000</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Arch Goggler</td>
-    <td>88</td>
-    <td>88</td>
-    <td>77</td>
-    <td>4900</td>
-  </tr>
-</table>
-
-### Lobber Beetle
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/lobber_beetle.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Lobber Beetle</td>
-    <td>45</td>
-    <td>18</td>
-    <td>33</td>
-    <td>85</td>
-    <td rowspan="4">-</td>
-    <td>Throws an adjacent creature at Shiren, or throws Shiren<br/>at another creature, onto a trap, or into a Monster House.<br/>Throwing range of 5 tiles, deals 5 damage.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Heaver Beetle</td>
-    <td>75</td>
-    <td>76</td>
-    <td>65</td>
-    <td>3000</td>
-    <td>Same as Lobber Beetle, but range of 10 tiles.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Slinger Beetle</td>
-    <td>76</td>
-    <td>85</td>
-    <td>65</td>
-    <td>3500</td>
-    <td>Same as Lobber Beetle, but range of 15 tiles.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Flinger Beetle</td>
-    <td>88</td>
-    <td>88</td>
-    <td>70</td>
-    <td>4100</td>
-    <td>Same as Lobber Beetle, but range of 20 tiles.</td>
-  </tr>
-</table>
-
-### Zen Guru
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/zen_guru.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Zen Guru</td>
-    <td>40</td>
-    <td>14</td>
-    <td>18</td>
-    <td>22</td>
-    <td rowspan="4">Floating</td>
-    <td rowspan="4">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Zen Monk</td>
-    <td>50</td>
-    <td>27</td>
+    <td>Young Tengu</td>
     <td>25</td>
-    <td>75</td>
+    <td>7</td>
+    <td>6</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Zen Priest</td>
-    <td>55</td>
-    <td>30</td>
-    <td>35</td>
+    <td>Tengu Chief</td>
+    <td>40</td>
+    <td>10</td>
+    <td>9</td>
     <td>150</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Zen God</td>
-    <td>110</td>
-    <td>65</td>
-    <td>80</td>
-    <td>5200</td>
-  </tr>
-</table>
-
-### Samuraidon
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/samuraidon.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Samuraidon</td>
-    <td>29</td>
-    <td>13</td>
-    <td>21</td>
-    <td>26</td>
-    <td rowspan="4">Weapon</td>
-    <td>Reflects a portion of damage received from direct attacks.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Taishodon</td>
-    <td>72</td>
-    <td>40</td>
-    <td>44</td>
-    <td>2150</td>
-    <td>Reflects magic bullets.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Tonosamadon</td>
-    <td>80</td>
-    <td>50</td>
-    <td>58</td>
-    <td>2100</td>
-    <td>Reflects all projectiles that don't have piercing properties.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Daimyodon</td>
-    <td>90</td>
-    <td>60</td>
-    <td>21</td>
-    <td>5200</td>
-    <td>Has all Lv1~3 abilities.</td>
-  </tr>
-</table>
-
-### Death Reaper
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/death_reaper.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Death Reaper</td>
-    <td>17</td>
-    <td>6</td>
-    <td>13</td>
-    <td>12</td>
-    <td>Floating<br/>Ghost<br/>Weapon<br/>Swift 1</td>
-    <td>Double speed, 1 attack.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Hell Reaper</td>
-    <td>20</td>
-    <td>15</td>
-    <td>15</td>
-    <td>15</td>
-    <td rowspan="3">Floating<br/>Ghost<br/>Weapon<br/>Swift 2</td>
-    <td>Double speed, 2 attacks.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Grim Reaper</td>
-    <td>70</td>
-    <td>30</td>
-    <td>41</td>
-    <td>1800</td>
-    <td rowspan="2">Double speed, 2 attacks.<br/>Can pass through walls.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Death Keeper</td>
-    <td>80</td>
-    <td>62</td>
-    <td>24</td>
-    <td>4200</td>
-  </tr>
-</table>
-
-### Jungarian
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/jungarian.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Jungarian</td>
-    <td>13</td>
-    <td>6</td>
-    <td>11</td>
-    <td>8</td>
-    <td rowspan="4">Theft<br/>Prism</td>
-    <td rowspan="4">Steals an item and flings it 5 tiles behind itself.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Campbellan</td>
-    <td>50</td>
-    <td>25</td>
-    <td>37</td>
-    <td>165</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Blackbelly</td>
-    <td>100</td>
-    <td>67</td>
-    <td>53</td>
-    <td>2500</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Roborovsky</td>
-    <td>110</td>
-    <td>70</td>
-    <td>56</td>
-    <td>3500</td>
-  </tr>
-</table>
-
-### Schubell
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/schubell.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Schubell</td>
-    <td>28</td>
-    <td>15</td>
-    <td>20</td>
-    <td>35</td>
-    <td rowspan="4">-</td>
-    <td>Summons 1 level 1 monster when adjacent.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Menbell</td>
-    <td>45</td>
-    <td>30</td>
-    <td>26</td>
-    <td>100</td>
-    <td>Summons 1 level 2 monster when adjacent.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Bellthoven</td>
+    <td>Tengu Elder</td>
     <td>55</td>
-    <td>42</td>
-    <td>50</td>
-    <td>1600</td>
-    <td>Summons 1~3 level 3 monsters when adjacent.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Shopin</td>
-    <td>65</td>
-    <td>54</td>
-    <td>62</td>
-    <td>2100</td>
-    <td>Summons 1~3 level 4 monsters when adjacent.</td>
-  </tr>
-</table>
-
-### Rock Head
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/rock_head.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Rock Head</td>
-    <td>25</td>
-    <td>12</td>
-    <td>12</td>
-    <td>21</td>
-    <td rowspan="4">-</td>
-    <td>Doesn't act unless you attack or become adjacent.<br/>Occasionally drops an Escape Scroll.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Ogre Rock</td>
-    <td>55</td>
-    <td>40</td>
-    <td>36</td>
-    <td>450</td>
-    <td rowspan="3">Doesn't act unless you attack or become adjacent.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Demon Rock</td>
-    <td>70</td>
-    <td>70</td>
-    <td>70</td>
-    <td>2500</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Devil Moai</td>
-    <td>80</td>
-    <td>80</td>
-    <td>80</td>
-    <td>3500</td>
-  </tr>
-</table>
-
-### Sip Leech
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/sip_leech.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Sip Leech</td>
-    <td>15</td>
     <td>14</td>
-    <td>19</td>
-    <td>24</td>
-    <td rowspan="4">Drain<br/>Cyclops<br/>Prism</td>
-    <td>Lowers strength by 1 when adjacent.</td>
+    <td>13</td>
+    <td>400</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Baby Tengu</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Slurp Leech</td>
-    <td>55</td>
-    <td>28</td>
-    <td>38</td>
-    <td>330</td>
-    <td>Lowers strength by 2 when adjacent.</td>
+    <td>Young Tengu</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Gulp Leech</td>
-    <td>80</td>
-    <td>55</td>
-    <td>52</td>
-    <td>1560</td>
-    <td>Lowers strength by 3 when adjacent.</td>
+    <td>Tengu Chief</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Guzzle Leech</td>
-    <td>92</td>
-    <td>60</td>
-    <td>57</td>
-    <td>2140</td>
-    <td>Lowers strength by 4 when adjacent.</td>
+    <td>Tengu Elder</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Bowboy
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/bowboy.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Bowboy</td>
+    <td>12</td>
+    <td>5</td>
+    <td>2</td>
+    <td>6</td>
+    <td rowspan="2">Normal</td>
+    <td>Shoots Wooden Arrows.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Crossbowboy</td>
+    <td>16</td>
+    <td>8</td>
+    <td>3</td>
+    <td>11</td>
+    <td>Shoots Iron Arrows.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Baby Tank</td>
+    <td>25</td>
+    <td>9</td>
+    <td>4</td>
+    <td>30</td>
+    <td rowspan="2">Normal<br/>Swift 1</td>
+    <td>Shoots Iron Arrows.<br/>Tries to stay 2 tiles away from Shiren.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Mini Tank</td>
+    <td>28</td>
+    <td>14</td>
+    <td>8</td>
+    <td>52</td>
+    <td>Shoots Silver Arrows.<br/>Tries to stay 2 tiles away from Shiren.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Bowboy</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Crossbowboy</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Baby Tank</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Mini Tank</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
 </table>
 
@@ -1954,284 +524,113 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   <tr>
     <td>1</td>
     <td>Cell Armor</td>
-    <td>65</td>
-    <td>37</td>
-    <td>50</td>
-    <td>1050</td>
-    <td rowspan="4">Floating<br/>Weapon<br/>Prism</td>
-    <td rowspan="4">Knocks away an item when adjacent, including equipped items.<br/>Can't disarm cursed equipment, and item flies 10 tiles.<br/>Occasionally drops Cell Armor Sword.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Chrome Armor</td>
-    <td>70</td>
-    <td>52</td>
-    <td>55</td>
-    <td>2500</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Titanium Armor</td>
-    <td>85</td>
-    <td>55</td>
-    <td>60</td>
-    <td>3900</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Metal Armor</td>
-    <td>90</td>
-    <td>58</td>
-    <td>70</td>
-    <td>4400</td>
-  </tr>
-</table>
-
-### Taur
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/taur.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Taur</td>
-    <td>66</td>
-    <td>30</td>
-    <td>45</td>
-    <td>150</td>
-    <td rowspan="4">Weapon</td>
-    <td rowspan="4">Occasionally deals a powerful brutal hit.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Minotaur</td>
-    <td>66</td>
-    <td>40</td>
-    <td>50</td>
-    <td>1000</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Megataur</td>
-    <td>85</td>
-    <td>85</td>
-    <td>69</td>
-    <td>5500</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Gigataur</td>
-    <td>105</td>
-    <td>100</td>
-    <td>75</td>
-    <td>6800</td>
-  </tr>
-</table>
-
-### Dagyan
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/dagyan.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dagyan</td>
-    <td>18</td>
-    <td>9</td>
-    <td>14</td>
-    <td>13</td>
-    <td rowspan="4">Dragon</td>
-    <td rowspan="4">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Dagyagan</td>
-    <td>84</td>
-    <td>72</td>
-    <td>63</td>
-    <td>3000</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Dagyagyagan</td>
-    <td>90</td>
-    <td>87</td>
-    <td>65</td>
-    <td>3200</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Dagyaaaaaah</td>
-    <td>96</td>
-    <td>94</td>
-    <td>71</td>
-    <td>4300</td>
-  </tr>
-</table>
-
-### Snacky
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/snacky.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Snacky</td>
-    <td>6</td>
-    <td>0</td>
-    <td>2</td>
-    <td>1</td>
-    <td>Slow</td>
-    <td>Half speed. Runs away from other creatures.<br/>Monsters attack Snacky instead of Shiren if one is visible.<br/>If a monster defeats Snacky, that monster will level up.</td>
-  </tr>
-</table>
-
-### Chicken
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/chicken.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Chicken</td>
-    <td>8</td>
-    <td>0</td>
-    <td>6</td>
-    <td>12</td>
-    <td>Swift 1</td>
-    <td>Runs away from Shiren at double speed.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Master Chicken</td>
-    <td>80</td>
-    <td>59</td>
-    <td>55</td>
-    <td>3000</td>
-    <td>-</td>
-    <td>Transforms into Chicken when HP &le; 15.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Great Chicken</td>
-    <td>90</td>
-    <td>50</td>
-    <td>59</td>
-    <td>4300</td>
-    <td rowspan="2">Swift 2</td>
-    <td rowspan="2">Transforms into Chicken when HP &le; 15.<br/>Double speed, 2 attacks.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Miracle Chicken</td>
-    <td>100</td>
-    <td>65</td>
-    <td>50</td>
-    <td>5100</td>
-  </tr>
-</table>
-
-### Lamp Puffer
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/lamp_puffer.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Lamp Puffer</td>
-    <td>40</td>
-    <td>30</td>
-    <td>25</td>
-    <td>115</td>
-    <td rowspan="4">Drain<br/>Prism</td>
-    <td>Lowers fullness by 10 when adjacent.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Lantern Puffer</td>
-    <td>65</td>
-    <td>45</td>
-    <td>30</td>
-    <td>240</td>
-    <td>Lowers fullness by 30 when adjacent.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Beacon Puffer</td>
-    <td>70</td>
     <td>35</td>
-    <td>48</td>
-    <td>1000</td>
-    <td>Lowers max fullness by 5 when adjacent.</td>
+    <td>16</td>
+    <td>9</td>
+    <td>70</td>
+    <td rowspan="4">Ghost</td>
+    <td>Knocks away your equipped shield.<br/>The item flies 10 tiles behind you.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Metal Armor</td>
+    <td>65</td>
+    <td>27</td>
+    <td>12</td>
+    <td>600</td>
+    <td>Knocks away your equipped weapon or shield.<br/>The item flies 10 tiles behind you.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Steel Armor</td>
+    <td>80</td>
+    <td>34</td>
+    <td>16</td>
+    <td>2000</td>
+    <td rowspan="2">Knocks away your equipped weapon, shield, or armband.<br/>The item flies 10 tiles behind you.</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Pharos Puffer</td>
-    <td>75</td>
-    <td>45</td>
-    <td>48</td>
-    <td>1400</td>
-    <td>Lowers max fullness by 10 when adjacent.</td>
+    <td>Alloy Armor</td>
+    <td>100</td>
+    <td>43</td>
+    <td>21</td>
+    <td>3600</td>
+  </tr>
+</table>
+
+Disarmed equipment will fly outside the map if you have a Pitcher's Armband equipped.
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Cell Armor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Metal Armor</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Steel Armor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Alloy Armor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
 </table>
 
@@ -2255,474 +654,109 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   <tr>
     <td>1</td>
     <td>Chintala</td>
-    <td>11</td>
-    <td>4</td>
-    <td>11</td>
-    <td>6</td>
-    <td rowspan="4">-</td>
+    <td>8</td>
+    <td>3</td>
+    <td>1</td>
+    <td>5</td>
+    <td rowspan="4">Normal</td>
     <td rowspan="4">No abilities.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Mid Chintala</td>
-    <td>45</td>
-    <td>20</td>
-    <td>23</td>
-    <td>50</td>
+    <td>17</td>
+    <td>9</td>
+    <td>6</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Big Chintala</td>
-    <td>70</td>
-    <td>45</td>
-    <td>29</td>
-    <td>240</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Huge Chintala</td>
-    <td>140</td>
-    <td>50</td>
-    <td>12</td>
-    <td>820</td>
-  </tr>
-</table>
-
-### Baby Mage
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/baby_mage.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Baby Mage</td>
-    <td>7</td>
-    <td>4</td>
-    <td>5</td>
-    <td>5</td>
-    <td rowspan="4">Magic</td>
-    <td>Fires magic that switches positions with a target.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Boy Mage</td>
-    <td>12</td>
-    <td>5</td>
-    <td>13</td>
-    <td>7</td>
-    <td>Fires magic that deals knockback to a target.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Brat Mage</td>
-    <td>13</td>
-    <td>6</td>
-    <td>14</td>
-    <td>9</td>
-    <td>Fires magic that paralyzes a target.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Bully Mage</td>
-    <td>14</td>
-    <td>7</td>
-    <td>15</td>
-    <td>11</td>
-    <td>Fires magic that warps a target.</td>
-  </tr>
-</table>
-
-### Pot Fisher
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/pot_fisher.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Pot Fisher</td>
-    <td>22</td>
-    <td>15</td>
-    <td>20</td>
-    <td>25</td>
-    <td rowspan="4">Theft<br/>Prism</td>
-    <td rowspan="2">Steals a pot, then runs away at double speed.<br/>Drops the pot it stole when defeated.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Pot Angler</td>
-    <td>25</td>
-    <td>16</td>
-    <td>21</td>
-    <td>28</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Pot Giller</td>
-    <td>100</td>
-    <td>60</td>
-    <td>50</td>
-    <td>4000</td>
-    <td rowspan="2">Same as Pot Fisher, but stolen pot turns into a Curse Pot.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Pot Piscator</td>
-    <td>120</td>
-    <td>65</td>
-    <td>55</td>
-    <td>4750</td>
-  </tr>
-</table>
-
-### Porky
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/porky.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Porky</td>
-    <td>20</td>
-    <td>10</td>
-    <td>15</td>
-    <td>18</td>
-    <td rowspan="4">-</td>
-    <td>Throws rocks within a 2 tile radius.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Porko</td>
-    <td>60</td>
-    <td>15</td>
-    <td>18</td>
-    <td>50</td>
-    <td>Throws rocks within a 5 tile radius.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Porkon</td>
-    <td>61</td>
-    <td>30</td>
-    <td>42</td>
-    <td>950</td>
-    <td>Throws rocks within a 10 tile radius.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Porgon</td>
-    <td>68</td>
-    <td>35</td>
-    <td>48</td>
-    <td>1350</td>
-    <td>Throws rocks within a 15 tile radius.</td>
-  </tr>
-</table>
-
-### Floor Dragon
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/floor_dragon.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Floor Dragon</td>
-    <td>36</td>
-    <td>18</td>
-    <td>21</td>
-    <td>30</td>
-    <td rowspan="4">Dragon</td>
-    <td rowspan="4">Tunnels to the other side of Shiren if an enemy is behind it.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Dragon Head</td>
-    <td>100</td>
-    <td>80</td>
-    <td>65</td>
-    <td>3750</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Tunnel Dragon</td>
-    <td>110</td>
-    <td>95</td>
-    <td>71</td>
-    <td>4500</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Earth Dragon</td>
-    <td>115</td>
-    <td>98</td>
-    <td>73</td>
-    <td>5250</td>
-  </tr>
-</table>
-
-### Dragon
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/dragon.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dragon</td>
-    <td>70</td>
-    <td>37</td>
-    <td>38</td>
-    <td>350</td>
-    <td rowspan="4">Dragon</td>
-    <td>Breathes 30 damage fire in a straight line.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Sky Dragon</td>
-    <td>125</td>
-    <td>120</td>
-    <td>72</td>
-    <td>6500</td>
-    <td>Breathes 40 damage fire from anywhere in the room.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Archdragon</td>
-    <td>135</td>
-    <td>150</td>
-    <td>80</td>
-    <td>8000</td>
-    <td>Breathes 50 damage fire from anywhere in the room,<br/>or within a 10 tile radius outside of rooms.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Abyss Dragon</td>
-    <td>155</td>
-    <td>160</td>
-    <td>94</td>
-    <td>9500</td>
-    <td>Breathes 60 damage fire from anywhere in the room,<br/>or within a 10 tile radius outside of rooms.</td>
-  </tr>
-</table>
-
-### Nigiri Novice
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/nigiri_novice.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Nigiri Novice</td>
-    <td>22</td>
-    <td>25</td>
-    <td>29</td>
-    <td>65</td>
-    <td>-</td>
-    <td>No abilities. This monster family instantly collapses if hit by an onigiri.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Nigiri Morph</td>
-    <td>50</td>
     <td>40</td>
-    <td>30</td>
-    <td>150</td>
-    <td rowspan="3">Prism</td>
-    <td>Turns an item into a Large Onigiri, excluding equipped items.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Nigiri Boss</td>
-    <td>80</td>
-    <td>76</td>
-    <td>62</td>
-    <td>900</td>
-    <td>Inflicts Shiren with Onigiri status for 10 turns.</td>
+    <td>21</td>
+    <td>12</td>
+    <td>180</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Nigiri Master</td>
-    <td>100</td>
-    <td>96</td>
-    <td>74</td>
-    <td>2600</td>
-    <td>Turns a pot into a Large Onigiri, or if there are no pots,<br/>inflicts Shiren with Onigiri status for 10 turns.</td>
-  </tr>
-</table>
-
-### Glare Snake
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/glare_snake.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Glare Snake</td>
-    <td>24</td>
-    <td>10</td>
-    <td>6</td>
+    <td>Giga Chintala</td>
+    <td>60</td>
+    <td>29</td>
     <td>17</td>
-    <td rowspan="4">Dragon</td>
-    <td rowspan="4">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Leer Snake</td>
-    <td>50</td>
-    <td>35</td>
-    <td>34</td>
-    <td>140</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Ogle Snake</td>
-    <td>70</td>
-    <td>80</td>
-    <td>59</td>
-    <td>3120</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Scowl Snake</td>
-    <td>76</td>
-    <td>91</td>
-    <td>65</td>
-    <td>3760</td>
+    <td>650</td>
   </tr>
 </table>
 
-### Minion Mouse
+#### Locations
 
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/minion_mouse.png"/>
-</div>
-
-<table class="monsterPageTable">
+<table class="monsterLocationTable">
   <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>Minion Mouse</td>
-    <td>6</td>
-    <td>3</td>
-    <td>6</td>
-    <td>4</td>
-    <td rowspan="4">-</td>
-    <td rowspan="4">No abilities.</td>
+    <td>Chintala</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Mobster Mouse</td>
-    <td>10</td>
-    <td>4</td>
-    <td>6</td>
-    <td>7</td>
+    <td>Mid Chintala</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Skipper Mouse</td>
-    <td>30</td>
-    <td>10</td>
-    <td>10</td>
-    <td>20</td>
+    <td>Big Chintala</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Capo Mouse</td>
-    <td>40</td>
-    <td>16</td>
-    <td>16</td>
-    <td>80</td>
+    <td>Giga Chintala</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
   </tr>
 </table>
 
@@ -2746,210 +780,116 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   <tr>
     <td>1</td>
     <td>Curse Girl</td>
-    <td>17</td>
-    <td>6</td>
-    <td>11</td>
-    <td>13</td>
-    <td rowspan="4">Prism</td>
-    <td>Curses 1 item.</td>
+    <td>25</td>
+    <td>10</td>
+    <td>7</td>
+    <td>40</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Curses 1 inventory item.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Curse Sister</td>
-    <td>32</td>
+    <td>Curse Sis</td>
+    <td>33</td>
     <td>15</td>
-    <td>17</td>
-    <td>35</td>
-    <td>Curses 2 items.</td>
+    <td>11</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Curse Mom</td>
-    <td>88</td>
-    <td>79</td>
-    <td>51</td>
-    <td>3800</td>
-    <td>Curses 3 items.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Curse Gramma</td>
-    <td>94</td>
-    <td>85</td>
-    <td>62</td>
-    <td>4100</td>
-    <td>Curses 4 items.</td>
-  </tr>
-</table>
-
-### King Tusker
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/king_tusker.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>King Tusker</td>
-    <td>40</td>
-    <td>25</td>
-    <td>28</td>
-    <td>83</td>
-    <td rowspan="4">Magic</td>
-    <td>Fires magic that inflicts Muzzled status.<br/>(Can't use Eat or Read commands)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Monarch Tusker</td>
     <td>56</td>
-    <td>46</td>
-    <td>44</td>
-    <td>1200</td>
-    <td>Fires magic that slows action speed by 1 stage.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Emperor Tusker</td>
-    <td>70</td>
-    <td>55</td>
-    <td>63</td>
-    <td>4500</td>
-    <td>Fires magic that reduces a target's HP to 1/4.<br/>Occasionally drops a Quarter Staff.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Tsar Tusker</td>
-    <td>82</td>
-    <td>62</td>
-    <td>71</td>
-    <td>5200</td>
-    <td>Fires magic that inflicts Clumsy status.<br/>(Makes you drop items as you walk)</td>
-  </tr>
-</table>
-
-### Explochin
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/explochin.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Explochin</td>
-    <td>120</td>
-    <td>16</td>
-    <td>30</td>
-    <td>200</td>
-    <td rowspan="4">Bomb<br/>Cyclops</td>
-    <td>Prepares to explode when it detects Shiren.<br/>Explodes 4 turns after the preparation message.<br/>Explosion deals damage equal to 50% HP.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Concusschin</td>
-    <td>120</td>
-    <td>50</td>
-    <td>35</td>
-    <td>2000</td>
-    <td>Same as Explochin, but explosion sets HP to 1.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Fulminachin</td>
-    <td>120</td>
-    <td>50</td>
-    <td>35</td>
-    <td>3000</td>
-    <td rowspan="2">Same as Concusschin, but warps near Shiren as well.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Detonachin</td>
-    <td>130</td>
-    <td>50</td>
-    <td>35</td>
-    <td>4000</td>
-  </tr>
-</table>
-
-### Pumphantasm
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/pumphantasm.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Pumphantasm</td>
-    <td>30</td>
-    <td>13</td>
-    <td>8</td>
     <td>22</td>
-    <td rowspan="4">Floating<br/>Ghost</td>
-    <td rowspan="4">Can pass through walls.<br/>Unpredictable movement, sometimes doesn't attack.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Pumphantom</td>
-    <td>54</td>
-    <td>27</td>
-    <td>18</td>
-    <td>90</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Pumpanshee</td>
-    <td>80</td>
-    <td>110</td>
-    <td>43</td>
-    <td>3400</td>
+    <td>13</td>
+    <td>600</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Pumptergeist</td>
-    <td>85</td>
-    <td>135</td>
-    <td>48</td>
-    <td>4500</td>
+    <td>Curse Gran</td>
+    <td>72</td>
+    <td>31</td>
+    <td>14</td>
+    <td>1500</td>
   </tr>
 </table>
 
-### Punter Scarab
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Curse Girl</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Curse Sis</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Curse Mom</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Curse Gran</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Dark Eye
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/punter_scarab.png"/>
+  <img src="../images/monsters/dark_eye.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -2965,44 +905,117 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Punter Scarab</td>
-    <td>42</td>
+    <td>Dark Eye</td>
+    <td>6</td>
+    <td>14</td>
+    <td>1</td>
+    <td>7</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Waits for Shiren to approach from 1 tile away.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Hidden Eye</td>
     <td>20</td>
-    <td>35</td>
-    <td>60</td>
-    <td rowspan="4">-</td>
-    <td rowspan="4">Prioritizes moving toward the stairs when Shiren isn't adjacent.<br/>Kicks the stairs, sending it flying until it hits a wall, waterway,<br/>or character.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Striker Scarab</td>
-    <td>80</td>
-    <td>82</td>
-    <td>61</td>
-    <td>3500</td>
+    <td>28</td>
+    <td>1</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Kicker Scarab</td>
-    <td>82</td>
-    <td>83</td>
-    <td>62</td>
-    <td>3500</td>
+    <td>Shadow Eye</td>
+    <td>40</td>
+    <td>71</td>
+    <td>1</td>
+    <td>300</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Blooter Scarab</td>
-    <td>85</td>
-    <td>92</td>
-    <td>74</td>
-    <td>3800</td>
+    <td>Fear Eye</td>
+    <td>60</td>
+    <td>100</td>
+    <td>1</td>
+    <td>800</td>
   </tr>
 </table>
 
-### Bat Kangaroo
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Dark Eye</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Hidden Eye</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Shadow Eye</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Fear Eye</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Dark Owl
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/bat_kangaroo.png"/>
+  <img src="../images/monsters/dark_owl.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -3018,154 +1031,117 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Bat Kangaroo</td>
+    <td>Dark Owl</td>
+    <td>4</td>
+    <td>6</td>
+    <td>20</td>
+    <td>10</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Turns the room dark.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Ghost Owl</td>
+    <td>7</td>
+    <td>9</td>
     <td>25</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Dusk Owl</td>
     <td>10</td>
     <td>12</td>
-    <td>20</td>
-    <td rowspan="4">-</td>
-    <td>Swings a Rage Staff at other monsters.<br/>Doesn't leave the room.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Evil Kangaroo</td>
-    <td>65</td>
     <td>35</td>
-    <td>22</td>
-    <td>1300</td>
-    <td>Same as Bat Kangaroo, but swings a Swift Staff.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Devil Kangaroo</td>
-    <td>80</td>
-    <td>75</td>
-    <td>32</td>
-    <td>2900</td>
-    <td rowspan="2">Same as Bat Kangaroo, but staff grants both Enraged and Swift statuses.</td>
+    <td>200</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Hades Kangaroo</td>
-    <td>88</td>
-    <td>95</td>
-    <td>42</td>
-    <td>3500</td>
-  </tr>
-</table>
-
-### Scurry Egg
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/scurry_egg.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Scurry Egg</td>
-    <td>8</td>
-    <td>0</td>
-    <td>6</td>
-    <td>12</td>
-    <td rowspan="4">Cyclops<br/>Swift 1</td>
-    <td>Runs away at double speed.<br/>Always drops an Onigiri when defeated.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Scamper Egg</td>
-    <td>8</td>
-    <td>0</td>
-    <td>6</td>
-    <td>12</td>
-    <td>Runs away at double speed, warps when attacked.<br/>Always drops a Large Onigiri when defeated.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Leaping Egg</td>
-    <td>8</td>
-    <td>0</td>
-    <td>6</td>
-    <td>12</td>
-    <td rowspan="2">Runs away at double speed, warps when you get within 3 tiles.<br/>Always drops an item when defeated.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Hiding Egg</td>
-    <td>8</td>
-    <td>0</td>
-    <td>6</td>
-    <td>12</td>
-  </tr>
-</table>
-
-### Sheep Priest
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/sheep_priest.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Sheep Priest</td>
-    <td>20</td>
-    <td>9</td>
-    <td>18</td>
+    <td>Chaos Owl</td>
     <td>15</td>
-    <td rowspan="4">Drain<br/>Magic<br/>Prism</td>
-    <td rowspan="4">Halves an adjacent target's attack power.<br/>The spell lasts around 25 turns.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Goat Pastor</td>
-    <td>60</td>
-    <td>19</td>
-    <td>30</td>
-    <td>180</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Gazelle Pope</td>
-    <td>80</td>
-    <td>69</td>
-    <td>55</td>
-    <td>2200</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Lion Pontiff</td>
-    <td>95</td>
-    <td>78</td>
-    <td>76</td>
-    <td>2900</td>
+    <td>21</td>
+    <td>40</td>
+    <td>650</td>
   </tr>
 </table>
 
-### Bored Kappa
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Dark Owl</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Ghost Owl</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Dusk Owl</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Chaos Owl</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Dead Soldier
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/bored_kappa.png"/>
+  <img src="../images/monsters/dead_soldier.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -3181,46 +1157,117 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Bored Kappa</td>
-    <td>40</td>
-    <td>20</td>
+    <td>Dead Soldier</td>
+    <td>3</td>
+    <td>4</td>
+    <td>1</td>
+    <td>4</td>
+    <td rowspan="4">Ghost</td>
+    <td rowspan="4">Possesses a monster and raises their level by 1.<br/>Only takes 1 damage from direct attacks,<br/>unless you have a Sickle Slayer equipped.<br/>Occasionally warps when attacked.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Dead Veteran</td>
+    <td>5</td>
+    <td>6</td>
+    <td>5</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Dead General</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
     <td>25</td>
-    <td>120</td>
-    <td rowspan="4">-</td>
-    <td>Stands on an item, throws it at Shiren if he gets within 5 tiles.<br/>Shiren might automatically equip the thrown item.<br/>Thrown item can fall into an open pot.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Kappa Pest</td>
-    <td>60</td>
-    <td>40</td>
-    <td>53</td>
-    <td>1500</td>
-    <td>Same as Bored Kappa, but throwing range of 10 tiles.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Vexing Kappa</td>
-    <td>70</td>
-    <td>46</td>
-    <td>54</td>
-    <td>2900</td>
-    <td rowspan="2">Same as Bored Kappa, but throwing range of anywhere in the room.</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Kappa Troll</td>
-    <td>80</td>
-    <td>52</td>
-    <td>55</td>
-    <td>3400</td>
+    <td>Dead Shogun</td>
+    <td>10</td>
+    <td>15</td>
+    <td>11</td>
+    <td>300</td>
   </tr>
 </table>
 
-### Gawkulus
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Dead Soldier</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Dead Veteran</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Dead General</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Dead Shogun</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Death Reaper
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/gawkulus.png"/>
+  <img src="../images/monsters/death_reaper.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -3236,234 +1283,375 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Gawkulus</td>
-    <td>40</td>
+    <td>Death Reaper</td>
     <td>23</td>
-    <td>32</td>
-    <td>155</td>
-    <td rowspan="4">Magic<br/>Prism</td>
-    <td rowspan="2">Inflicts Confused status on an adjacent target (10 turns).</td>
+    <td>15</td>
+    <td>5</td>
+    <td>23</td>
+    <td>Ghost<br/>Floating<br/>Swift 1</td>
+    <td>Double speed, 1 attack.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Lockulus</td>
-    <td>60</td>
-    <td>35</td>
+    <td>Hell Reaper</td>
     <td>45</td>
+    <td>16</td>
+    <td>7</td>
+    <td>130</td>
+    <td rowspan="3">Ghost<br/>Floating<br/>Swift 2</td>
+    <td>Double speed, 2 attacks.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Death Angel</td>
+    <td>65</td>
+    <td>28</td>
+    <td>9</td>
+    <td>700</td>
+    <td rowspan="2">Double speed, 2 attacks.<br/>Can pass through walls.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Death Master</td>
+    <td>77</td>
+    <td>54</td>
+    <td>15</td>
+    <td>3000</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Death Reaper</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Hell Reaper</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Death Angel</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Death Master</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Dragon
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/dragon.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Dragon</td>
+    <td>90</td>
+    <td>40</td>
+    <td>18</td>
+    <td>1300</td>
+    <td rowspan="4">Dragon<br/>Floating</td>
+    <td>Breathes 30 damage fire in a straight line.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sky Dragon</td>
+    <td>100</td>
+    <td>45</td>
+    <td>22</td>
+    <td>2600</td>
+    <td>Breathes 40 damage fire from anywhere in the room.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ark Dragon</td>
+    <td>120</td>
+    <td>78</td>
+    <td>26</td>
+    <td>4000</td>
+    <td>Breathes 50 damage fire from anywhere on the floor.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Hell Dragon</td>
+    <td>150</td>
+    <td>108</td>
+    <td>75</td>
+    <td>7000</td>
+    <td>Breathes 60 damage fire from anywhere on the floor.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Dragon</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sky Dragon</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ark Dragon</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Hell Dragon</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Dremlas
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/dremlas.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Dremlas</td>
+    <td>40</td>
+    <td>18</td>
+    <td>10</td>
+    <td>75</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Tackle deals 5 damage plus knockback, and also makes<br/>Shiren trip and drop items if he isn't against a wall.<br/>(Balance Staff prevents Shiren from tripping)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Madremlas</td>
+    <td>60</td>
+    <td>30</td>
+    <td>17</td>
     <td>800</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Hawkulus</td>
-    <td>80</td>
-    <td>45</td>
-    <td>56</td>
-    <td>2980</td>
-    <td rowspan="2">Inflicts Confused status from anywhere in the room (10 turns).</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Stalkulus</td>
-    <td>100</td>
-    <td>55</td>
-    <td>67</td>
-    <td>3620</td>
-  </tr>
-</table>
-
-### Soldier Ant
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/soldier_ant.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Soldier Ant</td>
-    <td>23</td>
-    <td>15</td>
-    <td>14</td>
-    <td>16</td>
-    <td rowspan="2">Weapon</td>
-    <td rowspan="2">Digs out wall tiles.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Captain Ant</td>
-    <td>40</td>
-    <td>24</td>
-    <td>20</td>
-    <td>82</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>General Ant</td>
-    <td>80</td>
-    <td>40</td>
-    <td>40</td>
-    <td>1500</td>
-    <td rowspan="2">Weapon<br/>Swift 2</td>
-    <td rowspan="2">Digs out wall tiles.<br/>Double speed, 2 attacks.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Marshal Ant</td>
-    <td>85</td>
-    <td>45</td>
-    <td>72</td>
-    <td>2400</td>
-  </tr>
-</table>
-
-### Bow Boy
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/bow_boy.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Bow Boy</td>
-    <td>28</td>
-    <td>12</td>
+    <td>Hardremlas</td>
+    <td>130</td>
+    <td>42</td>
     <td>18</td>
-    <td>28</td>
-    <td rowspan="2">-</td>
-    <td>Shoots Wood Arrows.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Crossbow Boy</td>
-    <td>28</td>
-    <td>16</td>
-    <td>20</td>
-    <td>33</td>
-    <td>Shoots Iron Arrows.</td>
-  </tr>
-</table>
-
-### Boy Tank
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/boy_tank.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Boy Tank</td>
-    <td>60</td>
-    <td>49</td>
-    <td>48</td>
-    <td>1800</td>
-    <td rowspan="2">Swift 1</td>
-    <td>Shoots Iron Arrows.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Mini Tank</td>
-    <td>72</td>
-    <td>55</td>
-    <td>54</td>
-    <td>3700</td>
-    <td>Shoots Silver Arrows.</td>
-  </tr>
-</table>
-
-### Pop Tank
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/pop_tank.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Pop Tank</td>
-    <td>80</td>
-    <td>20</td>
-    <td>40</td>
-    <td>2500</td>
-    <td>Bomb<br/>Slow</td>
-    <td>1 action every 2 turns. Fires 20 damage cannonballs.<br/>Cannonball blasts deal damage in a 1 tile radius.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Grampa Tank</td>
-    <td>90</td>
-    <td>20</td>
-    <td>58</td>
-    <td>3000</td>
-    <td>Bomb</td>
-    <td>Same as Pop Tank, but regular speed, 30 damage.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Ornery Tank</td>
-    <td>100</td>
-    <td>20</td>
-    <td>60</td>
-    <td>5500</td>
-    <td rowspan="2">Bomb<br/>Swift 2</td>
-    <td>Same as Pop Tank, but double speed (2 attacks), 40 damage.</td>
+    <td>1600</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Cranky Tank</td>
-    <td>110</td>
-    <td>20</td>
-    <td>70</td>
-    <td>7700</td>
-    <td>Same as Pop Tank, but double speed (2 attacks), 50 damage.</td>
+    <td>Heavyremlas</td>
+    <td>150</td>
+    <td>55</td>
+    <td>23</td>
+    <td>4200</td>
   </tr>
 </table>
 
-### Doze Mage
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Dremlas</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Madremlas</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Hardremlas</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Heavyremlas</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Egg Thing
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/doze_mage.png"/>
+  <img src="../images/monsters/egg_thing.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -3479,37 +1667,2298 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Doze Mage</td>
-    <td>16</td>
+    <td>Egg Thing</td>
     <td>5</td>
+    <td>3</td>
+    <td>10</td>
+    <td>7</td>
+    <td rowspan="4">One-Eyed<br/>Swift 1</td>
+    <td>Runs away at double speed.<br/>Always drops a Riceball.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Running Egg</td>
+    <td>5</td>
+    <td>4</td>
+    <td>20</td>
+    <td>15</td>
+    <td>Runs away at double speed, warps when attacked.<br/>Always drops a Big Riceball.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Flying Egg</td>
+    <td>8</td>
+    <td>5</td>
+    <td>30</td>
+    <td>50</td>
+    <td rowspan="2">Runs away at double speed, warps when you get within 3 tiles.<br/>Always drops an item.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Hiding Egg</td>
+    <td>10</td>
+    <td>6</td>
+    <td>40</td>
+    <td>300</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Egg Thing</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Running Egg</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Flying Egg</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Hiding Egg</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Evil Soldier
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/evil_soldier.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Evil Soldier</td>
+    <td>18</td>
+    <td>10</td>
+    <td>6</td>
+    <td>15</td>
+    <td rowspan="4">Normal</td>
+    <td>Dead Soldier appears 4 turns after it's defeated.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Evil Veteran</td>
+    <td>20</td>
+    <td>13</td>
+    <td>9</td>
+    <td>35</td>
+    <td>Dead Veteran appears 4 turns after it's defeated.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Evil General</td>
+    <td>30</td>
+    <td>17</td>
+    <td>11</td>
+    <td>60</td>
+    <td>Dead General appears 4 turns after it's defeated.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Evil Shogun</td>
+    <td>50</td>
+    <td>31</td>
+    <td>15</td>
+    <td>400</td>
+    <td>Dead Shogun appears 4 turns after it's defeated.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Evil Soldier</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Evil Veteran</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Evil General</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Evil Shogun</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Field Bandit
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/field_bandit.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Field Bandit</td>
+    <td>18</td>
+    <td>6</td>
+    <td>3</td>
+    <td>7</td>
+    <td rowspan="4">Normal</td>
+    <td>Walks to items on the ground and turns them into Weeds.<br/>Throws Weeds, dealing 2 damage.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Jar Bandit</td>
+    <td>25</td>
+    <td>10</td>
     <td>7</td>
     <td>15</td>
-    <td rowspan="4">Cyclops<br/>Magic</td>
-    <td rowspan="4">Inflicts Asleep on an adjacent target.</td>
+    <td>Walks to items on the ground and turns them into Weeds.<br/>Throws Weeds into open jars.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Item Bandit</td>
+    <td>35</td>
+    <td>20</td>
+    <td>16</td>
+    <td>250</td>
+    <td>Walks to items on the ground and turns them into Weeds.<br/>Turns inventory items into Weeds when adjacent.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Trove Bandit</td>
+    <td>50</td>
+    <td>38</td>
+    <td>24</td>
+    <td>600</td>
+    <td>Walks to items on the ground and turns them into Weeds.<br/>Turns inventory items into Weeds, including equipped items.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Field Bandit</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Sleep Warlock</td>
-    <td>60</td>
+    <td>Jar Bandit</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Item Bandit</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Trove Bandit</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+</table>
+
+### Firepuff
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/firepuff.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Firepuff</td>
+    <td>15</td>
+    <td>4</td>
+    <td>6</td>
+    <td>10</td>
+    <td rowspan="4">Dragon<br/>Floating</td>
+    <td>Breathes 10 damage fire at an adjacent target.<br/>Chance to fail, and fire can go through corners.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Flamepuff</td>
+    <td>28</td>
+    <td>8</td>
+    <td>9</td>
+    <td>45</td>
+    <td>Same as Firepuff, but 20 damage.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Blazepuff</td>
+    <td>40</td>
+    <td>13</td>
+    <td>11</td>
+    <td>220</td>
+    <td>Same as Firepuff, but 30 damage.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Infernopuff</td>
+    <td>80</td>
+    <td>29</td>
     <td>20</td>
+    <td>900</td>
+    <td>Same as Firepuff, but 40 damage.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Firepuff</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Flamepuff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Blazepuff</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Infernopuff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Floor Dragon
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/floor_dragon.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Floor Dragon</td>
+    <td>20</td>
+    <td>10</td>
+    <td>9</td>
+    <td>18</td>
+    <td rowspan="4">Dragon</td>
+    <td rowspan="4">Tunnels to the other side of Shiren if an enemy is behind it.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Dragon Head</td>
+    <td>70</td>
+    <td>32</td>
+    <td>15</td>
+    <td>650</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Dirt Dragon</td>
+    <td>80</td>
+    <td>47</td>
+    <td>21</td>
+    <td>1200</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Earth Dragon</td>
+    <td>110</td>
+    <td>64</td>
+    <td>27</td>
+    <td>3800</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Floor Dragon</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Dragon Head</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Dirt Dragon</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Earth Dragon</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Fluffy Bunny
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/fluffy_bunny.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Fluffy Bunny</td>
+    <td>5</td>
+    <td>6</td>
+    <td>3</td>
+    <td>8</td>
+    <td>Normal</td>
+    <td>Warps to a hurt monster and restores 50 HP.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Fluffy Bunny</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Flying Fowl
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/flying_fowl.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Flying Fowl</td>
+    <td>16</td>
+    <td>6</td>
+    <td>4</td>
+    <td>12</td>
+    <td rowspan="4">Floating</td>
+    <td>Electrifies 1 herb in your inventory, making it unusable.<br/>The electrified item can't be discarded until you change floors.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Flutter Fowl</td>
+    <td>30</td>
+    <td>15</td>
+    <td>9</td>
+    <td>60</td>
+    <td>Same as Flying Fowl, but electrifies herbs and scrolls.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Hover Fowl</td>
+    <td>45</td>
+    <td>21</td>
+    <td>12</td>
+    <td>250</td>
+    <td>Same as Flying Fowl, but electrifies herbs, scrolls, and staves.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Jet Fowl</td>
+    <td>80</td>
+    <td>34</td>
+    <td>24</td>
+    <td>1100</td>
+    <td>Same as Flying Fowl, but only electrifies jars.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Flying Fowl</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Flutter Fowl</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Hover Fowl</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Jet Fowl</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Fog Hermit
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/fog_hermit.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Fog Hermit</td>
+    <td>25</td>
+    <td>10</td>
+    <td>7</td>
+    <td>60</td>
+    <td rowspan="4">Normal<br/>Prism</td>
+    <td>Casts a spell that stops HP regeneration when adjacent.<br/>If you get hit a second time, you'll begin to lose HP.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Haze Hermit</td>
+    <td>45</td>
+    <td>15</td>
+    <td>11</td>
+    <td>200</td>
+    <td>Same as Fog Hermit, but casts the spell when lined up.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Mist Hermit</td>
+    <td>60</td>
+    <td>26</td>
+    <td>15</td>
+    <td>1000</td>
+    <td>Same as Fog Hermit, but casts the spell in the same room.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Cloud Hermit</td>
+    <td>70</td>
+    <td>45</td>
+    <td>26</td>
+    <td>2200</td>
+    <td>Same as Fog Hermit, but casts the spell anywhere on the floor.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Fog Hermit</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Haze Hermit</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Mist Hermit</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Cloud Hermit</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Gather
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/gather.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Gather</td>
+    <td>36</td>
+    <td>25</td>
+    <td>17</td>
+    <td>110</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">No abilities.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Killer Gather</td>
+    <td>60</td>
+    <td>40</td>
+    <td>21</td>
+    <td>600</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Hell Gather</td>
+    <td>90</td>
+    <td>67</td>
+    <td>23</td>
+    <td>1500</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Fallen Gather</td>
+    <td>130</td>
+    <td>93</td>
+    <td>68</td>
+    <td>4000</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Gather</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Killer Gather</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Hell Gather</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Fallen Gather</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Gaze
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/gaze.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Gaze</td>
+    <td>18</td>
+    <td>8</td>
+    <td>5</td>
+    <td>25</td>
+    <td rowspan="4">One-Eyed</td>
+    <td rowspan="4">Hypnotizes Shiren, making him perform an action.<br/>Other characters become confused when hypnotized.<br/>(Hypnosis can be blocked by a Gaze Shield)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Super Gaze</td>
+    <td>51</td>
+    <td>13</td>
+    <td>9</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Hyper Gaze</td>
+    <td>70</td>
+    <td>19</td>
+    <td>13</td>
+    <td>800</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Ultra Gaze</td>
+    <td>90</td>
+    <td>61</td>
+    <td>46</td>
+    <td>2000</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Gaze</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Super Gaze</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Hyper Gaze</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Ultra Gaze</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Ghost Radish
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/ghost_radish.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Ghost Radish</td>
+    <td>12</td>
+    <td>6</td>
+    <td>3</td>
+    <td>7</td>
+    <td rowspan="4">Normal</td>
+    <td>Throws Poison Herb when lined up.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Daze Radish</td>
+    <td>30</td>
+    <td>12</td>
+    <td>9</td>
+    <td>50</td>
+    <td>Throws Herb of Confusion when nearby.<br/>Throws Poison Herb if target has Confused status.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Sleep Radish</td>
+    <td>55</td>
+    <td>22</td>
+    <td>12</td>
+    <td>500</td>
+    <td>Throws Sleeping Herb when nearby.<br/>Throws Poison Herb if target has Sleepy status.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Fear Radish</td>
+    <td>70</td>
+    <td>44</td>
+    <td>16</td>
+    <td>1300</td>
+    <td>Throws Kigny Seed when nearby.<br/>Throws Poison Herb if target has Berserk status.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Ghost Radish</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Daze Radish</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Sleep Radish</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Fear Radish</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Green Slime
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/green_slime.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Green Slime</td>
+    <td>10</td>
+    <td>3</td>
+    <td>1</td>
+    <td>4</td>
+    <td rowspan="4">Normal</td>
+    <td>Lowers weapon or shield upgrade value by 1.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Purple Slime</td>
+    <td>40</td>
+    <td>9</td>
+    <td>7</td>
+    <td>40</td>
+    <td>Lowers weapon or shield upgrade value by 2.<br/>Occasionally multiplies when attacked.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Grey Slime</td>
+    <td>70</td>
+    <td>16</td>
+    <td>12</td>
+    <td>200</td>
+    <td>Removes plating, and erases 1 rune or lowers upgrade value by 1.<br/>Occasionally multiplies when attacked.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Red Slime</td>
+    <td>100</td>
+    <td>24</td>
+    <td>16</td>
+    <td>600</td>
+    <td>Removes plating, and erases 1 rune or lowers upgrade value by 3.<br/>Occasionally multiplies when attacked.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Green Slime</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Purple Slime</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Grey Slime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Red Slime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Half Warrior
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/half_warrior.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Half Warrior</td>
+    <td>25</td>
+    <td>22</td>
+    <td>1</td>
+    <td>180</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Only takes 1 damage when attacked from the front.<br/>Defeated in one hit if attacked from the side or back.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Half Fighter</td>
+    <td>50</td>
+    <td>30</td>
+    <td>1</td>
+    <td>460</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Half Master</td>
+    <td>80</td>
+    <td>47</td>
+    <td>1</td>
+    <td>800</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Half Lord</td>
+    <td>100</td>
+    <td>61</td>
+    <td>1</td>
+    <td>1500</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Half Warrior</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Half Fighter</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Half Master</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Half Lord</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Hen
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/hen.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Hen</td>
+    <td>4</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>Normal<br/>Swift 1</td>
+    <td>Runs away from Shiren at double speed.<br/>Turns into meat if hit by an explosion.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Master Hen</td>
+    <td>50</td>
+    <td>26</td>
+    <td>12</td>
+    <td>400</td>
+    <td>Normal</td>
+    <td>Transforms into Hen when HP &le; 15.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Great Hen</td>
+    <td>60</td>
+    <td>39</td>
+    <td>15</td>
+    <td>1500</td>
+    <td rowspan="2">Normal<br/>Swift 2</td>
+    <td>Double speed, 2 attacks.<br/>Transforms into Hen when HP &le; 15.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Miracle Hen</td>
+    <td>80</td>
+    <td>47</td>
+    <td>18</td>
+    <td>3200</td>
+    <td>Double speed, 2 attacks.<br/>Transforms into Hen when HP &le; 15.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Hen</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Master Hen</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Great Hen</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Miracle Hen</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Inferno
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/inferno.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Inferno</td>
     <td>35</td>
+    <td>17</td>
+    <td>11</td>
+    <td>55</td>
+    <td>Normal</td>
+    <td>Burns projectiles unless they have piercing properties.<br/>Multiplies from explosions.<br/>Levels up from fire damage. (Max: 99)<br/>Rust Trap will instantly defeat it.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Inferno</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Inferno2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Inferno3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Inferno4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Ironhead
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/ironhead.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Ironhead</td>
+    <td>20</td>
+    <td>17</td>
+    <td>3</td>
+    <td>23</td>
+    <td rowspan="4">One-Eyed</td>
+    <td rowspan="4">Attacks 2 tiles ahead.<br/>Can attack through hallway corners.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Chainhead</td>
+    <td>50</td>
+    <td>31</td>
+    <td>10</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Gigahead</td>
+    <td>70</td>
+    <td>46</td>
+    <td>13</td>
+    <td>1200</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Deathhead</td>
+    <td>100</td>
+    <td>77</td>
+    <td>17</td>
+    <td>3000</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Ironhead</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Chainhead</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Gigahead</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Deathhead</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Kigny
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/kigny.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Kigny</td>
+    <td>40</td>
+    <td>25</td>
+    <td>5</td>
+    <td>50</td>
+    <td>Normal</td>
+    <td>Attacks any adjacent creature, friend or foe.<br/>Levels up when it defeats a creature. (Max: 99)<br/>Levels up if hit by Kigny Seed.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Kigny</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Kigny2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Kigny3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Kigny4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Knifegator
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/knifegator.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Knifegator</td>
+    <td>14</td>
+    <td>12</td>
+    <td>1</td>
+    <td>9</td>
+    <td rowspan="4">Normal</td>
+    <td>No abilities.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sabregator</td>
+    <td>35</td>
+    <td>18</td>
+    <td>8</td>
+    <td>75</td>
+    <td>Attacks 2 times in a row.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Bladegator</td>
+    <td>70</td>
+    <td>29</td>
+    <td>11</td>
+    <td>1600</td>
+    <td>Attacks 3 times in a row.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Swordgator</td>
+    <td>100</td>
+    <td>45</td>
+    <td>16</td>
+    <td>2800</td>
+    <td>Attacks 4 times in a row.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Knifegator</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sabregator</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Bladegator</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Swordgator</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Leech Worm
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/leech_worm.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Leech Worm</td>
+    <td>23</td>
+    <td>10</td>
+    <td>8</td>
+    <td>15</td>
+    <td rowspan="4">Drain<br/>One-Eyed</td>
+    <td rowspan="4">Lowers max strength by 1 when adjacent.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Leech Bug</td>
+    <td>32</td>
+    <td>16</td>
+    <td>11</td>
     <td>300</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Slumber Wizard</td>
-    <td>80</td>
-    <td>35</td>
-    <td>52</td>
-    <td>2700</td>
+    <td>Leech Fly</td>
+    <td>41</td>
+    <td>22</td>
+    <td>15</td>
+    <td>700</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Sopor Sorcerer</td>
-    <td>100</td>
+    <td>Leech Queen</td>
     <td>50</td>
-    <td>69</td>
-    <td>3800</td>
+    <td>35</td>
+    <td>19</td>
+    <td>950</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Leech Worm</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Leech Bug</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Leech Fly</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Leech Queen</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
 </table>
 
@@ -3535,43 +3984,116 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
     <td>Mamel</td>
     <td>5</td>
     <td>2</td>
-    <td>5</td>
+    <td>1</td>
     <td>2</td>
-    <td rowspan="3">-</td>
+    <td rowspan="3">Normal</td>
     <td rowspan="3">No abilities.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Pit Mamel</td>
-    <td>6</td>
-    <td>4</td>
-    <td>6</td>
+    <td>5</td>
+    <td>2</td>
+    <td>2</td>
     <td>3</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Cave Mamel</td>
     <td>5</td>
-    <td>75</td>
-    <td>100</td>
-    <td>1900</td>
+    <td>36</td>
+    <td>80</td>
+    <td>800</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Gitan Mamel</td>
     <td>6</td>
-    <td>100</td>
-    <td>150</td>
-    <td>3400</td>
-    <td>Swift 2</td>
+    <td>60</td>
+    <td>140</td>
+    <td>2000</td>
+    <td>Normal<br/>Swift 2</td>
     <td>Double speed, 2 attacks.<br/>Always drops 2000 Gitan when defeated.</td>
   </tr>
 </table>
 
-### Slime
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Mamel</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Pit Mamel</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Cave Mamel</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Gitan Mamel</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Mecharoid
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/slime.png"/>
+  <img src="../images/monsters/mecharoid.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -3587,102 +4109,117 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Slime</td>
-    <td>35</td>
-    <td>0</td>
-    <td>15</td>
-    <td>30</td>
-    <td rowspan="4">Drain<br/>Prism</td>
-    <td>Lowers upgrade value of weapon or shield by 1.</td>
+    <td>Mecharoid</td>
+    <td>60</td>
+    <td>27</td>
+    <td>13</td>
+    <td>250</td>
+    <td rowspan="4">Normal<br/>Swift 1</td>
+    <td rowspan="4">Double speed, 1 attack.<br/>Initially Napping, and wakes up if you enter the room.<br/>Creates visible traps while inside a room.<br/>Stops acting for 2 turns after creating a trap.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Grime</td>
-    <td>55</td>
-    <td>0</td>
-    <td>35</td>
-    <td>150</td>
-    <td>Lowers upgrade value of weapon or shield by 2.</td>
+    <td>Steamroid</td>
+    <td>65</td>
+    <td>33</td>
+    <td>15</td>
+    <td>900</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Ooze</td>
-    <td>65</td>
-    <td>0</td>
-    <td>40</td>
-    <td>1350</td>
-    <td rowspan="2">Lowers upgrade value of weapon or shield by 3,<br/>removes plating, or erases 1 synthesized rune.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Sludge</td>
-    <td>75</td>
-    <td>0</td>
-    <td>45</td>
+    <td>Electroid</td>
+    <td>70</td>
+    <td>39</td>
+    <td>18</td>
     <td>1700</td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>Bioroid</td>
+    <td>80</td>
+    <td>84</td>
+    <td>62</td>
+    <td>2800</td>
+  </tr>
 </table>
 
-### Mini Mixer
+#### Locations
 
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/mini_mixer.png"/>
-</div>
-
-<table class="monsterPageTable">
+<table class="monsterLocationTable">
   <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>Mini Mixer</td>
-    <td>62</td>
-    <td>30</td>
-    <td>35</td>
-    <td>450</td>
-    <td rowspan="4">-</td>
-    <td>Eats up to 2 thrown items and synthesizes them.<br/>Spits out items that can't be synthesized.<br/>Attack power increases per item eaten.<br/>Drops eaten items when defeated.</td>
+    <td>Mecharoid</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Mini Mixermon</td>
-    <td>70</td>
-    <td>50</td>
-    <td>46</td>
-    <td>1900</td>
-    <td>Same as Mini Mixer, but eats up to 3 items.</td>
+    <td>Steamroid</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Mini Mixergon</td>
-    <td>90</td>
-    <td>68</td>
-    <td>60</td>
-    <td>3000</td>
-    <td>Same as Mini Mixer, but eats up to 4 items.</td>
+    <td>Electroid</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Mini Mixerdon</td>
-    <td>100</td>
-    <td>72</td>
-    <td>74</td>
-    <td>3600</td>
-    <td>Same as Mini Mixer, but eats up to 5 items.</td>
+    <td>Bioroid</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
-### Morabi
+### Mini Robber
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/morabi.png"/>
+  <img src="../images/monsters/mini_robber.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -3698,44 +4235,117 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Morabi</td>
-    <td>20</td>
-    <td>10</td>
-    <td>14</td>
-    <td>14</td>
-    <td rowspan="4">-</td>
+    <td>Mini Robber</td>
+    <td>5</td>
+    <td>3</td>
+    <td>1</td>
+    <td>3</td>
+    <td rowspan="4">Normal</td>
     <td rowspan="4">No abilities.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Warabi</td>
-    <td>30</td>
-    <td>16</td>
-    <td>21</td>
-    <td>36</td>
+    <td>Robber</td>
+    <td>12</td>
+    <td>8</td>
+    <td>3</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Takabi</td>
-    <td>65</td>
-    <td>37</td>
+    <td>Robber Chief</td>
     <td>40</td>
-    <td>500</td>
+    <td>19</td>
+    <td>15</td>
+    <td>180</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Super Takabi</td>
-    <td>80</td>
-    <td>52</td>
-    <td>59</td>
-    <td>1300</td>
+    <td>Robber Lord</td>
+    <td>60</td>
+    <td>28</td>
+    <td>18</td>
+    <td>650</td>
   </tr>
 </table>
 
-### Dark Slasher
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Mini Robber</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Robber</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Robber Chief</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Robber Lord</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### N'Duba
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/dark_slasher.png"/>
+  <img src="../images/monsters/nduba.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -3751,44 +4361,243 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Dark Slasher</td>
-    <td>37</td>
-    <td>23</td>
-    <td>29</td>
-    <td>52</td>
-    <td rowspan="4">Weapon</td>
-    <td rowspan="4">Waits for Shiren to approach from 1 tile away.</td>
+    <td>N'Duba</td>
+    <td>30</td>
+    <td>6</td>
+    <td>10</td>
+    <td>20</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Disguises itself as an item.<br/>Reveals itself and attacks if you try to use the item.<br/>Changing floors identifies disguised N'Duba monsters.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Sneaky Slasher</td>
-    <td>50</td>
-    <td>32</td>
-    <td>37</td>
-    <td>210</td>
+    <td>N'Dulu</td>
+    <td>35</td>
+    <td>10</td>
+    <td>15</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Shadow Slasher</td>
-    <td>60</td>
-    <td>45</td>
-    <td>42</td>
-    <td>1800</td>
+    <td>N'Bama</td>
+    <td>40</td>
+    <td>55</td>
+    <td>20</td>
+    <td>250</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Wild Slasher</td>
-    <td>65</td>
-    <td>55</td>
+    <td>N'Balun</td>
+    <td>50</td>
+    <td>70</td>
+    <td>25</td>
+    <td>600</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>N'Duba</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>N'Dulu</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>N'Bama</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>N'Balun</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Pacorepkin
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/pacorepkin.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Pacorepkin</td>
+    <td>28</td>
+    <td>15</td>
+    <td>8</td>
+    <td>42</td>
+    <td rowspan="4">Ghost<br/>Floating</td>
+    <td rowspan="4">Can pass through walls.<br/>Unpredictable movement.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Pacorepkina</td>
     <td>45</td>
+    <td>22</td>
+    <td>12</td>
+    <td>250</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Pacorepking</td>
+    <td>60</td>
+    <td>31</td>
+    <td>15</td>
+    <td>750</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Pacorepgod</td>
+    <td>80</td>
+    <td>38</td>
+    <td>21</td>
     <td>2300</td>
   </tr>
 </table>
 
-### Dark Vassal
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Pacorepkin</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Pacorepkina</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Pacorepking</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Pacorepgod</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Parthenos
 
 <div class="relativeImage monsterImage">
-  <img src="../images/monsters/dark_vassal.png"/>
+  <img src="../images/monsters/parthenos.png"/>
 </div>
 
 <table class="monsterPageTable">
@@ -3804,310 +4613,1971 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Dark Vassal</td>
-    <td>55</td>
-    <td>24</td>
-    <td>33</td>
-    <td>130</td>
-    <td rowspan="4">Ghost</td>
-    <td>Nullifies magic bullets.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Demon Vassal</td>
-    <td>55</td>
-    <td>24</td>
-    <td>33</td>
-    <td>130</td>
-    <td>Nullifies scroll effects. (Bomber Scroll is effective)</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Sable Vassal</td>
-    <td>65</td>
-    <td>70</td>
-    <td>63</td>
-    <td>4000</td>
-    <td>Dodges all projectiles, including items with piercing properties.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Hell Vassal</td>
-    <td>75</td>
-    <td>95</td>
-    <td>68</td>
-    <td>5200</td>
-    <td>Restores 10 HP when hit by a projectile.</td>
-  </tr>
-</table>
-
-### Trap Genin
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/trap_genin.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Trap Genin</td>
-    <td>24</td>
-    <td>11</td>
-    <td>15</td>
-    <td>18</td>
-    <td rowspan="4">-</td>
-    <td rowspan="4">Occasionally sets a trap when defeated.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Trap Chunin</td>
-    <td>44</td>
-    <td>19</td>
-    <td>25</td>
-    <td>70</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Trap Jonin</td>
-    <td>66</td>
-    <td>52</td>
-    <td>52</td>
-    <td>1400</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Trap Kage</td>
-    <td>88</td>
-    <td>62</td>
-    <td>62</td>
-    <td>2100</td>
-  </tr>
-</table>
-
-### Bad Froggo
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/bad_froggo.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Bad Froggo</td>
-    <td>13</td>
-    <td>0</td>
-    <td>5</td>
-    <td>5</td>
-    <td rowspan="4">Theft<br/>Prism</td>
-    <td rowspan="2">Steals Gitan, warps, then places the Gitan where it lands.<br/>Stands on Gitan if it finds some on the ground.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Bad Froggucci</td>
-    <td>54</td>
-    <td>0</td>
-    <td>37</td>
-    <td>500</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Bad Froggon</td>
-    <td>74</td>
-    <td>0</td>
-    <td>45</td>
-    <td>2000</td>
-    <td rowspan="2">Same as Bad Froggo, but hides stolen Gitan in walls.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Bad Kleptoad</td>
-    <td>86</td>
-    <td>0</td>
-    <td>52</td>
-    <td>2500</td>
-  </tr>
-</table>
-
-### Bad Zalokleft
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/bad_zalokleft.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Bad Zalokleft</td>
-    <td>40</td>
-    <td>20</td>
-    <td>35</td>
-    <td>75</td>
-    <td rowspan="4">Theft<br/>Prism</td>
-    <td>Steals 1 item from Shiren or the ground, then warps.<br/>Runs from Shiren after warping.<br/>Doesn't steal merchandise.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Gang Zalokleft</td>
-    <td>50</td>
-    <td>40</td>
-    <td>60</td>
-    <td>600</td>
-    <td rowspan="2">Same as Zalokleft, but can multiply when attacked.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Mob Zalokleft</td>
-    <td>60</td>
-    <td>40</td>
-    <td>60</td>
-    <td>1200</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Don Zalokleft</td>
-    <td>70</td>
-    <td>50</td>
-    <td>70</td>
-    <td>1600</td>
-    <td>Same as Zalokleft, but vanishes after stealing.<br/>Can multiply when attacked.</td>
-  </tr>
-</table>
-
-### Other Group
-
-### Rookie Guard
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Rookie Guard</td>
-    <td>5</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td rowspan="2">Weapon</td>
-    <td rowspan="2">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Strong Guard</td>
-    <td>50</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Dragon Guard</td>
-    <td>50</td>
-    <td>1</td>
+    <td>Parthenos</td>
     <td>30</td>
-    <td>0</td>
-    <td>Dragon<br/>Weapon</td>
-    <td>No abilities.<br/>Always drops an Escape Scroll.</td>
+    <td>12</td>
+    <td>12</td>
+    <td>48</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Prevents Shiren from moving when adjacent.<br/>(If you try to move, your turn still ends)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Mistonos</td>
+    <td>50</td>
+    <td>16</td>
+    <td>15</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Verginos</td>
+    <td>70</td>
+    <td>26</td>
+    <td>20</td>
+    <td>650</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Elite Guard</td>
-    <td>50</td>
+    <td>Goldinos</td>
+    <td>100</td>
+    <td>39</td>
+    <td>25</td>
+    <td>1600</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Parthenos</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
     <td>2</td>
+    <td>Mistonos</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Verginos</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Goldinos</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Pickpocket
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/pickpocket.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Pickpocket</td>
+    <td>10</td>
+    <td>3</td>
+    <td>7</td>
+    <td>3</td>
+    <td rowspan="4">Normal<br/>Theft</td>
+    <td rowspan="4">Always drops Gitan when defeated.<br/>Sits on any Gitan it finds on the ground.<br/>Doesn't attack, but instead observes or steals Gitan and warps.<br/>Runs away at double speed after stealing Gitan.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Thief</td>
+    <td>15</td>
+    <td>4</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Burglar</td>
+    <td>25</td>
+    <td>5</td>
+    <td>21</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Kleptomaniac</td>
+    <td>35</td>
+    <td>6</td>
+    <td>28</td>
+    <td>300</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Pickpocket</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Thief</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Burglar</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Kleptomaniac</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Piggy
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/piggy.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Piggy</td>
+    <td>34</td>
+    <td>18</td>
+    <td>6</td>
+    <td>25</td>
+    <td rowspan="4">Normal</td>
+    <td>Throws rocks within a 2 tile radius.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Piggo</td>
     <td>50</td>
+    <td>35</td>
+    <td>13</td>
+    <td>500</td>
+    <td>Throws rocks within a 5 tile radius.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Piggora</td>
+    <td>70</td>
+    <td>43</td>
+    <td>17</td>
+    <td>2100</td>
+    <td>Throws rocks within a 10 tile radius.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Piggaron</td>
+    <td>90</td>
+    <td>52</td>
+    <td>22</td>
+    <td>3500</td>
+    <td>Throws rocks within a 15 tile radius.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Piggy</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Piggo</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Piggora</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Piggaron</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Polygon Spin
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/polygon_spin.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Polygon Spin</td>
+    <td>25</td>
+    <td>9</td>
+    <td>5</td>
+    <td>15</td>
+    <td rowspan="4">Drain</td>
+    <td>Warps to Shiren inside rooms.<br/>Lowers fullness by 10 when adjacent.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Polygon Jive</td>
+    <td>60</td>
+    <td>16</td>
+    <td>13</td>
+    <td>300</td>
+    <td>Warps to Shiren inside rooms.<br/>Lowers fullness by 30 when adjacent.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Polygon Song</td>
+    <td>80</td>
+    <td>24</td>
+    <td>19</td>
+    <td>1000</td>
+    <td rowspan="2">Warps to Shiren inside rooms.<br/>Lowers max fullness by 10 when adjacent.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Polygon Jig</td>
+    <td>100</td>
+    <td>43</td>
+    <td>26</td>
+    <td>2700</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Polygon Spin</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Polygon Jive</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Polygon Song</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Polygon Jig</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+</table>
+
+### Popster Tank
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/popster_tank.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Popster Tank</td>
+    <td>36</td>
+    <td>20</td>
+    <td>11</td>
+    <td>65</td>
+    <td>Exploding<br/>Slow</td>
+    <td>1 action every 2 turns. Fires 20 damage cannonballs.<br/>Cannonball blasts deal damage in a 1 tile radius.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Dadster Tank</td>
+    <td>40</td>
+    <td>25</td>
+    <td>17</td>
+    <td>300</td>
+    <td>Exploding</td>
+    <td>Same as Popster Tank, but regular speed, 30 damage.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Oldster Tank</td>
+    <td>50</td>
+    <td>35</td>
+    <td>23</td>
+    <td>1800</td>
+    <td rowspan="2">Exploding<br/>Swift 2</td>
+    <td>Same as Popster Tank, but double speed (2 attacks), 40 damage.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Cranky Tank</td>
+    <td>80</td>
+    <td>40</td>
+    <td>68</td>
+    <td>3500</td>
+    <td>Same as Popster Tank, but double speed (2 attacks), 50 damage.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Popster Tank</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Dadster Tank</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Oldster Tank</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Cranky Tank</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Rice Baby
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/rice_baby.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Rice Baby</td>
+    <td>7</td>
+    <td>4</td>
+    <td>1</td>
+    <td>4</td>
+    <td rowspan="4">Normal</td>
+    <td>No abilities.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Rice Changer</td>
+    <td>23</td>
+    <td>8</td>
+    <td>3</td>
+    <td>12</td>
+    <td>Turns 1 inventory item into a Big Riceball.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Rice Boss</td>
+    <td>38</td>
+    <td>22</td>
+    <td>15</td>
+    <td>200</td>
+    <td>Turns Shiren into a riceball.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Rice Master</td>
+    <td>70</td>
+    <td>34</td>
+    <td>24</td>
+    <td>1500</td>
+    <td>Turns Shiren into a riceball or 1 inventory item into a Big Riceball.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Rice Baby</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Rice Changer</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Rice Boss</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Rice Master</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Schubell
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/schubell.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Schubell</td>
+    <td>15</td>
+    <td>11</td>
+    <td>25</td>
+    <td>100</td>
+    <td rowspan="4">Normal</td>
+    <td>Summons 1 level 1 monster when adjacent.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Menbell</td>
+    <td>25</td>
+    <td>14</td>
+    <td>25</td>
+    <td>200</td>
+    <td>Summons 1 level 2 monster when adjacent.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Bellthoven</td>
+    <td>40</td>
+    <td>18</td>
+    <td>30</td>
+    <td>300</td>
+    <td>Summons 1~3 level 3 monsters when adjacent.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Showpin</td>
+    <td>60</td>
+    <td>28</td>
+    <td>35</td>
+    <td>400</td>
+    <td>Summons 1~3 level 4 monsters when adjacent.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Schubell</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Menbell</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Bellthoven</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Showpin</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Skull Mage
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/skull_mage.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Skull Mage</td>
+    <td>21</td>
+    <td>7</td>
+    <td>7</td>
+    <td>17</td>
+    <td rowspan="4">Ghost<br/>Prism</td>
+    <td>Fires a magic bullet with a random effect in a line.<br/>(Warp, Knockback, Switch positions, Swift)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Skull Wizard</td>
+    <td>35</td>
+    <td>11</td>
+    <td>11</td>
+    <td>70</td>
+    <td>Fires a magic bullet with a random effect in a line.<br/>(Presto, Confused, Postpone, 25 damage)</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Skull Wraith</td>
+    <td>60</td>
+    <td>16</td>
+    <td>14</td>
+    <td>350</td>
+    <td>Fires a magic bullet with a random effect in a line.<br/>(Bufu, Paralyzed, Slow, Sealed, Doppelganger, Level-1)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Skull Demon</td>
+    <td>75</td>
+    <td>47</td>
+    <td>19</td>
+    <td>2000</td>
+    <td>Fires a magic bullet with a random effect in a line.<br/>(Bufu, Sleepy, Blinded, 40 damage, Level-3)</td>
+  </tr>
+</table>
+
+Occasionally drops Skull Staff when defeated.
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Skull Mage</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Skull Wizard</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Skull Wraith</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Skull Demon</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Snaky
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/snaky.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Snaky</td>
+    <td>17</td>
+    <td>8</td>
+    <td>3</td>
+    <td>8</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">No abilities.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Vipy</td>
+    <td>35</td>
+    <td>24</td>
+    <td>9</td>
+    <td>60</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Pythy</td>
+    <td>70</td>
+    <td>36</td>
+    <td>15</td>
+    <td>580</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Anacondy</td>
+    <td>100</td>
+    <td>68</td>
+    <td>22</td>
+    <td>1600</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Snaky</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Vipy</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Pythy</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Anacondy</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Soldier Ant
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/soldier_ant.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Soldier Ant</td>
+    <td>20</td>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Digs out wall tiles.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Corporal Ant</td>
+    <td>35</td>
+    <td>11</td>
+    <td>12</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Captain Ant</td>
+    <td>50</td>
+    <td>18</td>
+    <td>15</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>General Ant</td>
+    <td>80</td>
+    <td>30</td>
+    <td>20</td>
+    <td>450</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Soldier Ant</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Corporal Ant</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Captain Ant</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>General Ant</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Spike Bomb
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/spike_bomb.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Spike Bomb</td>
+    <td>50</td>
+    <td>7</td>
+    <td>6</td>
+    <td>20</td>
+    <td rowspan="4">Exploding<br/>One-Eyed</td>
+    <td rowspan="4">Turns red and stops moving when HP falls below 45%.<br/>Explodes when HP falls below 20%. (Sets Shiren's HP to 1)<br/>Doesn't explode if damage dealt exceeds remaining HP.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Spike Blast</td>
+    <td>80</td>
+    <td>13</td>
+    <td>12</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Spike Fire</td>
+    <td>120</td>
+    <td>19</td>
+    <td>18</td>
+    <td>450</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Spike Erupt</td>
+    <td>200</td>
+    <td>34</td>
+    <td>20</td>
+    <td>1100</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Spike Bomb</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Spike Blast</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Spike Fire</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Spike Erupt</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Taur
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/taur.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Taur</td>
+    <td>28</td>
+    <td>20</td>
+    <td>5</td>
+    <td>35</td>
+    <td rowspan="4">Normal</td>
+    <td rowspan="4">Occasionally deals a critical hit.<br/>Can drop a Minotaur Axe when defeated.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Minotaur</td>
+    <td>55</td>
+    <td>35</td>
+    <td>9</td>
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Megataur</td>
+    <td>90</td>
+    <td>56</td>
+    <td>12</td>
+    <td>1750</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Gigataur</td>
+    <td>120</td>
+    <td>71</td>
+    <td>16</td>
+    <td>4200</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Taur</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Minotaur</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Megataur</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Gigataur</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Thiefwalrus
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/thiefwalrus.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Thiefwalrus</td>
+    <td>45</td>
+    <td>3</td>
+    <td>3</td>
+    <td>15</td>
+    <td rowspan="4">Normal<br/>Theft</td>
+    <td>Steals 1 item from Shiren or the ground, then warps and runs away.<br/>Prioritizes items on the ground.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Greenwalrus</td>
+    <td>58</td>
+    <td>9</td>
+    <td>9</td>
+    <td>30</td>
+    <td>Same as Thiefwalrus, but can multiply when attacked.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ironwalrus</td>
+    <td>70</td>
+    <td>12</td>
+    <td>12</td>
+    <td>150</td>
+    <td>Same as Thiefwalrus, but can multiply when attacked.<br/>Can also steal equipped items, and prioritizes doing so.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Roguewalrus</td>
+    <td>100</td>
+    <td>17</td>
+    <td>17</td>
+    <td>400</td>
+    <td>Same as Ironwalrus, but vanishes from the floor after stealing.</td>
+  </tr>
+</table>
+
+Drops an item from the Jar of Change table if defeated before it steals an item.
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Thiefwalrus</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Greenwalrus</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ironwalrus</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Roguewalrus</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Tiger Uho
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/tiger_uho.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Tiger Uho</td>
+    <td>33</td>
+    <td>12</td>
+    <td>9</td>
+    <td>35</td>
+    <td rowspan="4">Normal</td>
+    <td>Throws Shiren at another creature or into a Monster House.<br/>Can also throw other monsters or NPCs at Shiren.<br/>Throwing range of 5 tiles, deals 5 damage.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Tiger Uhoho</td>
+    <td>65</td>
+    <td>26</td>
+    <td>17</td>
+    <td>550</td>
+    <td>Same as Tiger Uho, but throwing range of 10 tiles.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Tiger Uhon</td>
+    <td>80</td>
+    <td>35</td>
+    <td>22</td>
+    <td>1300</td>
+    <td>Same as Tiger Uho, but throwing range of 15 tiles.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Tiger Uboho</td>
+    <td>100</td>
+    <td>51</td>
+    <td>29</td>
+    <td>2400</td>
+    <td>Same as Tiger Uho, but throwing range of 20 tiles.</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Tiger Uho</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Tiger Uhoho</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Tiger Uhon</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Tiger Uboho</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
+### Twisty Hani
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/twisty_hani.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Twisty Hani</td>
+    <td>25</td>
+    <td>8</td>
+    <td>9</td>
+    <td>35</td>
+    <td rowspan="4">Drain</td>
+    <td rowspan="4">Lowers Shiren's level by 1.<br/>(Exp until next level is set to 1)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Floppy Hani</td>
+    <td>40</td>
+    <td>12</td>
+    <td>11</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Droopy Hani</td>
+    <td>55</td>
+    <td>25</td>
+    <td>13</td>
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Wrinkly Hani</td>
+    <td>70</td>
+    <td>32</td>
+    <td>16</td>
+    <td>900</td>
+  </tr>
+</table>
+
+#### Locations
+
+<table class="monsterLocationTable">
+  <tr>
+    <th rowspan="2">Lv</th>
+    <th rowspan="2">Name</th>
+    <th colspan="9">Dungeon</th>
+  </tr>
+  <tr>
+    <th>RH</th>
+    <th>TM</th>
+    <th>F</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Twisty Hani</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Floppy Hani</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Droopy Hani</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Wrinkly Hani</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+
+## Shop Group
+
+### Shopkeeper
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/shopkeeper.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Shopkeeper</td>
+    <td>250</td>
+    <td>100</td>
+    <td>25</td>
     <td>0</td>
-    <td>Weapon</td>
+    <td>Normal<br/>Swift 2</td>
+    <td>Double speed, 2 attacks.</td>
+  </tr>
+</table>
+
+### Sherriff (Sheriff)
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/sherriff.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Sherriff</td>
+    <td>250</td>
+    <td>125</td>
+    <td>25</td>
+    <td>0</td>
+    <td>Normal</td>
     <td>No abilities.</td>
   </tr>
 </table>
 
-### Shopkeeper
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Shopkeeper (Red)</td>
-    <td>200</td>
-    <td>150</td>
-    <td>100</td>
-    <td>0</td>
-    <td rowspan="4">Swift 2</td>
-    <td rowspan="4">Double speed, 2 attacks.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Shopkeeper (Green)</td>
-    <td>200</td>
-    <td>160</td>
-    <td>150</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Shopkeeper (Black)</td>
-    <td>200</td>
-    <td>170</td>
-    <td>200</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Shopkeeper (Purple)</td>
-    <td>200</td>
-    <td>180</td>
-    <td>250</td>
-    <td>0</td>
-  </tr>
-</table>
-
 ### Guard Dog
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/guard_dog.png"/>
+</div>
 
 <table class="monsterPageTable">
   <tr>
@@ -4123,40 +6593,22 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   <tr>
     <td>1</td>
     <td>Guard Dog</td>
-    <td>100</td>
-    <td>50</td>
-    <td>50</td>
-    <td>0</td>
-    <td rowspan="4">Swift 2</td>
-    <td rowspan="4">Double speed, 2 attacks.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Fierce Dog</td>
-    <td>150</td>
-    <td>60</td>
+    <td>78</td>
     <td>70</td>
+    <td>15</td>
     <td>0</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Fighter Dog</td>
-    <td>200</td>
-    <td>70</td>
-    <td>90</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Bloodhound</td>
-    <td>200</td>
-    <td>80</td>
-    <td>100</td>
-    <td>0</td>
+    <td>Normal<br/>Swift 2</td>
+    <td>Double speed, 2 attacks.</td>
   </tr>
 </table>
 
-### Sheriff
+## Boss Group
+
+### Tainted Insect
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/tainted_insect.png"/>
+</div>
 
 <table class="monsterPageTable">
   <tr>
@@ -4171,222 +6623,99 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <td>1</td>
-    <td>Sheriff</td>
-    <td>150</td>
-    <td>150</td>
-    <td>100</td>
-    <td>0</td>
-    <td rowspan="4">-</td>
-    <td rowspan="4">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Detective</td>
-    <td>150</td>
-    <td>150</td>
-    <td>100</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Jitte</td>
-    <td>150</td>
-    <td>150</td>
-    <td>100</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Cop</td>
-    <td>150</td>
-    <td>150</td>
-    <td>100</td>
-    <td>0</td>
-  </tr>
-</table>
-
-### Mole
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Mole</td>
-    <td>8</td>
-    <td>0</td>
-    <td>0</td>
-    <td>5</td>
-    <td rowspan="2">-</td>
-    <td>Vanishes after 7 turns.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Blue Mole</td>
-    <td>18</td>
-    <td>0</td>
-    <td>0</td>
-    <td>40</td>
-    <td>Vanishes after 5 turns.</td>
-  </tr>
-</table>
-
-### Boss Group
-
-### Zagan
-
-<div class="relativeImage bossImage">
-  <img src="../images/monsters/zagan_1.png"/><img src="../images/monsters/zagan_2.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>Zagan</td>
-    <td>151</td>
-    <td>30</td>
-    <td>35</td>
-    <td>0</td>
-    <td>-</td>
-    <td>Direct attacks only.<br/>Nullifies projectiles, reflects magic bullets.<br/>Powers up when hit by Dragon Grass.</td>
-  </tr>
-</table>
-
-### Lord
-
-<div class="relativeImage bossImage">
-  <img src="../images/monsters/lord.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>Lord</td>
-    <td>151</td>
-    <td>40</td>
-    <td>45</td>
-    <td>0</td>
-    <td>-</td>
-    <td>Direct attacks only.</td>
-  </tr>
-</table>
-
-### Curas
-
-<div class="relativeImage bossImage">
-  <img src="../images/monsters/curas.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>Curas</td>
-    <td>201</td>
-    <td>50</td>
-    <td>60</td>
-    <td>0</td>
-    <td>-</td>
-    <td>Nullifies scrolls, staves, and projectiles.<br/>Deals knockback, and can drain 25 HP from Shiren.<br/>Eaten items like Swift Grass and Dragon Grass are effective.</td>
-  </tr>
-</table>
-
-### Evil God
-
-<div class="relativeImage bossImage">
-  <img src="../images/monsters/evil_god.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>Evil God (Part A)</td>
-    <td>80</td>
-    <td>0</td>
-    <td>33</td>
-    <td>0</td>
-    <td rowspan="3">-</td>
-    <td rowspan="2">Evil God doesn't attack.<br/>Dark Vassal type monsters appear when a part is destroyed.</td>
-  </tr>
-  <tr>
-    <td>Evil God (Part B)</td>
-    <td>120</td>
-    <td>0</td>
-    <td>40</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>Evil God (Core)</td>
-    <td>201</td>
-    <td>1</td>
-    <td>20</td>
-    <td>0</td>
-    <td>The fight ends once the core is destroyed.</td>
-  </tr>
-</table>
-
-### Geronimamel
-
-<div class="relativeImage bossImage">
-  <img src="../images/monsters/geronimamel.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>Geronimamel</td>
+    <td>Tainted Insect</td>
     <td>500</td>
-    <td>100</td>
-    <td>45</td>
-    <td>0</td>
-    <td>Swift 2</td>
-    <td>Direct attacks only.<br/>Double speed, 2 attacks.</td>
+    <td>48</td>
+    <td>20</td>
+    <td>7777</td>
+    <td>Normal</td>
+    <td>Boss of Table Mountain (30F).<br/>No abilities, immune to Bufu's Staff.</td>
+  </tr>
+</table>
+
+### Tainted Soldier
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/tainted_soldier.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Tainted Soldier</td>
+    <td>500</td>
+    <td>80</td>
+    <td>25</td>
+    <td>9999</td>
+    <td>Normal</td>
+    <td>Mid Boss of Tainted Path (Every 10F).<br/>No abilities, immune to Bufu's Staff.<br/>Always drops a Chiropractic Jar.</td>
+  </tr>
+</table>
+
+### Tainted Queen
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/tainted_queen.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Tainted Queen</td>
+    <td>900</td>
+    <td>130</td>
+    <td>40</td>
+    <td>15555</td>
+    <td>Normal</td>
+    <td>Boss of Tainted Path (99F).<br/>No abilities, immune to Bufu's Staff.<br/>Always drops a Kabra's Blade.</td>
+  </tr>
+</table>
+
+### King of the Kigny
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/king_of_the_kigny.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>King of the Kigny</td>
+    <td>350</td>
+    <td>105</td>
+    <td>28</td>
+    <td>5000</td>
+    <td>Normal</td>
+    <td>Boss of Ceremonial Cave (30F).<br/>No abilities, immune to Bufu's Staff.</td>
   </tr>
 </table>

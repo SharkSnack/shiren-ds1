@@ -1,39 +1,33 @@
 ---
 title: "Price Chart"
-metaTitle: "Price Chart - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of the Desert."
+metaTitle: "Price Chart - Shiren DS1 Wiki"
+metaDescription: "Item price chart for Shiren the Wanderer DS1."
 ---
-
-<br/>
-
-<span class="redText">※ English names might change as the translation project progresses.</span>
 
 # Categories
 
-- [Bracelets / Scrolls / Grass](#bracelets-/-scrolls-/-grass)
+- [Armbands / Scrolls / Herbs](#armbands-/-scrolls-/-herbs)
 - [Staves](#staves)
-- [Pots](#pots)
+- [Jars](#jars)
 - [Weapons](#weapons)
 - [Shields](#shields)
 
 # Price Calculation
 
-- Blessed = Price x 1.1
-- Cursed or Cracked = Price x 0.9
+- Cursed = Price x 0.9
 
-## Bracelets / Scrolls / Grass
+## Armbands / Scrolls / Herbs
 
 <table class="priceTableMedium">
   <tr>
-    <th colspan="4">Bracelet</th>
-    <th rowspan="32" class="tableDivider"></th>
+    <th colspan="3">Armband</th>
+    <th rowspan="27" class="tableDivider"></th>
     <th colspan="3">Scroll</th>
-    <th rowspan="32" class="tableDivider"></th>
-    <th colspan="3">Grass</th>
+    <th rowspan="27" class="tableDivider"></th>
+    <th colspan="3">Herb</th>
   </tr>
   <tr>
     <th>Name</th>
-    <th>Rune</th>
     <th>Buy</th>
     <th>Sell</th>
     <th>Name</th>
@@ -44,227 +38,168 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
     <th>Sell</th>
   </tr>
   <tr>
-    <td class="priceTableName">No Control Bracelet</td>
-    <td>ノ</td>
-    <td rowspan="2">600</td>
-    <td rowspan="2">150</td>
-    <td class="priceTableName">Grounded Scroll</td>
-    <td rowspan="14">100</td>
-    <td rowspan="14">50</td>
-    <td class="priceTableName">Weeds</td>
-    <td>2</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Explosion Bracelet</td>
-    <td>爆</td>
-    <td class="priceTableName">Inaccurate Scroll</td>
-    <td class="priceTableName">Herb</td>
-    <td rowspan="2">50</td>
-    <td rowspan="2">20</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Heal Bracelet</td>
-    <td>回</td>
-    <td rowspan="5">850</td>
-    <td rowspan="7">250</td>
+    <td class="priceTableName">Pitcher's Armband</td>
+    <td rowspan="6">3000</td>
+    <td rowspan="6">900</td>
     <td class="priceTableName">Monster Scroll</td>
-    <td class="priceTableName">Sight Grass</td>
+    <td rowspan="2">200</td>
+    <td rowspan="2">60</td>
+    <td class="priceTableName">Weeds</td>
+    <td>50</td>
+    <td>15</td>
   </tr>
   <tr>
-    <td class="priceTableName">Calm Bracelet</td>
-    <td>混</td>
-    <td class="priceTableName">Trap Erase Scroll</td>
-    <td class="priceTableName">Dizzy Grass</td>
-    <td rowspan="5">100</td>
-    <td rowspan="5">50</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Regret Bracelet</td>
-    <td>痛</td>
-    <td class="priceTableName">Trap Scroll</td>
-    <td class="priceTableName">Sleep Grass</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Bend Bracelet</td>
-    <td>曲</td>
-    <td class="priceTableName">Purify Scroll</td>
-    <td class="priceTableName">Swift Grass</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Alarm Bracelet</td>
-    <td>覚</td>
-    <td class="priceTableName">Muzzled Scroll</td>
-    <td class="priceTableName">Warp Grass</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Bad Aim Bracelet</td>
-    <td>外</td>
-    <td rowspan="3">1000</td>
-    <td class="priceTableName">Fear Scroll</td>
-    <td class="priceTableName">Dragon Grass</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Pierce Bracelet</td>
-    <td>遠</td>
-    <td class="priceTableName">Altruism Scroll</td>
-    <td class="priceTableName">Life Grass</td>
-    <td>150</td>
-    <td>40</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Strider Bracelet</td>
-    <td>通</td>
-    <td>500</td>
-    <td class="priceTableName">Bomber Scroll</td>
-    <td class="priceTableName">Otogiriso</td>
-    <td>200</td>
-    <td>100</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">No Drain Bracelet</td>
-    <td>ド</td>
-    <td rowspan="2">1100</td>
-    <td rowspan="4">400</td>
-    <td class="priceTableName">Swift Scroll</td>
-    <td class="priceTableName">Antidote Grass</td>
-    <td>550</td>
-    <td>300</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Vision Bracelet</td>
-    <td>目</td>
-    <td class="priceTableName">Escape Scroll</td>
-    <td class="priceTableName">Poison Grass</td>
-    <td rowspan="6">1000</td>
+    <td class="priceTableName">Rustless Armband</td>
+    <td class="priceTableName">Scroll of Haste</td>
+    <td class="priceTableName">Medicinal Herb</td>
     <td rowspan="2">300</td>
+    <td rowspan="2">90</td>
   </tr>
   <tr>
-    <td class="priceTableName">Warp Bracelet</td>
-    <td>飛</td>
-    <td rowspan="3">1200</td>
-    <td class="priceTableName">Damp Scroll</td>
-    <td class="priceTableName">Strength Grass</td>
+    <td class="priceTableName">Antidote Armband</td>
+    <td class="priceTableName">Scroll of Light</td>
+    <td rowspan="6">300</td>
+    <td rowspan="6">90</td>
+    <td class="priceTableName">Antidote Herb</td>
   </tr>
   <tr>
-    <td class="priceTableName">Cleansing Bracelet</td>
-    <td>健</td>
-    <td class="priceTableName">Explosion Scroll</td>
-    <td class="priceTableName">Happy Grass</td>
-    <td rowspan="4">500</td>
+    <td class="priceTableName">Armband of Calm</td>
+    <td class="priceTableName">Scroll of Identity</td>
+    <td class="priceTableName">Restorative Herb</td>
+    <td rowspan="2">600</td>
+    <td rowspan="2">180</td>
   </tr>
   <tr>
-    <td class="priceTableName">Strength Bracelet</td>
-    <td>力</td>
-    <td>600</td>
-    <td class="priceTableName">Navigation Scroll</td>
-    <td rowspan="2">250</td>
-    <td rowspan="2">50</td>
-    <td class="priceTableName">Expand Seed</td>
+    <td class="priceTableName">Sleepless Armband</td>
+    <td class="priceTableName">Scroll of Sleep</td>
+    <td class="priceTableName">Herb of Sight</td>
   </tr>
   <tr>
-    <td class="priceTableName">Clumsy Bracelet</td>
-    <td>垂</td>
-    <td rowspan="3">1500</td>
-    <td rowspan="3">750</td>
-    <td class="priceTableName">Identify Scroll</td>
-    <td class="priceTableName">Shrink Seed</td>
+    <td class="priceTableName">Antidrain Armband</td>
+    <td class="priceTableName">Scroll of Confusion</td>
+    <td class="priceTableName">Dragon Herb</td>
+    <td rowspan="4">800</td>
+    <td rowspan="4">240</td>
   </tr>
   <tr>
-    <td class="priceTableName">Scout Bracelet</td>
-    <td>見</td>
-    <td class="priceTableName">Air Slash Scroll</td>
-    <td rowspan="3">300</td>
-    <td rowspan="2">50</td>
-    <td class="priceTableName">Unlucky Seed</td>
+    <td class="priceTableName">Recovery Armband</td>
+    <td rowspan="5">5000</td>
+    <td rowspan="5">1500</td>
+    <td class="priceTableName">Wandering Scroll</td>
+    <td class="priceTableName">Herb of Strength</td>
   </tr>
   <tr>
-    <td class="priceTableName">Holy Bracelet</td>
-    <td>払</td>
-    <td class="priceTableName">Slumber Scroll</td>
-    <td class="priceTableName">Revival Grass</td>
-    <td>1500</td>
-    <td>750</td>
+    <td class="priceTableName">Happy Armband</td>
+    <td class="priceTableName">Hands Full Scroll</td>
+    <td class="priceTableName">Poison Herb</td>
   </tr>
   <tr>
-    <td class="priceTableName">Nirvana Bracelet</td>
-    <td>悟</td>
-    <td rowspan="2">2000</td>
-    <td rowspan="3">1000</td>
-    <td class="priceTableName">Confusion Scroll</td>
-    <td>150</td>
-    <td class="priceTableName">Angel Seed</td>
-    <td>5000</td>
-    <td>1000</td>
+    <td class="priceTableName">Passage Armband</td>
+    <td class="priceTableName">Scroll of Blessing</td>
+    <td rowspan="3">500</td>
+    <td rowspan="3">150</td>
+    <td class="priceTableName">Bitter Herb</td>
   </tr>
   <tr>
-    <td class="priceTableName">Hunger Bracelet</td>
-    <td>重</td>
+    <td class="priceTableName">Armband of Loss</td>
+    <td class="priceTableName">Scroll of Silence</td>
+    <td class="priceTableName">Herb of Life</td>
+    <td rowspan="4">1000</td>
+    <td rowspan="4">300</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Trap Armband</td>
+    <td class="priceTableName">Scroll of Explosion</td>
+    <td class="priceTableName">Big Belly Seed</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Armband of Sight</td>
+    <td rowspan="2">8000</td>
+    <td rowspan="2">2400</td>
+    <td class="priceTableName">Air Bless Scroll</td>
+    <td rowspan="2">800</td>
+    <td rowspan="2">240</td>
+    <td class="priceTableName">Little Belly Seed</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Discount Armband</td>
+    <td class="priceTableName">Earth Bless Scroll</td>
+    <td class="priceTableName">Herb of Confusion</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Critical Armband</td>
+    <td rowspan="2">10000</td>
+    <td rowspan="2">3000</td>
+    <td class="priceTableName">Blastwave Scroll</td>
+    <td rowspan="5">1000</td>
+    <td rowspan="5">300</td>
+    <td class="priceTableName">Happiness Herb</td>
+    <td rowspan="2">1500</td>
+    <td rowspan="2">450</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Armband of Regret</td>
     <td class="priceTableName">Power Up Scroll</td>
-    <td>450</td>
-    <td>50</td>
-    <td rowspan="11" colspan="3"></td>
+    <td class="priceTableName">Seed of Misfortune</td>
   </tr>
   <tr>
-    <td class="priceTableName">Trapper Bracelet</td>
-    <td>罠</td>
-    <td rowspan="3">10000</td>
-    <td class="priceTableName">Attraction Scroll</td>
-    <td>500</td>
-    <td>250</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Sturdy Bracelet</td>
-    <td>-</td>
-    <td rowspan="3">5000</td>
-    <td class="priceTableName">Pot God Scroll</td>
-    <td>2000</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Critical Bracelet</td>
-    <td>会</td>
-    <td class="priceTableName">Sanctuary Scroll</td>
-    <td rowspan="4">3000</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Paper Bracelet</td>
-    <td>避</td>
+    <td class="priceTableName">Identity Armband</td>
+    <td>30000</td>
     <td>15000</td>
-    <td class="priceTableName">Great Hall Scroll</td>
-    <td>100</td>
+    <td class="priceTableName">Scroll of Traps</td>
+    <td class="priceTableName">Herb of Victory</td>
+    <td rowspan="2">3000</td>
+    <td rowspan="2">900</td>
   </tr>
   <tr>
-    <td class="priceTableName">Gold Bracelet</td>
-    <td>-</td>
-    <td>20000</td>
-    <td>10000</td>
-    <td class="priceTableName">Heaven Scroll</td>
-    <td rowspan="2">2000</td>
+    <td rowspan="9" colspan="3"></td>
+    <td class="priceTableName">Super Trap Scroll</td>
+    <td class="priceTableName">Sleeping Herb</td>
   </tr>
   <tr>
-    <td rowspan="5" colspan="4"></td>
-    <td class="priceTableName">Earth Scroll</td>
+    <td class="priceTableName">Scroll of Chains</td>
+    <td class="priceTableName">Herb of Invisibility</td>
+    <td rowspan="2">4000</td>
+    <td rowspan="2">1200</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Extraction Scroll</td>
+    <td rowspan="2">1500</td>
+    <td rowspan="2">450</td>
+    <td class="priceTableName">Herb of Amnesia</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Riceball Scroll</td>
+    <td class="priceTableName">Herb of Revival</td>
+    <td rowspan="2">5000</td>
+    <td rowspan="2">1500</td>
   </tr>
   <tr>
     <td class="priceTableName">Plating Scroll</td>
-    <td>5000</td>
-    <td>1000</td>
+    <td rowspan="3">2000</td>
+    <td rowspan="3">600</td>
+    <td class="priceTableName">Kigny Seed</td>
   </tr>
   <tr>
-    <td class="priceTableName">Squid Sushi Scroll</td>
+    <td class="priceTableName">Scroll of Need</td>
+    <td class="priceTableName">Angel Seed</td>
     <td rowspan="2">10000</td>
-    <td>3000</td>
+    <td rowspan="2">3000</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Great Hall Scroll</td>
+    <td class="priceTableName">Seed of Ill Luck</td>
   </tr>
   <tr>
     <td class="priceTableName">Blank Scroll</td>
-    <td>7500</td>
+    <td>5000</td>
+    <td>1000</td>
+    <td rowspan="2" colspan="3"></td>
   </tr>
   <tr>
-    <td class="priceTableName">Extinction Scroll</td>
-    <td>50000</td>
-    <td>1</td>
+    <td class="priceTableName">Scroll of Removal</td>
+    <td>30000</td>
+    <td>9000</td>
   </tr>
 </table>
 
@@ -274,7 +209,7 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
   <tr>
     <th rowspan="2">Name</th>
     <th colspan="9">Buy</th>
-    <th rowspan="25" class="tableDivider"></th>
+    <th rowspan="18" class="tableDivider"></th>
     <th colspan="9">Sell</th>
   </tr>
   <tr>
@@ -298,16 +233,16 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
     <th>7</th>
   </tr>
   <tr>
-    <td class="priceTableName">Mage Staff</td>
-    <td rowspan="3">30</td>
-    <td rowspan="3">300</td>
-    <td rowspan="3">330</td>
-    <td rowspan="3">360</td>
-    <td rowspan="3">390</td>
-    <td rowspan="3">420</td>
-    <td rowspan="3">450</td>
-    <td rowspan="3">480</td>
-    <td rowspan="3">510</td>
+    <td class="priceTableName">Skull Staff</td>
+    <td>30</td>
+    <td>300</td>
+    <td>330</td>
+    <td>360</td>
+    <td>390</td>
+    <td>420</td>
+    <td>450</td>
+    <td>480</td>
+    <td>510</td>
     <td>9</td>
     <td>90</td>
     <td>99</td>
@@ -320,240 +255,117 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
   </tr>
   <tr>
     <td class="priceTableName">Knockback Staff</td>
-    <td rowspan="2">15</td>
-    <td rowspan="2">150</td>
-    <td rowspan="2">165</td>
-    <td rowspan="2">180</td>
-    <td rowspan="2">195</td>
-    <td rowspan="2">210</td>
-    <td rowspan="2">225</td>
-    <td rowspan="2">240</td>
-    <td rowspan="2">255</td>
+    <td rowspan="4">50</td>
+    <td rowspan="4">500</td>
+    <td rowspan="4">550</td>
+    <td rowspan="4">600</td>
+    <td rowspan="4">650</td>
+    <td rowspan="4">700</td>
+    <td rowspan="4">750</td>
+    <td rowspan="4">800</td>
+    <td rowspan="4">850</td>
+    <td rowspan="4">15</td>
+    <td rowspan="4">150</td>
+    <td rowspan="4">165</td>
+    <td rowspan="4">180</td>
+    <td rowspan="4">195</td>
+    <td rowspan="4">210</td>
+    <td rowspan="4">225</td>
+    <td rowspan="4">240</td>
+    <td rowspan="4">255</td>
   </tr>
   <tr>
-    <td class="priceTableName">Swap Staff</td>
+    <td class="priceTableName">Staff of Postpone</td>
   </tr>
   <tr>
-    <td class="priceTableName">Tunnel Staff</td>
-    <td rowspan="3">50</td>
-    <td rowspan="3">500</td>
-    <td rowspan="3">550</td>
-    <td rowspan="3">600</td>
-    <td rowspan="3">650</td>
+    <td class="priceTableName">Staff of Happiness</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Staff of Misfortune</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Switching Staff</td>
+    <td rowspan="3">70</td>
     <td rowspan="3">700</td>
-    <td rowspan="3">750</td>
-    <td rowspan="3">800</td>
-    <td rowspan="3">850</td>
-    <td rowspan="2">20</td>
-    <td rowspan="2">200</td>
-    <td rowspan="2">220</td>
-    <td rowspan="2">240</td>
-    <td rowspan="2">260</td>
-    <td rowspan="2">280</td>
-    <td rowspan="2">300</td>
-    <td rowspan="2">320</td>
-    <td rowspan="2">340</td>
+    <td rowspan="3">770</td>
+    <td rowspan="3">840</td>
+    <td rowspan="3">910</td>
+    <td rowspan="3">980</td>
+    <td rowspan="3">1050</td>
+    <td rowspan="3">1120</td>
+    <td rowspan="3">1190</td>
+    <td rowspan="3">21</td>
+    <td rowspan="3">210</td>
+    <td rowspan="3">231</td>
+    <td rowspan="3">252</td>
+    <td rowspan="3">273</td>
+    <td rowspan="3">294</td>
+    <td rowspan="3">315</td>
+    <td rowspan="3">336</td>
+    <td rowspan="3">357</td>
   </tr>
   <tr>
-    <td class="priceTableName">Pinning Staff</td>
+    <td class="priceTableName">Accelerating Staff</td>
   </tr>
   <tr>
-    <td class="priceTableName">Miss Staff</td>
-    <td>25</td>
-    <td>250</td>
-    <td>275</td>
-    <td>300</td>
-    <td>325</td>
-    <td>350</td>
-    <td>375</td>
-    <td>400</td>
-    <td>425</td>
+    <td class="priceTableName">Staff of Sloth</td>
   </tr>
   <tr>
-    <td class="priceTableName">Presto Staff</td>
-    <td rowspan="2">75</td>
-    <td rowspan="2">750</td>
-    <td rowspan="2">825</td>
-    <td rowspan="2">900</td>
-    <td rowspan="2">975</td>
-    <td rowspan="2">1050</td>
-    <td rowspan="2">1125</td>
-    <td rowspan="2">1200</td>
-    <td rowspan="2">1275</td>
-    <td>30</td>
-    <td>300</td>
-    <td>330</td>
-    <td>360</td>
-    <td>390</td>
-    <td>420</td>
-    <td>450</td>
-    <td>480</td>
-    <td>510</td>
+    <td class="priceTableName">Pain Sharing Staff</td>
+    <td rowspan="3">120</td>
+    <td rowspan="3">1200</td>
+    <td rowspan="3">1320</td>
+    <td rowspan="3">1440</td>
+    <td rowspan="3">1560</td>
+    <td rowspan="3">1680</td>
+    <td rowspan="3">1800</td>
+    <td rowspan="3">1920</td>
+    <td rowspan="3">2040</td>
+    <td rowspan="3">36</td>
+    <td rowspan="3">360</td>
+    <td rowspan="3">396</td>
+    <td rowspan="3">432</td>
+    <td rowspan="3">468</td>
+    <td rowspan="3">504</td>
+    <td rowspan="3">540</td>
+    <td rowspan="3">576</td>
+    <td rowspan="3">612</td>
   </tr>
   <tr>
-    <td class="priceTableName">Pull Staff</td>
-    <td>35</td>
-    <td>350</td>
-    <td>385</td>
-    <td>420</td>
-    <td>455</td>
-    <td>490</td>
-    <td>525</td>
-    <td>560</td>
-    <td>595</td>
+    <td class="priceTableName">Staff of Recovery</td>
   </tr>
   <tr>
-    <td class="priceTableName">Swift Staff</td>
-    <td>80</td>
-    <td>800</td>
-    <td>880</td>
-    <td>960</td>
-    <td>1040</td>
-    <td>1120</td>
-    <td>1200</td>
-    <td>1280</td>
-    <td>1360</td>
-    <td>40</td>
-    <td>400</td>
-    <td>440</td>
-    <td>480</td>
-    <td>520</td>
-    <td>560</td>
-    <td>600</td>
-    <td>640</td>
-    <td>680</td>
+    <td class="priceTableName">Staff of Stability</td>
   </tr>
   <tr>
-    <td class="priceTableName">Invisible Staff</td>
-    <td>90</td>
-    <td>900</td>
-    <td>990</td>
-    <td>1080</td>
-    <td>1170</td>
-    <td>1260</td>
-    <td>1350</td>
-    <td>1440</td>
-    <td>1530</td>
-    <td>45</td>
-    <td>450</td>
-    <td>495</td>
-    <td>540</td>
-    <td>585</td>
-    <td>630</td>
-    <td>675</td>
-    <td>720</td>
-    <td>765</td>
+    <td class="priceTableName">Sealing Staff</td>
+    <td rowspan="3">150</td>
+    <td rowspan="3">1500</td>
+    <td rowspan="3">1650</td>
+    <td rowspan="3">1800</td>
+    <td rowspan="3">1950</td>
+    <td rowspan="3">2100</td>
+    <td rowspan="3">2250</td>
+    <td rowspan="3">2400</td>
+    <td rowspan="3">2550</td>
+    <td rowspan="3">45</td>
+    <td rowspan="3">450</td>
+    <td rowspan="3">495</td>
+    <td rowspan="3">540</td>
+    <td rowspan="3">585</td>
+    <td rowspan="3">630</td>
+    <td rowspan="3">675</td>
+    <td rowspan="3">720</td>
+    <td rowspan="3">765</td>
   </tr>
   <tr>
-    <td class="priceTableName">Balance Staff</td>
-    <td>0</td>
-    <td>1000</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>0</td>
-    <td>500</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td class="priceTableName">Staff of Paralysis</td>
   </tr>
   <tr>
-    <td class="priceTableName">Empathy Staff</td>
-    <td>130</td>
-    <td>1300</td>
-    <td>1430</td>
-    <td>1560</td>
-    <td>1690</td>
-    <td>1820</td>
-    <td>1950</td>
-    <td>2080</td>
-    <td>2210</td>
-    <td>65</td>
-    <td>650</td>
-    <td>715</td>
-    <td>780</td>
-    <td>845</td>
-    <td>910</td>
-    <td>975</td>
-    <td>1040</td>
-    <td>1105</td>
+    <td class="priceTableName">Doppelganger Staff</td>
   </tr>
   <tr>
-    <td class="priceTableName">Transient Staff</td>
-    <td>140</td>
-    <td>1400</td>
-    <td>1540</td>
-    <td>1680</td>
-    <td>1820</td>
-    <td>1960</td>
-    <td>2100</td>
-    <td>2240</td>
-    <td>2380</td>
-    <td>70</td>
-    <td>700</td>
-    <td>770</td>
-    <td>840</td>
-    <td>910</td>
-    <td>980</td>
-    <td>1050</td>
-    <td>1120</td>
-    <td>1190</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Paralysis Staff</td>
-    <td rowspan="6">150</td>
-    <td rowspan="6">1500</td>
-    <td rowspan="6">1650</td>
-    <td rowspan="6">1800</td>
-    <td rowspan="6">1950</td>
-    <td rowspan="6">2100</td>
-    <td rowspan="6">2250</td>
-    <td rowspan="6">2400</td>
-    <td rowspan="6">2550</td>
-    <td>45</td>
-    <td>450</td>
-    <td>495</td>
-    <td>540</td>
-    <td>585</td>
-    <td>630</td>
-    <td>675</td>
-    <td>720</td>
-    <td>765</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Decoy Staff</td>
-    <td rowspan="5">75</td>
-    <td rowspan="5">750</td>
-    <td rowspan="5">825</td>
-    <td rowspan="5">900</td>
-    <td rowspan="5">975</td>
-    <td rowspan="5">1050</td>
-    <td rowspan="5">1125</td>
-    <td rowspan="5">1200</td>
-    <td rowspan="5">1275</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Seal Staff</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Unlucky Staff</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Happy Staff</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Quarter Staff</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Rage Staff</td>
+    <td class="priceTableName">Lightning Staff</td>
     <td>200</td>
     <td>2000</td>
     <td>2200</td>
@@ -563,70 +375,46 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
     <td>3000</td>
     <td>3200</td>
     <td>3400</td>
-    <td>100</td>
-    <td>1000</td>
-    <td>1100</td>
-    <td>1200</td>
-    <td>1300</td>
-    <td>1400</td>
-    <td>1500</td>
-    <td>1600</td>
-    <td>1700</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Grass Gainer</td>
-    <td rowspan="2">250</td>
-    <td rowspan="2">2500</td>
-    <td rowspan="2">2750</td>
-    <td rowspan="2">3000</td>
-    <td rowspan="2">3250</td>
-    <td rowspan="2">3500</td>
-    <td rowspan="2">3750</td>
-    <td rowspan="2">4000</td>
-    <td rowspan="2">4250</td>
-    <td rowspan="2">125</td>
-    <td rowspan="2">1250</td>
-    <td rowspan="2">1375</td>
-    <td rowspan="2">1500</td>
-    <td rowspan="2">1625</td>
-    <td rowspan="2">1750</td>
-    <td rowspan="2">1875</td>
-    <td rowspan="2">2000</td>
-    <td rowspan="2">2125</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Grass Tosser</td>
+    <td>60</td>
+    <td>600</td>
+    <td>660</td>
+    <td>720</td>
+    <td>780</td>
+    <td>840</td>
+    <td>900</td>
+    <td>960</td>
+    <td>1020</td>
   </tr>
   <tr>
     <td class="priceTableName">Bufu's Staff</td>
-    <td>500</td>
-    <td>5000</td>
-    <td>5500</td>
-    <td>6000</td>
-    <td>6500</td>
-    <td>7000</td>
-    <td>7500</td>
-    <td>8000</td>
-    <td>8500</td>
-    <td>250</td>
-    <td>2500</td>
-    <td>2750</td>
+    <td>300</td>
     <td>3000</td>
-    <td>3250</td>
-    <td>3500</td>
-    <td>3750</td>
-    <td>4000</td>
-    <td>4250</td>
+    <td>3300</td>
+    <td>3600</td>
+    <td>3900</td>
+    <td>4200</td>
+    <td>4500</td>
+    <td>4800</td>
+    <td>5100</td>
+    <td>90</td>
+    <td>900</td>
+    <td>990</td>
+    <td>1080</td>
+    <td>1170</td>
+    <td>1260</td>
+    <td>1350</td>
+    <td>1440</td>
+    <td>1530</td>
   </tr>
 </table>
 
-## Pots
+## Jars
 
 <table class="priceTableMedium">
   <tr>
     <th rowspan="2">Name</th>
     <th colspan="7">Buy</th>
-    <th rowspan="17" class="tableDivider"></th>
+    <th rowspan="18" class="tableDivider"></th>
     <th colspan="7">Sell</th>
   </tr>
   <tr>
@@ -646,161 +434,150 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
     <th>5</th>
   </tr>
   <tr>
-    <td class="priceTableName">Water Pot</td>
-    <td>0</td>
-    <td>1000</td>
-    <td>1000</td>
-    <td>1000</td>
-    <td>1000</td>
-    <td>1000</td>
-    <td>1000</td>
-    <td>0</td>
-    <td>500</td>
-    <td>500</td>
-    <td>500</td>
-    <td>500</td>
-    <td>500</td>
-    <td>500</td>
+    <td class="priceTableName">Jar of Holding</td>
+    <td rowspan="4">120</td>
+    <td rowspan="4">1200</td>
+    <td rowspan="4">1320</td>
+    <td rowspan="4">1440</td>
+    <td rowspan="4">1560</td>
+    <td rowspan="4">1680</td>
+    <td rowspan="4">1800</td>
+    <td rowspan="4">36</td>
+    <td rowspan="4">360</td>
+    <td rowspan="4">396</td>
+    <td rowspan="4">432</td>
+    <td rowspan="4">468</td>
+    <td rowspan="4">504</td>
+    <td rowspan="4">540</td>
   </tr>
   <tr>
-    <td class="priceTableName">Heal Pot</td>
-    <td rowspan="2">100</td>
-    <td rowspan="2">1000</td>
-    <td rowspan="2">1100</td>
-    <td rowspan="2">1200</td>
-    <td rowspan="2">1300</td>
-    <td rowspan="2">1400</td>
-    <td rowspan="2">1500</td>
-    <td rowspan="2">50</td>
-    <td rowspan="2">500</td>
-    <td rowspan="2">550</td>
-    <td rowspan="2">600</td>
-    <td rowspan="2">650</td>
-    <td rowspan="2">700</td>
+    <td class="priceTableName">Jar of Change</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Jar of Hiding</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Pointless Jar</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Chiropractic Jar</td>
+    <td rowspan="3">150</td>
+    <td rowspan="3">1500</td>
+    <td rowspan="3">1650</td>
+    <td rowspan="3">1800</td>
+    <td rowspan="3">1950</td>
+    <td rowspan="3">2100</td>
+    <td rowspan="3">2250</td>
+    <td rowspan="3">45</td>
+    <td rowspan="3">450</td>
+    <td rowspan="3">495</td>
+    <td rowspan="3">540</td>
+    <td rowspan="3">585</td>
+    <td rowspan="3">630</td>
+    <td rowspan="3">675</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Walrus Jar</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Monster Jar</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Storehouse Jar</td>
+    <td rowspan="2">250</td>
+    <td rowspan="2">2500</td>
+    <td rowspan="2">2750</td>
+    <td rowspan="2">3000</td>
+    <td rowspan="2">3250</td>
+    <td rowspan="2">3500</td>
+    <td rowspan="2">3750</td>
+    <td rowspan="2">75</td>
     <td rowspan="2">750</td>
+    <td rowspan="2">825</td>
+    <td rowspan="2">900</td>
+    <td rowspan="2">975</td>
+    <td rowspan="2">1050</td>
+    <td rowspan="2">1125</td>
   </tr>
   <tr>
-    <td class="priceTableName">Storage Pot</td>
+    <td class="priceTableName">Bottomless Jar</td>
   </tr>
   <tr>
-    <td class="priceTableName">Degrade Pot</td>
-    <td rowspan="6">150</td>
-    <td rowspan="6">1500</td>
-    <td rowspan="6">1650</td>
-    <td rowspan="6">1800</td>
-    <td rowspan="6">1950</td>
-    <td rowspan="6">2100</td>
-    <td rowspan="6">2250</td>
-    <td rowspan="5">70</td>
-    <td rowspan="5">700</td>
-    <td rowspan="5">770</td>
-    <td rowspan="5">840</td>
-    <td rowspan="5">910</td>
-    <td rowspan="5">980</td>
-    <td rowspan="5">1050</td>
+    <td class="priceTableName">Jar of Identity</td>
+    <td rowspan="2">300</td>
+    <td rowspan="2">3000</td>
+    <td rowspan="2">3300</td>
+    <td rowspan="2">3600</td>
+    <td rowspan="2">3900</td>
+    <td rowspan="2">4200</td>
+    <td rowspan="2">4500</td>
+    <td rowspan="2">90</td>
+    <td rowspan="2">900</td>
+    <td rowspan="2">990</td>
+    <td rowspan="2">1080</td>
+    <td rowspan="2">1170</td>
+    <td rowspan="2">1260</td>
+    <td rowspan="2">1350</td>
   </tr>
   <tr>
-    <td class="priceTableName">Presto Pot</td>
+    <td class="priceTableName">Unbreakable Jar</td>
   </tr>
   <tr>
-    <td class="priceTableName">Teleport Pot</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Blessing Pot</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Identify Pot</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Cannon Pot</td>
-    <td>100</td>
-    <td>1000</td>
-    <td>1100</td>
-    <td>1200</td>
-    <td>1300</td>
-    <td>1400</td>
+    <td class="priceTableName">Melding Jar</td>
+    <td>500</td>
+    <td>5000</td>
+    <td>5500</td>
+    <td>6000</td>
+    <td>6500</td>
+    <td>7000</td>
+    <td>7500</td>
+    <td>150</td>
     <td>1500</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Synthesis Pot</td>
-    <td>180</td>
+    <td>1650</td>
     <td>1800</td>
-    <td>1980</td>
-    <td>2160</td>
-    <td>2340</td>
-    <td>2520</td>
-    <td>2700</td>
-    <td>90</td>
-    <td>900</td>
-    <td>990</td>
-    <td>1080</td>
-    <td>1170</td>
-    <td>1260</td>
-    <td>1350</td>
+    <td>1950</td>
+    <td>2100</td>
+    <td>2250</td>
   </tr>
   <tr>
-    <td class="priceTableName">Curse Pot</td>
-    <td>300</td>
-    <td>3000</td>
-    <td>3300</td>
-    <td>3600</td>
-    <td>3900</td>
-    <td>4200</td>
-    <td>4500</td>
-    <td rowspan="2">100</td>
-    <td rowspan="2">1000</td>
-    <td rowspan="2">1100</td>
-    <td rowspan="2">1200</td>
-    <td rowspan="2">1300</td>
-    <td rowspan="2">1400</td>
-    <td rowspan="2">1500</td>
+    <td class="priceTableName">Strengthening Jar</td>
+    <td rowspan="3">1000</td>
+    <td rowspan="3">10000</td>
+    <td rowspan="3">11000</td>
+    <td rowspan="3">12000</td>
+    <td rowspan="3">13000</td>
+    <td rowspan="3">14000</td>
+    <td rowspan="3">15000</td>
+    <td rowspan="3">300</td>
+    <td rowspan="3">3000</td>
+    <td rowspan="3">3300</td>
+    <td rowspan="3">3600</td>
+    <td rowspan="3">3900</td>
+    <td rowspan="3">4200</td>
+    <td rowspan="3">4500</td>
   </tr>
   <tr>
-    <td class="priceTableName">Absorb Pot</td>
-    <td rowspan="2">500</td>
-    <td rowspan="2">5000</td>
-    <td rowspan="2">5500</td>
-    <td rowspan="2">6000</td>
-    <td rowspan="2">6500</td>
-    <td rowspan="2">7000</td>
-    <td rowspan="2">7500</td>
+    <td class="priceTableName">Weakening Jar</td>
   </tr>
   <tr>
-    <td class="priceTableName">Imprison Pot</td>
-    <td>250</td>
-    <td>2500</td>
-    <td>2750</td>
-    <td>3000</td>
-    <td>3250</td>
-    <td>3500</td>
-    <td>3750</td>
+    <td class="priceTableName">Venting Jar</td>
   </tr>
   <tr>
-    <td class="priceTableName">Upgrade Pot</td>
-    <td rowspan="2">2000</td>
-    <td rowspan="2">20000</td>
-    <td rowspan="2">22000</td>
-    <td rowspan="2">24000</td>
-    <td rowspan="2">26000</td>
-    <td rowspan="2">28000</td>
-    <td rowspan="2">30000</td>
-    <td>100</td>
-    <td>1000</td>
-    <td>1100</td>
-    <td>1200</td>
-    <td>1300</td>
-    <td>1400</td>
+    <td class="priceTableName">Gaibara's Jar</td>
     <td>1500</td>
-  </tr>
-  <tr>
-    <td class="priceTableName">Pricy Pot</td>
-    <td>1000</td>
-    <td>10000</td>
-    <td>11000</td>
-    <td>12000</td>
-    <td>13000</td>
-    <td>14000</td>
     <td>15000</td>
+    <td>16500</td>
+    <td>18000</td>
+    <td>19500</td>
+    <td>21000</td>
+    <td>22500</td>
+    <td>450</td>
+    <td>4500</td>
+    <td>4950</td>
+    <td>5400</td>
+    <td>5850</td>
+    <td>6300</td>
+    <td>6750</td>
   </tr>
 </table>
 
@@ -810,289 +587,165 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
   <thead>
     <tr>
       <th>Name</th>
-      <th>Rune</th>
+      <th>Meld</th>
       <th>Atk</th>
       <th>Max</th>
-      <th>Slot</th>
       <th>Buy</th>
       <th>Sell</th>
       <th class="tableDivider"></th>
       <th>Name</th>
-      <th>Rune</th>
+      <th>Meld</th>
       <th>Atk</th>
       <th>Max</th>
-      <th>Slot</th>
       <th>Buy</th>
       <th>Sell</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="7" class="highlightDarkGray">Regular</td>
-      <td rowspan="19" class="tableDivider"></td>
-      <td colspan="7" class="highlightDarkGray">Special Ability</td>
+      <td colspan="6" class="highlightDarkGray">Regular</td>
+      <td rowspan="13" class="tableDivider"></td>
+      <td colspan="6" class="highlightDarkGray">Special Ability</td>
     </tr>
     <tr>
-      <td class="priceTableName">Club</td>
+      <td class="priceTableName">Cudgel</td>
       <td>-</td>
       <td>2</td>
       <td>20</td>
-      <td>4</td>
-      <td>200</td>
-      <td>100</td>
-      <td class="priceTableName">Razor Wind</td>
-      <td>三</td>
-      <td>1</td>
-      <td>13</td>
-      <td>7</td>
-      <td>16000</td>
-      <td>8000</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Mamel Sword</td>
-      <td>-</td>
-      <td>4</td>
-      <td>99</td>
-      <td>10</td>
-      <td>20000</td>
-      <td>5000</td>
-      <td class="priceTableName">Homing Blade</td>
-      <td>必</td>
-      <td>2</td>
-      <td>20</td>
-      <td>1</td>
-      <td>16000</td>
-      <td>8000</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Bronze Sword</td>
-      <td>-</td>
-      <td>5</td>
-      <td>30</td>
-      <td>4</td>
-      <td>500</td>
-      <td>250</td>
+      <td>400</td>
+      <td>120</td>
       <td class="priceTableName">Pickaxe</td>
-      <td>堀</td>
-      <td>2</td>
-      <td>20</td>
-      <td>6</td>
-      <td>1000</td>
-      <td>500</td>
+      <td><img src="../images/meld/pickaxe.png"/></td>
+      <td>1</td>
+      <td>8</td>
+      <td>700</td>
+      <td>350</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Polearm</td>
+      <td>-</td>
+      <td>4</td>
+      <td>30</td>
+      <td>600</td>
+      <td>180</td>
+      <td class="priceTableName">Homing Blade</td>
+      <td><img src="../images/meld/homing_blade.png"/></td>
+      <td>1</td>
+      <td>8</td>
+      <td>10000</td>
+      <td>5000</td>
     </tr>
     <tr>
       <td class="priceTableName">Katana</td>
       <td>-</td>
-      <td>9</td>
-      <td>30</td>
-      <td>5</td>
-      <td>750</td>
-      <td>300</td>
-      <td class="priceTableName">Power Pole</td>
-      <td>如</td>
-      <td>3</td>
-      <td>10</td>
-      <td>4</td>
-      <td>6000</td>
-      <td>3000</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Beetle Axe</td>
-      <td>-</td>
-      <td>12</td>
-      <td>30</td>
-      <td>4</td>
-      <td>2000</td>
-      <td>1000</td>
-      <td class="priceTableName">Mallet</td>
-      <td>罠</td>
-      <td>3</td>
-      <td>20</td>
-      <td>4</td>
-      <td>3000</td>
-      <td>1500</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Dotanuki</td>
-      <td>-</td>
-      <td>12</td>
-      <td>40</td>
-      <td>3</td>
-      <td>1500</td>
-      <td>750</td>
-      <td class="priceTableName">Soul Sickle</td>
-      <td>吸</td>
-      <td>4</td>
-      <td>99</td>
-      <td>1</td>
-      <td>1500</td>
-      <td>750</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Demon Slayer</td>
-      <td>-</td>
-      <td>13</td>
-      <td>35</td>
-      <td>4</td>
-      <td>2600</td>
-      <td>1300</td>
-      <td class="priceTableName">Cell Armor Sword</td>
-      <td>セ</td>
-      <td>5</td>
-      <td>10</td>
-      <td>3</td>
-      <td>6000</td>
-      <td>3000</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Fuuma Katana</td>
-      <td>-</td>
-      <td>15</td>
-      <td>30</td>
-      <td>3</td>
-      <td>5000</td>
-      <td>2500</td>
-      <td class="priceTableName">Wonder Pick</td>
-      <td><span class="goldText">堀</span></td>
-      <td>5</td>
-      <td>20</td>
-      <td>1</td>
-      <td>4500</td>
-      <td>2250</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Kabura's Blade</td>
-      <td>-</td>
-      <td>18</td>
-      <td>50</td>
-      <td>2</td>
-      <td>5500</td>
-      <td>2250</td>
-      <td class="priceTableName">Healing Sword</td>
-      <td>回</td>
-      <td>5</td>
-      <td>20</td>
-      <td>4</td>
-      <td>8000</td>
-      <td>4000</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Fiery Fuuma</td>
-      <td>-</td>
-      <td>25</td>
-      <td>45</td>
-      <td>4</td>
-      <td>15000</td>
-      <td>7500</td>
-      <td class="priceTableName">Aura Spear</td>
-      <td>貫</td>
       <td>6</td>
-      <td>20</td>
-      <td>3</td>
-      <td>15000</td>
-      <td>7500</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Kaburasutegi</td>
-      <td>-</td>
-      <td>40</td>
       <td>50</td>
-      <td>4</td>
-      <td>30000</td>
-      <td>15000</td>
-      <td class="priceTableName">Bufu's Cleaver</td>
-      <td>肉</td>
+      <td>800</td>
+      <td>240</td>
+      <td class="priceTableName">Golden Blade</td>
+      <td><img src="../images/meld/golden_blade.png"/></td>
+      <td>2</td>
       <td>8</td>
-      <td>10</td>
-      <td>3</td>
-      <td>6000</td>
-      <td>1000</td>
+      <td>6500</td>
+      <td>2300</td>
     </tr>
     <tr>
-      <td colspan="7" class="highlightDarkGray">Type Effective</td>
-      <td class="priceTableName">Chaos Axe</td>
-      <td>混</td>
-      <td>10</td>
-      <td>10</td>
-      <td>4</td>
-      <td>18000</td>
+      <td class="priceTableName">Mastersword</td>
+      <td>-</td>
+      <td>8</td>
+      <td>60</td>
+      <td>1500</td>
+      <td>450</td>
+      <td class="priceTableName">Razor Wind</td>
+      <td><img src="../images/meld/razor_wind.png"/></td>
+      <td>2</td>
+      <td>8</td>
       <td>9000</td>
+      <td>3750</td>
     </tr>
     <tr>
-      <td class="priceTableName">Drain Buster</td>
-      <td>ド</td>
-      <td>7</td>
-      <td>30</td>
-      <td>4</td>
-      <td>2500</td>
-      <td>1250</td>
-      <td class="priceTableName">Spark Sword</td>
-      <td>ス</td>
-      <td>10</td>
-      <td>20</td>
-      <td>4</td>
-      <td>3500</td>
-      <td>1750</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Ghost Sickle</td>
-      <td>仏</td>
-      <td>8</td>
-      <td>20</td>
-      <td>4</td>
-      <td>2800</td>
-      <td>1400</td>
-      <td class="priceTableName">Minotaur's Axe</td>
-      <td>会</td>
-      <td>10</td>
-      <td>35</td>
+      <td class="priceTableName">Kabra's Blade</td>
+      <td>-</td>
+      <td>12</td>
+      <td>70</td>
+      <td>15000</td>
+      <td>4500</td>
+      <td class="priceTableName">Bufu's Cleaver</td>
+      <td><img src="../images/meld/bufus_cleaver.png"/></td>
       <td>3</td>
-      <td>4000</td>
-      <td>2000</td>
+      <td>30</td>
+      <td>3300</td>
+      <td>1550</td>
     </tr>
     <tr>
-      <td class="priceTableName">Cyclops Killer</td>
-      <td>目</td>
+      <td colspan="6" class="highlightDarkGray">Type-Effective</td>
+      <td class="priceTableName">Minotaur's Axe</td>
+      <td><img src="../images/meld/minotaurs_axe.png"/></td>
+      <td>5</td>
       <td>8</td>
-      <td>20</td>
-      <td>4</td>
-      <td>2000</td>
+      <td>8000</td>
+      <td>3800</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Sickle Slayer</td>
+      <td><img src="../images/meld/sickle_slayer.png"/></td>
+      <td>3</td>
+      <td>8</td>
+      <td>2400</td>
       <td>1000</td>
-      <td class="priceTableName">Shoddy Sword</td>
-      <td>捨</td>
-      <td>35</td>
-      <td>25</td>
-      <td>1</td>
-      <td>1000</td>
-      <td>500</td>
+      <td class="priceTableName">Kigny Axe</td>
+      <td><img src="../images/meld/kigny_axe.png"/></td>
+      <td>10</td>
+      <td>50</td>
+      <td>22500</td>
+      <td>8500</td>
     </tr>
     <tr>
       <td class="priceTableName">Crescent Arm</td>
-      <td>月</td>
-      <td>10</td>
+      <td><img src="../images/meld/crescent_arm.png"/></td>
+      <td>3</td>
+      <td>8</td>
+      <td>3100</td>
+      <td>1140</td>
+      <td class="priceTableName">Fragile Edge</td>
+      <td><img src="../images/meld/fragile_edge.png"/></td>
       <td>20</td>
+      <td>8</td>
+      <td>4200</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Cyclops Killer</td>
+      <td><img src="../images/meld/cyclops_killer.png"/></td>
+      <td>3</td>
+      <td>8</td>
+      <td>3900</td>
+      <td>1380</td>
+      <td rowspan="4" colspan="6"></td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Drain Buster</td>
+      <td><img src="../images/meld/drain_buster.png"/></td>
       <td>4</td>
-      <td>9000</td>
-      <td>4500</td>
-      <td rowspan="3" colspan="7"></td>
+      <td>8</td>
+      <td>3900</td>
+      <td>1380</td>
     </tr>
     <tr>
-      <td class="priceTableName">Dragon Killer</td>
-      <td>竜</td>
-      <td>12</td>
-      <td>20</td>
-      <td>6</td>
-      <td>3000</td>
-      <td>1500</td>
+      <td class="priceTableName">Air Slayer</td>
+      <td><img src="../images/meld/air_slayer.png"/></td>
+      <td>4</td>
+      <td>8</td>
+      <td>5300</td>
+      <td>1800</td>
     </tr>
     <tr>
-      <td class="priceTableName">Sky Splitter</td>
-      <td>空</td>
-      <td>14</td>
-      <td>20</td>
-      <td>2</td>
-      <td>6500</td>
-      <td>3000</td>
+      <td class="priceTableName">Dragonkiller</td>
+      <td><img src="../images/meld/dragonkiller.png"/></td>
+      <td>5</td>
+      <td>8</td>
+      <td>6000</td>
+      <td>2500</td>
     </tr>
   </tbody>
 </table>
@@ -1103,248 +756,146 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
   <thead>
     <tr>
       <th>Name</th>
-      <th>Rune</th>
+      <th>Meld</th>
       <th>Def</th>
       <th>Max</th>
-      <th>Slot</th>
       <th>Buy</th>
       <th>Sell</th>
       <th class="tableDivider"></th>
       <th>Name</th>
-      <th>Rune</th>
+      <th>Meld</th>
       <th>Def</th>
       <th>Max</th>
-      <th>Slot</th>
       <th>Buy</th>
       <th>Sell</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="7" class="highlightDarkGray">Regular</td>
-      <td rowspan="16" class="tableDivider"></td>
-      <td colspan="7" class="highlightDarkGray">Special Ability (Cont.)</td>
+      <td colspan="6" class="highlightDarkGray">Regular</td>
+      <td rowspan="10" class="tableDivider"></td>
+      <td colspan="6" class="highlightDarkGray">Special Ability (Cont.)</td>
     </tr>
     <tr>
-      <td class="priceTableName">Mamel Shield</td>
+      <td class="priceTableName">Fancy Shield</td>
       <td>-</td>
       <td>1</td>
-      <td>99</td>
-      <td>10</td>
-      <td>13000</td>
-      <td>6500</td>
-      <td class="priceTableName">Diet Shield</td>
-      <td>腹</td>
-      <td>2</td>
       <td>30</td>
-      <td>4</td>
-      <td>1200</td>
-      <td>600</td>
+      <td>10000</td>
+      <td>3000</td>
+      <td class="priceTableName">Spiked Ward</td>
+      <td><img src="../images/meld/spiked_ward.png"/></td>
+      <td>2</td>
+      <td>8</td>
+      <td>6600</td>
+      <td>2400</td>
     </tr>
     <tr>
-      <td class="priceTableName">Bronze Shield</td>
+      <td class="priceTableName">Wood Shield</td>
       <td>-</td>
-      <td>5</td>
-      <td>35</td>
-      <td>5</td>
-      <td>350</td>
-      <td>170</td>
-      <td class="priceTableName">Walrus Shield</td>
-      <td>ト</td>
       <td>3</td>
       <td>25</td>
-      <td>3</td>
-      <td>2000</td>
-      <td>1000</td>
+      <td>400</td>
+      <td>120</td>
+      <td class="priceTableName">Evasive Shield</td>
+      <td><img src="../images/meld/evasive_shield.png"/></td>
+      <td>2</td>
+      <td>8</td>
+      <td>7500</td>
+      <td>3750</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Bronzeward</td>
+      <td>-</td>
+      <td>4</td>
+      <td>35</td>
+      <td>600</td>
+      <td>180</td>
+      <td class="priceTableName">Prism Shield</td>
+      <td><img src="../images/meld/prism_shield.png"/></td>
+      <td>2</td>
+      <td>8</td>
+      <td>17500</td>
+      <td>7000</td>
     </tr>
     <tr>
       <td class="priceTableName">Iron Shield</td>
       <td>-</td>
-      <td>9</td>
-      <td>35</td>
-      <td>5</td>
-      <td>1200</td>
-      <td>600</td>
-      <td class="priceTableName">Wood Shield</td>
-      <td>金</td>
-      <td>3</td>
-      <td>25</td>
-      <td>5</td>
-      <td>900</td>
-      <td>400</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Beetle Shield</td>
-      <td>-</td>
-      <td>13</td>
-      <td>15</td>
       <td>6</td>
-      <td>3500</td>
-      <td>1750</td>
-      <td class="priceTableName">Froggo Shield</td>
-      <td>ガ</td>
-      <td>3</td>
-      <td>10</td>
-      <td>4</td>
-      <td>3000</td>
-      <td>1500</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Demon Shield</td>
-      <td>-</td>
-      <td>14</td>
-      <td>10</td>
-      <td>2</td>
-      <td>3000</td>
-      <td>1500</td>
-      <td class="priceTableName">Holy Shield</td>
-      <td>払</td>
-      <td>5</td>
-      <td>15</td>
-      <td>3</td>
-      <td>1500</td>
-      <td>750</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Fuuma Shield</td>
-      <td>-</td>
-      <td>16</td>
-      <td>30</td>
-      <td>2</td>
-      <td>10000</td>
-      <td>5000</td>
-      <td class="priceTableName">Counter Shield</td>
-      <td>バ</td>
-      <td>5</td>
-      <td>20</td>
-      <td>6</td>
-      <td>4000</td>
+      <td>45</td>
       <td>2000</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Kabura's Guard</td>
-      <td>-</td>
-      <td>20</td>
-      <td>35</td>
-      <td>4</td>
-      <td>12000</td>
-      <td>6000</td>
-      <td class="priceTableName">Traproid Shield</td>
-      <td>罠</td>
-      <td>6</td>
-      <td>15</td>
-      <td>4</td>
-      <td>6500</td>
-      <td>3000</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Helix Shield</td>
-      <td>-</td>
-      <td>30</td>
-      <td>40</td>
-      <td>6</td>
-      <td>15000</td>
-      <td>7500</td>
-      <td class="priceTableName">Power Shield</td>
-      <td>力</td>
-      <td>7</td>
-      <td>25</td>
-      <td>5</td>
-      <td>5000</td>
-      <td>2500</td>
-    </tr>
-    <tr>
-      <td colspan="7" class="highlightDarkGray">Special Ability</td>
+      <td>600</td>
       <td class="priceTableName">Blast Shield</td>
-      <td>地</td>
-      <td>8</td>
-      <td>25</td>
-      <td>4</td>
-      <td>2500</td>
-      <td>1250</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Nirvana Shield</td>
-      <td>悟</td>
-      <td>1</td>
-      <td>5</td>
-      <td>0</td>
-      <td>10000</td>
-      <td>5000</td>
-      <td class="priceTableName">Dragon Shield</td>
-      <td>竜</td>
-      <td>10</td>
-      <td>30</td>
+      <td><img src="../images/meld/blast_shield.png"/></td>
       <td>3</td>
-      <td>6000</td>
-      <td>3000</td>
+      <td>8</td>
+      <td>4600</td>
+      <td>1940</td>
     </tr>
     <tr>
-      <td class="priceTableName">Dodge Shield</td>
-      <td>避</td>
-      <td>1</td>
-      <td>5</td>
-      <td>1</td>
-      <td>15000</td>
-      <td>7500</td>
-      <td class="priceTableName">Prism Shield</td>
-      <td>プ</td>
-      <td>11</td>
-      <td>10</td>
-      <td>2</td>
-      <td>7500</td>
-      <td>3000</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Reflect Shield</td>
-      <td>返</td>
-      <td>1</td>
-      <td>5</td>
-      <td>1</td>
-      <td>15000</td>
-      <td>7500</td>
-      <td class="priceTableName">Heavy Shield</td>
-      <td>重</td>
-      <td>20</td>
-      <td>20</td>
-      <td>2</td>
+      <td class="priceTableName">Windshield</td>
+      <td>-</td>
+      <td>12</td>
+      <td>70</td>
+      <td>5000</td>
       <td>2500</td>
+      <td class="priceTableName">Gaze Shield</td>
+      <td><img src="../images/meld/gaze_shield.png"/></td>
+      <td>4</td>
+      <td>8</td>
+      <td>11000</td>
+      <td>5400</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightDarkGray">Special Ability</td>
+      <td class="priceTableName">Dragonward</td>
+      <td><img src="../images/meld/dragonward.png"/></td>
+      <td>5</td>
+      <td>8</td>
+      <td>6000</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Hide Shield</td>
+      <td><img src="../images/meld/hide_shield.png"/></td>
+      <td>2</td>
+      <td>15</td>
+      <td>1200</td>
+      <td>500</td>
+      <td class="priceTableName">Armor Ward</td>
+      <td><img src="../images/meld/armor_ward.png"/></td>
+      <td>9</td>
+      <td>55</td>
+      <td>3200</td>
       <td>1100</td>
     </tr>
     <tr>
-      <td class="priceTableName">Happy Shield</td>
-      <td>幸</td>
-      <td>1</td>
+      <td class="priceTableName">Gold Shield</td>
+      <td><img src="../images/meld/gold_shield.png"/></td>
+      <td>2</td>
+      <td>8</td>
+      <td>6500</td>
+      <td>2300</td>
+      <td class="priceTableName">Kigny Shield</td>
+      <td><img src="../images/meld/kigny_shield.png"/></td>
       <td>10</td>
-      <td>5</td>
-      <td>5500</td>
-      <td>2200</td>
-      <td class="priceTableName">Shoddy Shield</td>
-      <td>捨</td>
-      <td>35</td>
-      <td>30</td>
-      <td>1</td>
-      <td>1000</td>
-      <td>500</td>
+      <td>50</td>
+      <td>32000</td>
+      <td>11000</td>
     </tr>
     <tr>
-      <td class="priceTableName">Spry Shield</td>
-      <td>見</td>
+      <td class="priceTableName">Walrus Shield</td>
+      <td><img src="../images/meld/walrus_shield.png"/></td>
       <td>2</td>
-      <td>5</td>
-      <td>3</td>
-      <td>7500</td>
-      <td>3750</td>
-      <td rowspan="2" colspan="7"></td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Echo Shield</td>
-      <td>山</td>
-      <td>2</td>
-      <td>5</td>
-      <td>3</td>
-      <td>5000</td>
-      <td>2500</td>
+      <td>8</td>
+      <td>3100</td>
+      <td>1350</td>
+      <td class="priceTableName">Fragile Shield</td>
+      <td><img src="../images/meld/fragile_shield.png"/></td>
+      <td>20</td>
+      <td>10</td>
+      <td>2000</td>
+      <td>750</td>
     </tr>
   </tbody>
 </table>

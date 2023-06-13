@@ -1,34 +1,24 @@
 ---
 title: "Shields"
-metaTitle: "Shields - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Complete shield details for Shiren the Wanderer DS2: Magic Castle of the Desert."
+metaTitle: "Shields - Shiren DS1 Wiki"
+metaDescription: "Complete shield details for Shiren the Wanderer DS1."
 ---
-
-<br/>
-
-<span class="redText">※ English names might change as the translation project progresses.</span>
 
 # Overview
 
 - Shields reduce the amount of damage you receive from enemy attacks.
-- Some shields have innate special abilities, which can be synthesized on to other shields.
-    - Synthesized special abilities are called runes.
-- Rune slots are limited, but can be doubled by synthesizing special rescue reward shields.
+- Some shields have innate special abilities, which can be melded into other shields.
+    - Unlike Shiren 5, shields don't have limited slots for melded abilities.
 
 # Summary
-
-- Green = Resonance Item.
-
-<br/>
 
 <table class="itemListCentered">
   <thead>
     <tr>
       <th>Name</th>
-      <th>Rune</th>
+      <th>Meld</th>
       <th>Def</th>
       <th>Max</th>
-      <th>Slot</th>
       <th>Buy</th>
       <th>Sell</th>
       <th>Notes</th>
@@ -36,290 +26,479 @@ metaDescription: "Complete shield details for Shiren the Wanderer DS2: Magic Cas
   </thead>
   <tbody>
     <tr>
-      <td colspan="9" class="highlightDarkGray">Regular Shields</td>
+      <td colspan="7" class="centeredText highlightDarkGray">Regular Shields</td>
     </tr>
     <tr>
-      <td class="priceTableName">Mamel Shield</td>
+      <td class="priceTableName">Fancy Shield</td>
       <td>-</td>
       <td>1</td>
-      <td>99</td>
-      <td>10</td>
-      <td>13000</td>
-      <td>6500</td>
-      <td class="leftText"><span class="greenText">Mamel Sword</span>: Traps you step on will not activate.</td>
+      <td>30</td>
+      <td>10000</td>
+      <td>3000</td>
+      <td class="leftText">Looks strong, but it's actually very weak.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Keshin Shield</td>
+      <td class="priceTableName">Wood Shield</td>
       <td>-</td>
-      <td>5</td>
-      <td>15</td>
+      <td>3</td>
+      <td>25</td>
+      <td>400</td>
+      <td>120</td>
+      <td class="leftText">Unlike the SFC version, it can rust in this game.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Bronzeward</td>
+      <td>-</td>
       <td>4</td>
-      <td>1000</td>
-      <td>500</td>
-      <td class="leftText"><span class="purpleText">How to Obtain</span>: Castle Keep (Presto Pot on boss floor)</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Bronze Shield</td>
-      <td>-</td>
-      <td>5</td>
       <td>35</td>
-      <td>5</td>
-      <td>350</td>
-      <td>170</td>
-      <td class="leftText"><span class="greenText">Bronze Sword</span>: Attack and defense +3.</td>
+      <td>600</td>
+      <td>180</td>
+      <td class="leftText">Not a bad option to insert into Strengthening Jar.</td>
     </tr>
     <tr>
       <td class="priceTableName">Iron Shield</td>
       <td>-</td>
-      <td>9</td>
-      <td>35</td>
-      <td>5</td>
-      <td>1200</td>
+      <td>6</td>
+      <td>45</td>
+      <td>2000</td>
       <td>600</td>
-      <td class="leftText"><span class="greenText">Katana</span>: Max HP +20.</td>
+      <td class="leftText">No abilities, but stronger than Bronzeward.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Beetle Shield</td>
+      <td class="priceTableName">Windshield</td>
       <td>-</td>
-      <td>13</td>
-      <td>15</td>
-      <td>6</td>
-      <td>3500</td>
-      <td>1750</td>
-      <td class="leftText"><span class="greenText">Beetle Axe</span>: Max strength +3.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Demon Shield</td>
-      <td>-</td>
-      <td>14</td>
-      <td>10</td>
-      <td>2</td>
-      <td>3000</td>
-      <td>1500</td>
-      <td class="leftText"><span class="greenText">Demon Slayer</span>: Max strength +4.<br/><span class="greenText">Drain Buster</span>: Attack damage vs. Drain types +10.<br/><span class="greenText">Ghost Sickle</span>: Attack damage vs. Ghost types +10.<br/><span class="greenText">Cyclops Killer</span>: Attack damage vs. Cyclops types +10.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Fuuma Shield</td>
-      <td>-</td>
-      <td>16</td>
-      <td>30</td>
-      <td>2</td>
-      <td>10000</td>
-      <td>5000</td>
-      <td class="leftText"><span class="greenText">Fuuma Katana</span>: Max strength +5.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Kabura's Guard</td>
-      <td>-</td>
-      <td>20</td>
-      <td>35</td>
-      <td>4</td>
-      <td>12000</td>
-      <td>6000</td>
-      <td class="leftText"><span class="greenText">Kabura's Blade</span>: Attack damage +5.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Helix Shield</td>
-      <td>-</td>
-      <td>30</td>
-      <td>40</td>
-      <td>6</td>
-      <td>15000</td>
-      <td>7500</td>
-      <td class="leftText"><span class="greenText">Fiery Fuuma</span>: Bracelet will never break.</td>
-    </tr>
-    <tr>
-      <td colspan="9" class="highlightDarkGray">Special Ability Shields</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Nirvana Shield</td>
-      <td>悟</td>
-      <td>1</td>
-      <td>5</td>
-      <td>0</td>
-      <td>10000</td>
-      <td>5000</td>
-      <td class="leftText">Natural fullness depletion stops. Max fullness set to 0.<br/><span class="greenText">Wonder Pick</span>: Max HP +30.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Dodge Shield</td>
-      <td>避</td>
-      <td>1</td>
-      <td>5</td>
-      <td>1</td>
-      <td>15000</td>
-      <td>7500</td>
-      <td class="leftText">Lets you dodge most projectiles.<br/>(Excludes fire, magic bullets, and cannonballs).</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Reflect Shield</td>
-      <td>返</td>
-      <td>1</td>
-      <td>5</td>
-      <td>1</td>
-      <td>15000</td>
-      <td>7500</td>
-      <td class="leftText">Reflects flying items and cannonballs.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Happy Shield</td>
-      <td>幸</td>
-      <td>1</td>
-      <td>10</td>
-      <td>5</td>
-      <td>5500</td>
-      <td>2200</td>
-      <td class="leftText">Gain experience equal to ~10% of damage received.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Spry Shield</td>
-      <td>見</td>
-      <td>2</td>
-      <td>5</td>
-      <td>3</td>
-      <td>7500</td>
-      <td>3750</td>
-      <td class="leftText">Enemy direct attacks miss more often.<br/><span class="greenText">Cyclops Killer</span> + <span class="greenText">Scout Bracelet</span>: Gain Sharp Eyes status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Echo Shield</td>
-      <td>山</td>
-      <td>2</td>
-      <td>5</td>
-      <td>3</td>
+      <td>12</td>
+      <td>70</td>
       <td>5000</td>
       <td>2500</td>
-      <td class="leftText">Reflects magic and hypnosis.</td>
+      <td class="leftText">Rare shield made with a metal called Fuuma Iron.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Diet Shield</td>
-      <td>腹</td>
+      <td class="priceTableName">Stormward</td>
+      <td>-</td>
+      <td>50</td>
+      <td>99</td>
+      <td>50000</td>
+      <td>22500</td>
+      <td class="leftText">Strongest shield in the game.<br/><span class="purpleText">How to Obtain</span>: Upgrade a Windshield+70 at the Blacksmith.</td>
+    </tr>
+    <tr>
+      <td colspan="7" class="centeredText highlightDarkGray">Special Ability Shields</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Hide Shield</td>
+      <td><img src="../images/meld/hide_shield.png"/></td>
       <td>2</td>
-      <td>30</td>
-      <td>4</td>
+      <td>15</td>
       <td>1200</td>
-      <td>600</td>
-      <td class="leftText">1/2 hunger rate (20 turns to deplete 1 fullness).<br/><span class="greenText">Dotanuki</span>: Attack and defense +3.</td>
+      <td>500</td>
+      <td class="leftText">Halves hunger rate (1 fullness / 20 turns).<br/>This shield can't rust, but the rustproof ability won't transfer.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Gold Shield</td>
+      <td><img src="../images/meld/gold_shield.png"/></td>
+      <td>2</td>
+      <td>8</td>
+      <td>6500</td>
+      <td>2300</td>
+      <td class="leftText">Shield won't rust from traps or monster attacks.<br/>(Doesn't stop Lv3-4 Green Slimes from erasing meld abilities)</td>
     </tr>
     <tr>
       <td class="priceTableName">Walrus Shield</td>
-      <td>ト</td>
-      <td>3</td>
-      <td>25</td>
-      <td>3</td>
-      <td>2000</td>
-      <td>1000</td>
-      <td class="leftText">Prevents monsters from stealing your items and Gitan.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Wood Shield</td>
-      <td>金</td>
-      <td>3</td>
-      <td>25</td>
-      <td>5</td>
-      <td>900</td>
-      <td>400</td>
-      <td class="leftText">This shield will never rust.<br/><span class="greenText">Club</span>: Attack and defense +3.<br/><span class="greenText">Mallet</span> + <span class="greenText">Scout Bracelet</span>: Gain Sharp Eyes status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Froggo Shield</td>
-      <td>ガ</td>
-      <td>3</td>
-      <td>10</td>
-      <td>4</td>
-      <td>3000</td>
-      <td>1500</td>
-      <td class="leftText">Gain Gitan equal to 50% of damage received.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Holy Shield</td>
-      <td>払</td>
-      <td>5</td>
-      <td>15</td>
-      <td>3</td>
-      <td>1500</td>
-      <td>750</td>
-      <td class="leftText">Prevents your items from getting cursed.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Counter Shield</td>
-      <td>バ</td>
-      <td>5</td>
-      <td>20</td>
-      <td>6</td>
-      <td>4000</td>
-      <td>2000</td>
-      <td class="leftText">Reflects a portion of damage received back at an enemy.<br/><span class="greenText">Strength Bracelet</span>: Double counter damage.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Traproid Shield</td>
-      <td>罠</td>
-      <td>6</td>
-      <td>15</td>
-      <td>4</td>
-      <td>6500</td>
-      <td>3000</td>
-      <td class="leftText">Traps you step on will not activate.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Power Shield</td>
-      <td>力</td>
-      <td>7</td>
-      <td>25</td>
-      <td>5</td>
-      <td>5000</td>
-      <td>2500</td>
-      <td class="leftText">Increases your attack power.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Blast Shield</td>
-      <td>地</td>
+      <td><img src="../images/meld/walrus_shield.png"/></td>
+      <td>2</td>
       <td>8</td>
-      <td>25</td>
-      <td>4</td>
-      <td>2500</td>
-      <td>1250</td>
-      <td class="leftText">Reduces explosion damage.<br/><span class="greenText">Crescent Arm</span>: Attack and defense +5.</td>
+      <td>3100</td>
+      <td>1350</td>
+      <td class="leftText">Protects items and Gitan from being stolen.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Dragon Shield</td>
-      <td>竜</td>
-      <td>10</td>
-      <td>30</td>
-      <td>3</td>
-      <td>6000</td>
-      <td>3000</td>
-      <td class="leftText">Reduces fire damage.<br/><span class="greenText">Dragon Killer</span>: Attack and defense +5.</td>
+      <td class="priceTableName">Spiked Ward</td>
+      <td><img src="../images/meld/spiked_ward.png"/></td>
+      <td>2</td>
+      <td>8</td>
+      <td>6600</td>
+      <td>2400</td>
+      <td class="leftText">Reflect 1/3 of damage received. (6 or less damage = 1)</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Evasive Shield</td>
+      <td><img src="../images/meld/evasive_shield.png"/></td>
+      <td>2</td>
+      <td>8</td>
+      <td>7500</td>
+      <td>3750</td>
+      <td class="leftText">Increases your chance to evade enemy direct attacks.</td>
     </tr>
     <tr>
       <td class="priceTableName">Prism Shield</td>
-      <td>プ</td>
-      <td>11</td>
-      <td>10</td>
+      <td><img src="../images/meld/prism_shield.png"/></td>
       <td>2</td>
-      <td>7500</td>
-      <td>3000</td>
-      <td class="leftText">Converts most special attacks to 10 damage.</td>
+      <td>8</td>
+      <td>17500</td>
+      <td>7000</td>
+      <td class="leftText">Converts magic attacks into 10 damage.<br/>(Skull Mage and Fog Hermit family special attacks)</td>
     </tr>
     <tr>
-      <td class="priceTableName">Heavy Shield</td>
-      <td>重</td>
-      <td>20</td>
-      <td>20</td>
-      <td>2</td>
+      <td class="priceTableName">Blast Shield</td>
+      <td><img src="../images/meld/blast_shield.png"/></td>
+      <td>3</td>
+      <td>8</td>
+      <td>4600</td>
+      <td>1940</td>
+      <td class="leftText">Reduces explosion damage by 50%.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Gaze Shield</td>
+      <td><img src="../images/meld/gaze_shield.png"/></td>
+      <td>4</td>
+      <td>8</td>
+      <td>11000</td>
+      <td>5400</td>
+      <td class="leftText">Blocks Gaze family hypnosis special attacks.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Dragonward</td>
+      <td><img src="../images/meld/dragonward.png"/></td>
+      <td>5</td>
+      <td>8</td>
+      <td>6000</td>
       <td>2500</td>
-      <td>1100</td>
-      <td class="leftText">Doubles hunger rate.<br/><span class="greenText">Strength Bracelet</span>: Normal hunger rate.</td>
+      <td class="leftText">Reduces fire damage by 50%.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Shoddy Shield</td>
-      <td>捨</td>
-      <td>35</td>
-      <td>30</td>
-      <td>1</td>
-      <td>1000</td>
-      <td>500</td>
-      <td class="leftText">Upgrade value decreases by 1 every time you take damage.<br/><span class="greenText">Shoddy Sword</span>: 1/2 hunger rate.</td>
+      <td class="priceTableName">Armor Ward</td>
+      <td><img src="../images/meld/armor_ward.png"/></td>
+      <td>9</td>
+      <td>55</td>
+      <td>3200</td>
+      <td>1100</td>
+      <td class="leftText">Doubles hunger rate (1 fullness / 5 turns).</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Kigny Shield</td>
+      <td><img src="../images/meld/kigny_shield.png"/></td>
+      <td>10</td>
+      <td>50</td>
+      <td>32000</td>
+      <td>11000</td>
+      <td class="leftText">Chance to redirect damage to an adjacent enemy.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Fragile Shield</td>
+      <td><img src="../images/meld/fragile_shield.png"/></td>
+      <td>20</td>
+      <td>10</td>
+      <td>2000</td>
+      <td>750</td>
+      <td class="leftText">Lower upgrade value by 1 when you get hit.</td>
+    </tr>
+    <tr>
+      <td colspan="7" class="centeredText highlightDarkGray">Rescue Reward Exclusive</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Wood X</td>
+      <td>-</td>
+      <td>3</td>
+      <td>50</td>
+      <td>800</td>
+      <td>240</td>
+      <td class="leftText">Same as Wood Shield, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Bronze X</td>
+      <td>-</td>
+      <td>4</td>
+      <td>60</td>
+      <td>1200</td>
+      <td>360</td>
+      <td class="leftText">Same as Bronzeward, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Iron X</td>
+      <td>-</td>
+      <td>6</td>
+      <td>70</td>
+      <td>4000</td>
+      <td>1200</td>
+      <td class="leftText">Same as Iron Shield, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Hide X</td>
+      <td><img src="../images/meld/hide_shield.png"/></td>
+      <td>2</td>
+      <td>50</td>
+      <td>2200</td>
+      <td>800</td>
+      <td class="leftText">Same as Hide Shield, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Golden X</td>
+      <td><img src="../images/meld/gold_shield.png"/></td>
+      <td>2</td>
+      <td>40</td>
+      <td>12500</td>
+      <td>4100</td>
+      <td class="leftText">Same as Gold Shield, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Spiked X</td>
+      <td><img src="../images/meld/spiked_ward.png"/></td>
+      <td>2</td>
+      <td>40</td>
+      <td>12600</td>
+      <td>4200</td>
+      <td class="leftText">Same as Spiked Ward, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Blast X</td>
+      <td><img src="../images/meld/blast_shield.png"/></td>
+      <td>3</td>
+      <td>40</td>
+      <td>8400</td>
+      <td>3080</td>
+      <td class="leftText">Same as Blast Shield, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Dragon X</td>
+      <td><img src="../images/meld/dragonward.png"/></td>
+      <td>5</td>
+      <td>40</td>
+      <td>11000</td>
+      <td>4000</td>
+      <td class="leftText">Same as Dragonward, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Armor X</td>
+      <td><img src="../images/meld/armor_ward.png"/></td>
+      <td>9</td>
+      <td>80</td>
+      <td>6200</td>
+      <td>2000</td>
+      <td class="leftText">Same as Armor Ward, but higher upgrade limit.</td>
     </tr>
   </tbody>
+</table>
+
+# Locations
+
+- F - Floor, Monster drop
+- S - Shop
+- C - Jar of Change, Thiefwalrus drop
+
+<br/>
+
+<table class="itemListCentered">
+  <tr>
+    <th rowspan="2">Item</th>
+    <th colspan="7">Dungeon</th>
+    <th rowspan="2">Village Shop</th>
+  </tr>
+  <tr>
+    <th>TM</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>Fancy Shield</td>
+    <td>S</td>
+    <td>S</td>
+    <td></td>
+    <td></td>
+    <td>S</td>
+    <td>SC</td>
+    <td>FS</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Wood Shield</td>
+    <td>FSC</td>
+    <td>C</td>
+    <td>C</td>
+    <td></td>
+    <td>FS</td>
+    <td>FS</td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bronzeward</td>
+    <td>FSC</td>
+    <td>C</td>
+    <td>FC</td>
+    <td></td>
+    <td>FS</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo</td>
+  </tr>
+  <tr>
+    <td>Iron Shield</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td>FS</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Windshield</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Stormward</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Hide Shield</td>
+    <td>FSC</td>
+    <td>SC</td>
+    <td>F</td>
+    <td></td>
+    <td>FS</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo</td>
+  </tr>
+  <tr>
+    <td>Gold Shield</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td>S</td>
+    <td>SC</td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Walrus Shield</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td>S</td>
+    <td>SC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Spiked Ward</td>
+    <td>S</td>
+    <td>FS</td>
+    <td>FC</td>
+    <td></td>
+    <td>FS</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Evasive Shield</td>
+    <td>S</td>
+    <td>FS</td>
+    <td>FC</td>
+    <td></td>
+    <td>S</td>
+    <td>SC</td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Prism Shield</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>F</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Blast Shield</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td>S</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Gaze Shield</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>F</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dragonward</td>
+    <td>S</td>
+    <td>FS</td>
+    <td>FC</td>
+    <td></td>
+    <td>S</td>
+    <td>SC</td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Armor Ward</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td>FS</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Kigny Shield</td>
+    <td></td>
+    <td></td>
+    <td>F</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Fragile Shield</td>
+    <td>S</td>
+    <td>S</td>
+    <td></td>
+    <td></td>
+    <td>S</td>
+    <td>SC</td>
+    <td>S</td>
+    <td>Stream</td>
+  </tr>
 </table>

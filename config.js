@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/shiren-ds2',
+    pathPrefix: '/shiren-ds1',
     siteUrl: 'https://sharksnack.github.io',
     gaTrackingId: null,
     trailingSlash: false,
@@ -8,8 +8,8 @@ const config = {
   header: {
     logo: '',
     logoLink: '',
-    title: 'Shiren DS2: Magic Castle Wiki',
-    githubUrl: 'https://github.com/SharkSnack/shiren-ds2',
+    title: 'Shiren DS1 Wiki',
+    githubUrl: 'https://github.com/SharkSnack/shiren-ds1',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -41,7 +41,8 @@ const config = {
       '/guides',
       '/items',
       '/system',
-      '/dungeons'
+      '/dungeons',
+      '/other'
     ],
     collapsedNav: [],
     links: [],
@@ -49,11 +50,11 @@ const config = {
     ignoreIndex: false
   },
   siteMetadata: {
-    title: 'Shiren DS2: Magic Castle Wiki | SharkSnack',
+    title: 'Shiren DS1 Wiki | SharkSnack',
     description: 'Documentation built with mdx.',
     ogImage: null,
-    docsLocation: 'https://github.com/sharksnack/shiren-ds2/tree/main/content',
-    favicon: 'https://raw.githubusercontent.com/SharkSnack/shiren-ds2/main/src/components/images/favicon-32x32.png',
+    docsLocation: 'https://github.com/sharksnack/shiren-ds1/tree/main/content',
+    favicon: 'https://raw.githubusercontent.com/SharkSnack/shiren-ds1/main/src/components/images/favicon-32x32.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.

@@ -1,34 +1,24 @@
 ---
 title: "Weapons"
-metaTitle: "Weapons - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Complete weapon details for Shiren the Wanderer DS2: Magic Castle of the Desert."
+metaTitle: "Weapons - Shiren DS1 Wiki"
+metaDescription: "Complete weapon details for Shiren the Wanderer DS1."
 ---
-
-<br/>
-
-<span class="redText">※ English names might change as the translation project progresses.</span>
 
 # Overview
 
 - Weapons increase the amount of damage you deal with direct attacks while equipped.
-- Some weapons have innate special abilities, which can be synthesized on to other weapons.
-    - Synthesized special abilities are called runes.
-- Rune slots are limited, but can be doubled by synthesizing special rescue reward weapons.
+- Some weapons have innate special abilities, which can be melded into other weapons.
+    - Unlike Shiren 5, weapons don't have limited slots for melded abilities.
 
 # Summary
-
-- Green = Resonance Item.
-
-<br/>
 
 <table class="itemListCentered">
   <thead>
     <tr>
       <th>Name</th>
-      <th>Rune</th>
+      <th>Meld</th>
       <th>Atk</th>
       <th>Max</th>
-      <th>Slot</th>
       <th>Buy</th>
       <th>Sell</th>
       <th>Notes</th>
@@ -36,343 +26,515 @@ metaDescription: "Complete weapon details for Shiren the Wanderer DS2: Magic Cas
   </thead>
   <tbody>
     <tr>
-      <td colspan="9" class="highlightDarkGray">Regular Weapons</td>
+      <td colspan="7" class="centeredText highlightDarkGray">Regular Weapons</td>
     </tr>
     <tr>
-      <td class="priceTableName">Hidamari Sword</td>
-      <td>-</td>
-      <td>1</td>
-      <td>10</td>
-      <td>3</td>
-      <td>1000</td>
-      <td>50</td>
-      <td class="leftText"><span class="purpleText">How to Obtain</span>: Castle Keep (Presto Pot on boss floor)</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Club</td>
+      <td class="priceTableName">Cudgel</td>
       <td>-</td>
       <td>2</td>
       <td>20</td>
-      <td>4</td>
-      <td>200</td>
-      <td>100</td>
-      <td class="leftText"><span class="greenText">Wood Shield</span>: Attack and defense +3.</td>
+      <td>400</td>
+      <td>120</td>
+      <td class="leftText">Can't be upgraded at the Blacksmith.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Mamel Sword</td>
+      <td class="priceTableName">Polearm</td>
       <td>-</td>
       <td>4</td>
-      <td>99</td>
-      <td>10</td>
-      <td>20000</td>
-      <td>5000</td>
-      <td class="leftText"><span class="greenText">Mamel Shield</span>: Traps you step on will not activate.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Bronze Sword</td>
-      <td>-</td>
-      <td>5</td>
       <td>30</td>
-      <td>4</td>
-      <td>500</td>
-      <td>250</td>
-      <td class="leftText"><span class="greenText">Bronze Shield</span>: Attack and defense +3.</td>
+      <td>600</td>
+      <td>180</td>
+      <td class="leftText">Stronger than a Cudgel, but still mediocre.</td>
     </tr>
     <tr>
       <td class="priceTableName">Katana</td>
       <td>-</td>
-      <td>9</td>
-      <td>30</td>
-      <td>5</td>
-      <td>750</td>
-      <td>300</td>
-      <td class="leftText"><span class="greenText">Iron Shield</span>: Max HP +20.</td>
+      <td>6</td>
+      <td>50</td>
+      <td>800</td>
+      <td>240</td>
+      <td class="leftText">Can be turned into a Firebrand when fully upgraded.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Beetle Axe</td>
+      <td class="priceTableName">Mastersword</td>
       <td>-</td>
-      <td>12</td>
-      <td>30</td>
-      <td>4</td>
-      <td>2000</td>
-      <td>1000</td>
-      <td class="leftText"><span class="greenText">Beetle Shield</span>: Max strength +3.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Dotanuki</td>
-      <td>-</td>
-      <td>12</td>
-      <td>40</td>
-      <td>3</td>
+      <td>8</td>
+      <td>60</td>
       <td>1500</td>
-      <td>750</td>
-      <td class="leftText"><span class="greenText">Diet Shield</span>: Attack and defense +3.</td>
+      <td>450</td>
+      <td class="leftText">Strongest among commonly found weapons.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Demon Slayer</td>
+      <td class="priceTableName">Kabra's Blade</td>
       <td>-</td>
-      <td>13</td>
-      <td>35</td>
-      <td>4</td>
-      <td>2600</td>
-      <td>1300</td>
-      <td class="leftText"><span class="greenText">Demon Shield</span>: Max strength +4.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Fuuma Katana</td>
-      <td>-</td>
-      <td>15</td>
-      <td>30</td>
-      <td>3</td>
-      <td>5000</td>
-      <td>2500</td>
-      <td class="leftText"><span class="greenText">Fuuma Shield</span>: Max strength +5.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Kabura's Blade</td>
-      <td>-</td>
-      <td>18</td>
-      <td>50</td>
-      <td>2</td>
-      <td>5500</td>
-      <td>2250</td>
-      <td class="leftText"><span class="greenText">Kabura's Guard</span>: Attack damage +5.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Fiery Fuuma</td>
-      <td>-</td>
-      <td>25</td>
-      <td>45</td>
-      <td>4</td>
+      <td>12</td>
+      <td>70</td>
       <td>15000</td>
-      <td>7500</td>
-      <td class="leftText"><span class="greenText">Helix Shield</span>: Bracelet will never break.</td>
+      <td>4500</td>
+      <td class="leftText">Rare weapon honed by swordsmith Kabra (Kabura).</td>
     </tr>
     <tr>
-      <td class="priceTableName">Kaburasutegi</td>
+      <td class="priceTableName">Firebrand</td>
       <td>-</td>
-      <td>40</td>
-      <td>50</td>
-      <td>4</td>
+      <td>20</td>
+      <td>99</td>
       <td>30000</td>
-      <td>15000</td>
-      <td class="leftText"><span class="purpleText">How to Obtain</span>: See Postgame Guide.</td>
+      <td>9000</td>
+      <td class="leftText">Second strongest weapon in the game.<br/><span class="purpleText">How to Obtain</span>: Upgrade a Katana+50 at the Blacksmith.</td>
     </tr>
     <tr>
-      <td colspan="9" class="highlightDarkGray">Type Effective Weapons</td>
+      <td class="priceTableName">Kabra Reborn</td>
+      <td>-</td>
+      <td>50</td>
+      <td>99</td>
+      <td>40000</td>
+      <td>17500</td>
+      <td class="leftText">Strongest weapon in the game.<br/><span class="purpleText">How to Obtain</span>: Upgrade a Kabra's Blade+70 at the Blacksmith.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Drain Buster</td>
-      <td>ド</td>
-      <td>7</td>
-      <td>30</td>
-      <td>4</td>
-      <td>2500</td>
-      <td>1250</td>
-      <td class="leftText">Deal more damage to Drain types.<br/><span class="greenText">Demon Shield</span>: Attack damage vs. Drain types +10.</td>
+      <td colspan="7" class="centeredText highlightDarkGray">Type-Effective Weapons</td>
     </tr>
     <tr>
-      <td class="priceTableName">Ghost Sickle</td>
-      <td>仏</td>
+      <td class="priceTableName">Sickle Slayer</td>
+      <td><img src="../images/meld/sickle_slayer.png"/></td>
+      <td>3</td>
       <td>8</td>
-      <td>20</td>
-      <td>4</td>
-      <td>2000</td>
+      <td>2400</td>
       <td>1000</td>
-      <td class="leftText">Deal more damage to Ghost types.<br/><span class="greenText">Demon Shield</span>: Attack damage vs. Ghost types +10.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Cyclops Killer</td>
-      <td>目</td>
-      <td>8</td>
-      <td>20</td>
-      <td>4</td>
-      <td>2000</td>
-      <td>1000</td>
-      <td class="leftText">Deal more damage to Cyclops types.<br/><span class="greenText">Demon Shield</span>: Attack damage vs. Cyclops types +10.<br/><span class="greenText">Spry Shield</span> + <span class="greenText">Scout Bracelet</span>: Gain Sharp Eyes status.</td>
+      <td class="leftText">Deals x2.0 damage to Ghost types.<br/><span class="blueText">Air Devil</span>, <span class="blueText">Cell Armor</span>, <span class="blueText">Dead Soldier</span>, <span class="blueText">Death Reaper</span>, <span class="blueText">Pacorepkin</span>, <span class="blueText">Skull Mage</span></td>
     </tr>
     <tr>
       <td class="priceTableName">Crescent Arm</td>
-      <td>月</td>
-      <td>10</td>
-      <td>20</td>
+      <td><img src="../images/meld/crescent_arm.png"/></td>
+      <td>3</td>
+      <td>8</td>
+      <td>3100</td>
+      <td>1140</td>
+      <td class="leftText">Deals x2.0 damage to Exploding types.<br/><span class="blueText">Popster Tank</span>, <span class="blueText">Spike Bomb</span></td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Cyclops Killer</td>
+      <td><img src="../images/meld/cyclops_killer.png"/></td>
+      <td>3</td>
+      <td>8</td>
+      <td>3900</td>
+      <td>1380</td>
+      <td class="leftText">Deals x2.0 damage to One-Eyed types.<br/><span class="blueText">Egg Thing</span>, <span class="blueText">Gaze</span>, <span class="blueText">Ironhead</span>, <span class="blueText">Leech Worm</span>, <span class="blueText">Spike Bomb</span></td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Drain Buster</td>
+      <td><img src="../images/meld/drain_buster.png"/></td>
       <td>4</td>
-      <td>9000</td>
-      <td>4500</td>
-      <td class="leftText">Deal more damage to Bomb types.<br/><span class="greenText">Blast Shield</span>: Attack and defense +5.</td>
+      <td>8</td>
+      <td>3900</td>
+      <td>1380</td>
+      <td class="leftText">Deals x2.0 damage to Drain types.<br/><span class="blueText">Leech Worm</span>, <span class="blueText">Polygon Spin</span>, <span class="blueText">Twisty Hani</span></td>
     </tr>
     <tr>
-      <td class="priceTableName">Dragon Killer</td>
-      <td>竜</td>
-      <td>12</td>
-      <td>20</td>
-      <td>6</td>
-      <td>3000</td>
-      <td>1500</td>
-      <td class="leftText">Deal more damage to Dragon types.<br/><span class="greenText">Dragon Shield</span>: Attack and defense +5.</td>
+      <td class="priceTableName">Air Slayer</td>
+      <td><img src="../images/meld/air_slayer.png"/></td>
+      <td>4</td>
+      <td>8</td>
+      <td>5300</td>
+      <td>1800</td>
+      <td class="leftText">Deals x2.0 damage to Floating types.<br/><span class="blueText">Air Devil</span>, <span class="blueText">Death Reaper</span>, <span class="blueText">Dragon</span>, <span class="blueText">Firepuff</span>, <span class="blueText">Flying Fowl</span>, <span class="blueText">Pacorepkin</span></td>
     </tr>
     <tr>
-      <td class="priceTableName">Sky Splitter</td>
-      <td>空</td>
-      <td>14</td>
-      <td>20</td>
-      <td>2</td>
-      <td>6500</td>
-      <td>3000</td>
-      <td class="leftText">Deal more damage to Floating types.</td>
+      <td class="priceTableName">Dragonkiller</td>
+      <td><img src="../images/meld/dragonkiller.png"/></td>
+      <td>5</td>
+      <td>8</td>
+      <td>6000</td>
+      <td>2500</td>
+      <td class="leftText">Deals x2.0 damage to Dragon types.<br/><span class="blueText">Dragon</span>, <span class="blueText">Firepuff</span>, <span class="blueText">Floor Dragon</span></td>
     </tr>
     <tr>
-      <td colspan="9" class="highlightDarkGray">Special Ability Weapons</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Razor Wind</td>
-      <td>三</td>
-      <td>1</td>
-      <td>13</td>
-      <td>7</td>
-      <td>16000</td>
-      <td>8000</td>
-      <td class="leftText">Lets you attack in 3 forward directions.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Homing Blade</td>
-      <td>必</td>
-      <td>2</td>
-      <td>20</td>
-      <td>1</td>
-      <td>16000</td>
-      <td>8000</td>
-      <td class="leftText">Raises direct attack accuracy to 100%.</td>
+      <td colspan="7" class="centeredText highlightDarkGray">Special Ability Weapons</td>
     </tr>
     <tr>
       <td class="priceTableName">Pickaxe</td>
-      <td>堀</td>
+      <td><img src="../images/meld/pickaxe.png"/></td>
+      <td>1</td>
+      <td>8</td>
+      <td>700</td>
+      <td>350</td>
+      <td class="leftText">Can dig through walls, but the weapon can break.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Pickaxe*</td>
+      <td><img src="../images/meld/pickaxe_gold.png"/></td>
+      <td>1</td>
+      <td>8</td>
+      <td>1500</td>
+      <td>1150</td>
+      <td class="leftText">Can dig through walls, and the weapon never breaks.<br/><span class="purpleText">How to Obtain</span>: Upgrade a Pickaxe at the Blacksmith.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Homing Blade</td>
+      <td><img src="../images/meld/homing_blade.png"/></td>
+      <td>1</td>
+      <td>8</td>
+      <td>10000</td>
+      <td>5000</td>
+      <td class="leftText">Raises direct attack accuracy to 100%.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Golden Blade</td>
+      <td><img src="../images/meld/golden_blade.png"/></td>
       <td>2</td>
-      <td>20</td>
-      <td>6</td>
-      <td>1000</td>
-      <td>500</td>
-      <td class="leftText">Dig through walls. Breaks after digging for a while.</td>
+      <td>8</td>
+      <td>6500</td>
+      <td>2300</td>
+      <td class="leftText">Weapon won't rust from traps or monster attacks.<br/>(Doesn't stop Lv3-4 Green Slimes from erasing meld abilities)</td>
     </tr>
     <tr>
-      <td class="priceTableName">Power Pole</td>
-      <td>如</td>
-      <td>3</td>
-      <td>10</td>
-      <td>4</td>
-      <td>6000</td>
-      <td>3000</td>
-      <td class="leftText">Shiren takes 1 step back after hitting a target.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Mallet</td>
-      <td>罠</td>
-      <td>3</td>
-      <td>20</td>
-      <td>4</td>
-      <td>3000</td>
-      <td>1500</td>
-      <td class="leftText">Can break traps. Breaks after a while if used to break traps.<br/><span class="greenText">Wood Shield</span> + <span class="greenText">Scout Bracelet</span>: Gain Sharp Eyes status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Soul Sickle</td>
-      <td>吸</td>
-      <td>4</td>
-      <td>99</td>
-      <td>1</td>
-      <td>1500</td>
-      <td>750</td>
-      <td class="leftText">Target's HP set to 1 when hit, damage added to upgrade value.<br/>Upgrade value set to 0 if you miss, -1 per empty swing.<br/>If upgrade value exceeds max, the weapon breaks.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Cell Armor Sword</td>
-      <td>セ</td>
-      <td>5</td>
-      <td>10</td>
-      <td>3</td>
-      <td>6000</td>
-      <td>3000</td>
-      <td class="leftText">Chance to knock away an item when attacking an enemy.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Wonder Pick</td>
-      <td><span class="goldText">堀</span></td>
-      <td>5</td>
-      <td>20</td>
-      <td>1</td>
-      <td>4500</td>
-      <td>2250</td>
-      <td class="leftText">Dig through walls. Will never break.<br/><span class="greenText">Nirvana Shield</span>: Max HP +30.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Healing Sword</td>
-      <td>回</td>
-      <td>5</td>
-      <td>20</td>
-      <td>4</td>
-      <td>8000</td>
-      <td>4000</td>
-      <td class="leftText">Restores HP equal to 1/4 of damage dealt.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Aura Spear</td>
-      <td>貫</td>
-      <td>6</td>
-      <td>20</td>
-      <td>3</td>
-      <td>15000</td>
-      <td>7500</td>
-      <td class="leftText">Lets you attack up to 2 tiles ahead. (Pierces)</td>
+      <td class="priceTableName">Razor Wind</td>
+      <td><img src="../images/meld/razor_wind.png"/></td>
+      <td>2</td>
+      <td>8</td>
+      <td>9000</td>
+      <td>3750</td>
+      <td class="leftText">Lets you attack in 3 forward directions.</td>
     </tr>
     <tr>
       <td class="priceTableName">Bufu's Cleaver</td>
-      <td>肉</td>
-      <td>8</td>
-      <td>10</td>
+      <td><img src="../images/meld/bufus_cleaver.png"/></td>
       <td>3</td>
-      <td>6000</td>
-      <td>1000</td>
-      <td class="leftText">Defeated monsters occasionally turn into meat.<br/>The weapon can break if used outside of Tonfan's Hole.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Chaos Axe</td>
-      <td>混</td>
-      <td>10</td>
-      <td>10</td>
-      <td>4</td>
-      <td>18000</td>
-      <td>9000</td>
-      <td class="leftText">Chance to inflict Confused or Asleep status.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Spark Sword</td>
-      <td>ス</td>
-      <td>10</td>
-      <td>20</td>
-      <td>4</td>
-      <td>3500</td>
-      <td>1750</td>
-      <td class="leftText">Guaranteed critical hit after missing 2 attacks.</td>
+      <td>30</td>
+      <td>3300</td>
+      <td>1550</td>
+      <td class="leftText">Defeated monsters occasionally turn into meat.</td>
     </tr>
     <tr>
       <td class="priceTableName">Minotaur's Axe</td>
-      <td>会</td>
-      <td>10</td>
-      <td>35</td>
-      <td>3</td>
-      <td>4000</td>
-      <td>2000</td>
-      <td class="leftText">Chance to land a critical hit.</td>
+      <td><img src="../images/meld/minotaurs_axe.png"/></td>
+      <td>5</td>
+      <td>8</td>
+      <td>8000</td>
+      <td>3800</td>
+      <td class="leftText">Chance to land a x2.0 damage critical hit.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Shoddy Sword</td>
-      <td>捨</td>
-      <td>35</td>
-      <td>25</td>
+      <td class="priceTableName">Kigny Axe</td>
+      <td><img src="../images/meld/kigny_axe.png"/></td>
+      <td>10</td>
+      <td>50</td>
+      <td>22500</td>
+      <td>8500</td>
+      <td class="leftText">Deals a critical hit when Shiren's HP ≤ 10%.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Fragile Edge</td>
+      <td><img src="../images/meld/fragile_edge.png"/></td>
+      <td>20</td>
+      <td>8</td>
+      <td>4200</td>
+      <td>1400</td>
+      <td class="leftText">Lower upgrade value by 1 when you attack.</td>
+    </tr>
+    <tr>
+      <td colspan="7" class="centeredText highlightDarkGray">Rescue Reward Exclusive</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Cudgel X</td>
+      <td>-</td>
+      <td>2</td>
+      <td>50</td>
+      <td>800</td>
+      <td>240</td>
+      <td class="leftText">Same as Cudgel, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Polearm X</td>
+      <td>-</td>
+      <td>4</td>
+      <td>60</td>
+      <td>1200</td>
+      <td>360</td>
+      <td class="leftText">Same as Polearm, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Master X</td>
+      <td>-</td>
+      <td>8</td>
+      <td>80</td>
+      <td>3000</td>
+      <td>900</td>
+      <td class="leftText">Same as Mastersword, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Dragonkill X</td>
+      <td><img src="../images/meld/dragonkiller.png"/></td>
+      <td>5</td>
+      <td>40</td>
+      <td>11000</td>
+      <td>4000</td>
+      <td class="leftText">Same as Dragonkiller, but higher upgrade limit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Goldblade X</td>
+      <td><img src="../images/meld/golden_blade.png"/></td>
       <td>1</td>
-      <td>1000</td>
-      <td>500</td>
-      <td class="leftText">Upgrade value decreases by 1 every time you deal damage.<br/><span class="greenText">Shoddy Shield</span>: 1/2 hunger rate.</td>
+      <td>40</td>
+      <td>12500</td>
+      <td>4100</td>
+      <td class="leftText">Same as Golden Blade, but 1 less attack and higher upgrade limit.</td>
     </tr>
   </tbody>
+</table>
+
+# Locations
+
+- F - Floor, Monster drop
+- S - Shop
+- C - Jar of Change, Thiefwalrus drop
+
+<br/>
+
+<table class="itemListCentered">
+  <tr>
+    <th rowspan="2">Item</th>
+    <th colspan="7">Dungeon</th>
+    <th rowspan="2">Village Shop<br/>Monster</th>
+  </tr>
+  <tr>
+    <th>TM</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>Cudgel</td>
+    <td>FSC</td>
+    <td>C</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo</td>
+  </tr>
+  <tr>
+    <td>Polearm</td>
+    <td>FSC</td>
+    <td>C</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo</td>
+  </tr>
+  <tr>
+    <td>Katana</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo</td>
+  </tr>
+  <tr>
+    <td>Mastersword</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Kabra's Blade</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Tainted Queen</td>
+  </tr>
+  <tr>
+    <td>Firebrand</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Kabra Reborn</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sickle Slayer</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Crescent Arm</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Cyclops Killer</td>
+    <td>S</td>
+    <td>FS</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Drain Buster</td>
+    <td>FC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Air Slayer</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Dragonkiller</td>
+    <td>S</td>
+    <td>FS</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Pickaxe</td>
+    <td>FC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Homing Blade</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>F</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Golden Blade</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Razor Wind</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Bufu's Cleaver</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FS</td>
+    <td></td>
+    <td>S</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Minotaur's Axe</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Taur family</td>
+  </tr>
+  <tr>
+    <td>Kigny Axe</td>
+    <td></td>
+    <td></td>
+    <td>F</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Fragile Edge</td>
+    <td>S</td>
+    <td>S</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>S</td>
+    <td>Stream</td>
+  </tr>
 </table>

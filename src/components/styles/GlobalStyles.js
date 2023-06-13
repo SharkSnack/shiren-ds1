@@ -258,7 +258,7 @@ export const baseStyles = css`
   }
   .navBarDefault {
     /* background-color: #001934; */
-    background-color: #AA9F51;
+    background-color: #7791B9;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -452,7 +452,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #AA9F51;
+    background-color: #7791B9;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -592,7 +592,7 @@ export const baseStyles = css`
     text-align: left;
     margin: 0;
     padding: 3px 8px;
-    background-color: #fffce5;
+    background-color: #e5f0ff;
   }
 
   table tr td {
@@ -654,6 +654,10 @@ export const baseStyles = css`
     padding: 3px;
     padding-left: 4px;
     padding-right: 4px;
+  }
+  .priceTableMedium img {
+    position: relative !important;
+    image-rendering: pixelated;
   }
   .priceTableName {
     text-align: left !important;
@@ -751,6 +755,20 @@ export const baseStyles = css`
   .monsterPageTable td {
     padding: 3px;
   }
+  .monsterLocationTable th {
+    background-color: #f0f0f0;
+    font-weight: normal;
+    text-align: center;
+    padding: 2px;
+  }
+  .monsterLocationTable td:nth-of-type(2) {
+    text-align: left;
+  }
+  .monsterLocationTable td {
+    text-align: center;
+    min-width: 25.57px;
+    padding: 3px;
+  }
   .monsterImage {
     margin-bottom: 5px !important;
   }
@@ -811,11 +829,23 @@ export const baseStyles = css`
     text-align: center;
     padding: 4px;
   }
+  .itemListCentered td:nth-of-type(1) {
+    background-color: #f7f7f7;
+    text-align: left;
+  }
+  .itemListCentered td:nth-of-type(9) {
+    text-align: left;
+  }
   .itemListCentered td {
     text-align: center;
     padding: 4px;
     padding-left: 4px;
     padding-right: 4px;
+    min-width: 34.15px;
+  }
+  .itemListCentered img {
+    position: relative !important;
+    image-rendering: pixelated;
   }
   .itemListCenteredSmall th {
     font-size: 13px;
@@ -935,11 +965,11 @@ export const baseStyles = css`
     padding: 2px;
   }
   .statusTable th {
-    text-align: center;
+    font-weight: normal;
     padding: 3px;
   }
   .statusTable td {
-    padding: 1px;
+    padding: 3px;
   }
   .trophyTable th {
     padding: 3px;
@@ -963,6 +993,8 @@ export const baseStyles = css`
   }
   .sealTable td:nth-of-type(1){
     text-align: center;
+    padding: 0px;
+    background-color: #f7f7f7 !important;
   }
   .sealTable td:nth-of-type(2){
     text-align: center;
@@ -976,13 +1008,21 @@ export const baseStyles = css`
     padding-left: 5px;
     padding-right: 5px;
   }
+  .sealTable img {
+    position: relative !important;
+    image-rendering: pixelated;
+  }
+  .borgTable img {
+    position: relative !important;
+    image-rendering: pixelated;
+  }
   .trapTable img {
     min-height: 24px;
     min-width: 24px;
     image-rendering: pixelated;
   }
   .trapTable td:nth-of-type(1){
-    background-color: #555;
+    background-color: #a6a6a6;
   }
   .trapTable td:nth-of-type(2){
     text-align: left;
@@ -1124,6 +1164,12 @@ export const baseStyles = css`
   .low {
     background-color: #fff;
   }
+  .highlightCyan {
+    background-color: #f3feff !important;
+  }
+  .highlightCyan2 {
+    background-color: #d9e6e8 !important;
+  }
   .highlightGreen {
     background-color: #CCFFCC !important;
   }
@@ -1132,6 +1178,9 @@ export const baseStyles = css`
   }
   .highlightDarkGray {
     background-color: #dfdfdf !important;
+  }
+  .highlightGrey {
+    background-color: #f4f4f4 !important;
   }
   .highlightYellow {
     background-color: #ffffe4 !important;
@@ -1417,7 +1466,7 @@ export const baseStyles = css`
     color: #ff46a3;
   }
   .centeredText {
-    text-align: center;
+    text-align: center !important;
   }
   .leftText {
     text-align: left !important;
@@ -1490,6 +1539,14 @@ export const baseStyles = css`
     height: auto;
   }
   .dungeonPageImage2 img {
+    position: relative !important;
+  }
+  .allyPageImage {
+    display: flex;
+    width: 560px !important;
+    height: auto;
+  }
+  .allyPageImage img {
     position: relative !important;
   }
   .allyImage span {
@@ -1691,10 +1748,10 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 16px;
-    border-left: 10px solid #D7D0A1;
-    border-right: 1px solid #D7D0A1;
-    border-bottom: 2px solid #D7D0A1;
-    border-top: 1px solid #D7D0A1;
+    border-left: 10px solid #7096bf;
+    border-right: 1px solid #7096bf;
+    border-bottom: 2px solid #7096bf;
+    border-top: 1px solid #7096bf;
     padding-left: 10px;
   }
 
@@ -1704,7 +1761,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
-    border-left: 10px solid #D7D0A1;
+    border-left: 10px solid #7096bf;
     padding-left: 6px;
   }
 
@@ -1714,7 +1771,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
-    border-left: 5px solid #D7D0A1;
+    border-left: 5px solid #7096bf;
     padding-left: 4px;
   }
 

@@ -1,18 +1,14 @@
 ---
 title: "Scrolls"
-metaTitle: "Scrolls - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Complete scroll details for Shiren the Wanderer DS2: Magic Castle of the Desert."
+metaTitle: "Scrolls - Shiren DS1 Wiki"
+metaDescription: "Complete scroll details for Shiren the Wanderer DS1."
 ---
-
-<br/>
-
-<span class="redText">※ English names might change as the translation project progresses.</span>
 
 # Overview
 
 - Read a scroll to cause an effect to occur.
-- Sanctuary Scroll should be placed on the ground instead.
-- Extinction Scroll should be thrown at a monster instead.
+    - Sanctuary Scroll should be placed on the ground instead.
+    - Scroll of Removal should be thrown at a monster instead.
 
 # Summary
 
@@ -27,156 +23,441 @@ metaDescription: "Complete scroll details for Shiren the Wanderer DS2: Magic Cas
   </thead>
   <tbody>
     <tr>
-      <td class="priceTableName">Grounded Scroll</td>
-      <td rowspan="14">100</td>
-      <td rowspan="14">50</td>
-      <td class="leftText">Inflicts Grounded status on the player.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Inaccurate Scroll</td>
-      <td class="leftText">Inflicts Inaccurate status on the player.</td>
-    </tr>
-    <tr>
       <td class="priceTableName">Monster Scroll</td>
+      <td rowspan="2">200</td>
+      <td rowspan="2">60</td>
       <td class="leftText">Turns the current room into a Monster House.<br/>Warps you to a different room first if read in a hallway.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Trap Erase Scroll</td>
-      <td class="leftText">Removes all traps on the current floor.</td>
+      <td class="priceTableName">Scroll of Haste</td>
+      <td class="leftText">All non-player characters in the room gain speed (1 stage).</td>
     </tr>
     <tr>
-      <td class="priceTableName">Trap Scroll</td>
-      <td class="leftText">Creates lots of new traps on the current floor.</td>
+      <td class="priceTableName">Scroll of Light</td>
+      <td rowspan="6">300</td>
+      <td rowspan="6">90</td>
+      <td class="leftText">Reveals the current floor's layout, item and monster locations.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Purify Scroll</td>
-      <td class="leftText">Removes curses from all inventory items that aren't in pots.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Muzzled Scroll</td>
-      <td class="leftText">Inflicts Muzzled status on the player.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Fear Scroll</td>
-      <td class="leftText">Inflicts Afraid status on monsters and allies within a 1 tile radius.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Altruism Scroll</td>
-      <td class="leftText">Restores 100 HP to all non-player characters in the room.<br/>Ghost type monsters receive 100 damage.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Bomber Scroll</td>
-      <td class="leftText">Shiren explodes, leaving him with 1 HP remaining.<br/>Characters and items caught in the blast vanish.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Swift Scroll</td>
-      <td class="leftText">All non-player characters on the floor gain speed (1 stage).</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Escape Scroll</td>
-      <td class="leftText">Return to <span class="orangeText">Town of Ilpa</span> with your items and money.<br/>(No effect in Thief Mode)</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Damp Scroll</td>
-      <td class="leftText">Makes explosions unable to occur on the current floor.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Explosion Scroll</td>
-      <td class="leftText">Makes all monsters on the current floor explode.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Navigation Scroll</td>
-      <td rowspan="2">250</td>
-      <td rowspan="2">50</td>
-      <td class="leftText">Grants Navigator status to the player.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Identify Scroll</td>
+      <td class="priceTableName">Scroll of Identity</td>
       <td class="leftText">Identifies a selected item.<br/>Small chance to identify all items not inside pots.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Air Slash Scroll</td>
-      <td rowspan="3">300</td>
-      <td rowspan="2">50</td>
-      <td class="leftText">Deal roughly 30 damage to all monsters in the room.</td>
+      <td class="priceTableName">Scroll of Sleep</td>
+      <td class="leftText">Inflicts Deep Sleep status on other characters in the room (15 turns).<br/>Their action speed will be increased by 1 stage after waking up.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Slumber Scroll</td>
-      <td class="leftText">Inflicts Slumbering status on all non-player characters in the room.</td>
+      <td class="priceTableName">Scroll of Confusion</td>
+      <td class="leftText">Inflicts Confused status on other characters in the room (15~25 turns).</td>
     </tr>
     <tr>
-      <td class="priceTableName">Confusion Scroll</td>
-      <td>150</td>
-      <td class="leftText">Inflicts Confused status on all non-player characters in the room.</td>
+      <td class="priceTableName">Wandering Scroll</td>
+      <td class="leftText">Makes you forget the current floor's layout.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Hands Full Scroll</td>
+      <td class="leftText">Makes you unable to pick up items while on the current floor.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Scroll of Blessing</td>
+      <td rowspan="3">500</td>
+      <td rowspan="3">150</td>
+      <td class="leftText">Removes a curse from a selected item.<br/>Small chance to remove curses from all items not inside pots.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Scroll of Silence</td>
+      <td class="leftText">Inflicts Silent status on the player. (Unable to eat, read, or talk)</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Scroll of Explosion</td>
+      <td class="leftText">Shiren explodes, leaving him with 1 HP remaining.<br/>Characters, items, and walls caught in the blast vanish. (1 tile radius)</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Air Bless Scroll</td>
+      <td rowspan="2">800</td>
+      <td rowspan="2">240</td>
+      <td class="leftText">Increases upgrade value of your equipped weapon by 1.<br/>Small chance to increase upgrade value by 3 instead.<br/>If the weapon is cursed, the curse is removed.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Earth Bless Scroll</td>
+      <td class="leftText">Increases upgrade value of your equipped shield by 1.<br/>Small chance to increase upgrade value by 3 instead.<br/>If the shield is cursed, the curse is removed.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Blastwave Scroll</td>
+      <td rowspan="5">1000</td>
+      <td rowspan="5">300</td>
+      <td class="leftText">Deal 20~40 damage to all monsters in the room.</td>
     </tr>
     <tr>
       <td class="priceTableName">Power Up Scroll</td>
-      <td>450</td>
-      <td>50</td>
-      <td class="leftText">Boosts damage dealt by the player for the duration of the floor. ※</td>
+      <td class="leftText">Boosts damage dealt by the player while on the current floor. ※1</td>
     </tr>
     <tr>
-      <td class="priceTableName">Attraction Scroll</td>
-      <td>500</td>
-      <td>250</td>
-      <td class="leftText">Gathers allies, monsters, or items. (Excludes merchandise)</td>
+      <td class="priceTableName">Scroll of Traps</td>
+      <td class="leftText">Creates lots of new traps on the current floor.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Sumeragi Scroll</td>
-      <td>1000</td>
-      <td>500</td>
-      <td class="leftText"><span class="purpleText">How to Obtain</span>: Castle Tower (Presto Pot on boss floor)</td>
+      <td class="priceTableName">Super Trap Scroll</td>
+      <td class="leftText">Makes it so that Floating type monsters can be trapped.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Pot God Scroll</td>
-      <td>2000</td>
-      <td>50</td>
-      <td class="leftText">Increases the capacity of a pot by 1.</td>
+      <td class="priceTableName">Scroll of Chains</td>
+      <td class="leftText">Trap chain multiplier won't decrease in the current room.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Sanctuary Scroll</td>
-      <td rowspan="4">3000</td>
-      <td>50</td>
-      <td class="leftText">Place this on the ground to create a safe zone where adjacent<br/>monsters can't attack anyone standing on top of the scroll.</td>
+      <td class="priceTableName">Extraction Scroll</td>
+      <td rowspan="2">1500</td>
+      <td rowspan="2">450</td>
+      <td class="leftText">Extracts the contents of a pot onto the ground.</td>
     </tr>
     <tr>
-      <td class="priceTableName">Great Hall Scroll</td>
-      <td>100</td>
-      <td class="leftText">Turns the current floor into one large room.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Heaven Scroll</td>
-      <td rowspan="2">2000</td>
-      <td class="leftText">Increases upgrade value of your equipped weapon by 1.<br/>Small chance to upgrade it by 3 instead.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Earth Scroll</td>
-      <td class="leftText">Increases upgrade value of your equipped shield by 1.<br/>Small chance to upgrade it by 3 instead.</td>
+      <td class="priceTableName">Riceball Scroll</td>
+      <td class="leftText">Transforms the selected item into a Big Riceball.<br/>(Also works on N'Duba, but doesn't work on electrified items)</td>
     </tr>
     <tr>
       <td class="priceTableName">Plating Scroll</td>
-      <td>5000</td>
-      <td>1000</td>
-      <td class="leftText">Makes a weapon or shield rustproof.<br/>Can also be used to repair a cracked bracelet.</td>
+      <td rowspan="3">2000</td>
+      <td rowspan="3">600</td>
+      <td class="leftText">Makes your equipped weapon and shield rustproof.<br/>(Unlike the SFC version, it won't remove curses)</td>
     </tr>
     <tr>
-      <td class="priceTableName">Squid Sushi Scroll</td>
-      <td rowspan="2">10000</td>
-      <td>3000</td>
-      <td class="leftText">Eat this to replenish 40 fullness.<br/><span class="purpleText">How to Obtain</span>: Throw an onigiri item at a Squid King type monster.</td>
+      <td class="priceTableName">Scroll of Need</td>
+      <td class="leftText">Positive effects can occur based on your current situation. ※2</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Great Hall Scroll</td>
+      <td class="leftText">Turns the current floor into one large room.<br/>(No effect on Shuffle map floors like Mountain Stream)</td>
     </tr>
     <tr>
       <td class="priceTableName">Blank Scroll</td>
-      <td>7500</td>
-      <td class="leftText">Write the name of a scroll you've read before, and use this as that scroll.<br/>(You can't write Sumeragi Scroll on a Blank Scroll)</td>
+      <td>5000</td>
+      <td>1000</td>
+      <td class="leftText">Write the name of a scroll you've read before, and use this as that scroll.<br/>(Scrolls read inside Fay's Puzzles 1-50 don't count)</td>
     </tr>
     <tr>
-      <td class="priceTableName">Extinction Scroll</td>
-      <td>50000</td>
-      <td>1</td>
-      <td class="leftText">Throw this at a monster to make that monster no longer spawn.<br/>Effect lasts for the duration of the current adventure.</td>
+      <td class="priceTableName">Scroll of Removal</td>
+      <td>30000</td>
+      <td>9000</td>
+      <td class="leftText">Throw this at a monster to make that monster family no longer spawn.<br/>Effect lasts for the duration of the current adventure.</td>
+    </tr>
+    <tr>
+      <td colspan="4" class="centeredText highlightDarkGray">Blank Scroll Exclusive</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Sanctuary Scroll</td>
+      <td>-</td>
+      <td>-</td>
+      <td class="leftText">Place this on the ground to create a safe zone where adjacent<br/>monsters can't use direct attacks against anyone standing on the scroll.<br/><span class="purpleText">How to Unlock</span>: Clear Table Mountain.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Destruction Scroll</td>
+      <td>-</td>
+      <td>-</td>
+      <td class="leftText">Wipes out all monsters in the same room.<br/><span class="purpleText">How to Unlock</span>: Clear Table Mountain without using fast-travel,<br/>storehouses, Storehouse Jar, or the storehouse NPC.</td>
     </tr>
   </tbody>
 </table>
 
-※ Power Up Scroll: x1.50 damage, additional +0.25 to multiplier per scroll use. (Max: x3.25 at 8 scrolls)
+※1 Power Up Scroll: x1.50 damage, additional +0.25 to multiplier per scroll use. (Max: x3.25 at 8 scrolls)
+
+※2 Scroll of Need:<br/>・Fully restore HP - When remaining HP is low.<br/>・Fully restore strength - When current strength is 1.<br/>・Fully replenish fullness - When fullness is currently at 0.<br/>・Paralyze enemies - When 2 or more enemies are adjacent.<br/>・Cure ailments - When afflicted by select negative status conditions.<br/>・Remove curse - When an equipped item is cursed.<br/>・Gain \~5000 Gitan - When you're carrying 0 Gitan.
+
+# Locations
+
+- F - Floor, Monster drop
+- S - Shop
+- C - Jar of Change, Thiefwalrus drop
+
+<br/>
+
+<table class="itemListCentered">
+  <tr>
+    <th rowspan="2">Item</th>
+    <th colspan="7">Dungeon</th>
+    <th rowspan="2">Village Shop</th>
+  </tr>
+  <tr>
+    <th>TM</th>
+    <th>TP</th>
+    <th>CC</th>
+    <th>RD</th>
+    <th>KG</th>
+    <th>SC</th>
+    <th>FP</th>
+  </tr>
+  <tr>
+    <td>Monster Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Scroll of Haste</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Scroll of Light</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td></td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Scroll of Identity</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td>S</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Scroll of Sleep</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>F</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Scroll of Confusion</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>F</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Wandering Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Hands Full Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Scroll of Blessing</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>S</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Scroll of Silence</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Scroll of Explosion</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Air Bless Scroll</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>S</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Earth Bless Scroll</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>S</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Blastwave Scroll</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>F</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Power Up Scroll</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Scroll of Traps</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Super Trap Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Scroll of Chains</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Extraction Scroll</td>
+    <td>FS</td>
+    <td>FS</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Riceball Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Plating Scroll</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>Bamboo, Stream</td>
+  </tr>
+  <tr>
+    <td>Scroll of Need</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Great Hall Scroll</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>FC</td>
+    <td>S</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Blank Scroll</td>
+    <td>FSC</td>
+    <td>FSC</td>
+    <td>FC</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>SC</td>
+    <td>Stream</td>
+  </tr>
+  <tr>
+    <td>Scroll of Removal</td>
+    <td>S</td>
+    <td>S</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>SC</td>
+    <td>Stream</td>
+  </tr>
+</table>
