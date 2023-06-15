@@ -695,7 +695,7 @@ export const baseStyles = css`
     font-weight: normal;
     text-align: center;
     padding: 2.5px;
-    background-color: #f9fbff;
+    background-color: #d4e2ff;
   }
   .monsterTable td {
     text-align: center;
@@ -704,6 +704,11 @@ export const baseStyles = css`
     padding-top: 3.5px;
     padding-bottom: 3.5px;
     font-size: 13.5px;
+  }
+  .monsterTable img {
+    position: relative !important;
+    max-height: 20px;
+    max-width: 20px;
   }
   .monsterTableSmall th {
     padding: 2px;
@@ -776,7 +781,6 @@ export const baseStyles = css`
     min-height: 55px;
     max-width: unset !important;
     width: unset !important;
-    image-rendering: pixelated;
   }
   .bossImage {
     margin-bottom: 5px !important;
@@ -875,15 +879,40 @@ export const baseStyles = css`
   .summaryTable td {
     padding: 1.5px;
   }
-  .locationTable th {
-    background-color: #f6f4ff;
+  /* This might be bad practice? */
+  .roundedTableWrapper {
+    width: max-content;
+    overflow: auto;
+    border-radius: 6px;
+    border: 1px solid #919191;
+  }
+  /* Location Table on Villages Page */
+  .locationTable {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border-style: hidden;
+  }
+  .locationTable thead tr th {
     font-weight: normal;
     text-align: center;
-    padding: 1px;
+  }
+  .locationTable tbody tr td:first-of-type[rowspan="2"] {
+    border-left: 1px solid #919191;
+    border-bottom-left-radius: 6px;
+  }
+  .locationTable tbody tr td:last-of-type[rowspan="2"] {
+    border-right: 1px solid #919191;
+    border-bottom-right-radius: 6px;
+  }
+  .locationTable tbody tr td {
+    border-left: 1px solid #919191;
+    border-bottom: 1px solid #919191;
   }
   .locationTable td {
     text-align: center;
-    padding: 1px;
+  }
+  .currentLocation {
+    background-color: #e2fdf3;
   }
   .itemDetailsTable th {
     background-color: #f6f4ff;
@@ -1156,10 +1185,10 @@ export const baseStyles = css`
     background-color: #7aabdd;
   }
   .high {
-    background-color: #fff5f1;
+    background-color: #fffbcc;
   }
   .mid {
-    background-color: #fffff4;
+    background-color: #ffffe4;
   }
   .low {
     background-color: #fff;
@@ -1282,10 +1311,13 @@ export const baseStyles = css`
     color: #e33f3f;
   }
   .highlightShop {
-    background-color: #fffac5 !important;
+    background-color: #edcbff;
   }
   .highlightMH {
-    background-color: #f4dfff !important;
+    background-color: #ffb8a8;
+  }
+  .highlightGitan {
+    background-color: #a8ffc6;
   }
   .highlightFog {
     background-color: #dbdbdb;

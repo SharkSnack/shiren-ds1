@@ -6715,7 +6715,7 @@ Drops an item from the Jar of Change table if defeated before it steals an item.
     <td>105</td>
     <td>28</td>
     <td>5000</td>
-    <td>Normal</td>
-    <td>Boss of Ceremonial Cave (30F).<br/>No abilities, immune to Bufu's Staff.</td>
+    <td>Normal<br/>Swift 1</td>
+    <td>Boss of Ceremonial Cave (30F).<br/>Double speed, 1 attack.<br/>Immune to Bufu's Staff.</td>
   </tr>
 </table>

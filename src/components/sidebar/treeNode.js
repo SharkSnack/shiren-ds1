@@ -47,10 +47,13 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[1] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
         items[2] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
         items[3] = { items:[], label: 'allies', title: 'Allies', url: '/system/allies'};
-        items[4] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
+        items[4] = { items:[], label: 'villages', title: 'Villages', url: '/system/villages'};
+        items[5] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
         break;
-      case 'table-mountain': // dungeons
-        items[0] = { items:[], label: 'table-mountain', title: 'Table Mountain', url: '/dungeons/table-mountain'};
+      case 'road-to-the-hamlet': // dungeons
+        items[0] = { items:[], label: 'road-to-the-hamlet', title: 'Road to Hamlet', url: '/dungeons/road-to-the-hamlet'};
+        items[1] = { items:[], label: 'table-mountain', title: 'Table Mountain', url: '/dungeons/table-mountain'};
+        items[2] = { items:[], label: 'tainted-path', title: 'Tainted Path', url: '/dungeons/tainted-path'};
         break;
       default:
         // do nothing
