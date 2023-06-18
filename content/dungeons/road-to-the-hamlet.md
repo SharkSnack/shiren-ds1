@@ -8,7 +8,7 @@ metaDescription: "Road to the Hamlet dungeon guide for Shiren the Wanderer DS1."
   <img src="../images/areas/road_to_hamlet.png"/><img src="../images/areas/road_to_hamlet_2.png"/>
 </div>
 
-Tutorial dungeon where advice about the basics of dungeon gameplay appear as you progress.<br/>Items you pick up are kept after clearing the dungeon, so be sure to check every room on each floor.<br/>It's pretty safe to say the only way to fail it is if you intentionally collapse.<br/>Once cleared, you can't return to this dungeon.
+Tutorial dungeon where advice about the basics of dungeon gameplay appear as you progress.<br/>Items you pick up are kept after clearing the dungeon, so be sure to check every room on each floor.<br/>It's probably safe to say the only way to fail it is if you intentionally collapse.<br/>Once cleared, you can't return to this dungeon.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -33,21 +33,23 @@ Tutorial dungeon where advice about the basics of dungeon gameplay appear as you
 <table class="dungeonTable">
   <tr>
     <th>Floors</th>
-    <td>5F</td>
-    <th>Alt. Name</th>
-    <td>-</td>
+    <td colspan="3">5F</td>
   </tr>
   <tr>
     <th>Bring Items</th>
     <td>-</td>
-    <th>Bring Gitan</th>
+    <th>Allies</th>
     <td>-</td>
   </tr>
   <tr>
-    <th>Allies</th>
+    <th>Bring Gitan</th>
     <td>-</td>
+    <th>Bring Level Ups</th>
+    <td>-</td>
+  </tr>
+  <tr>
     <th>Starting Item</th>
-    <td>None</td>
+    <td colspan="3">None</td>
   </tr>
   <tr>
     <th>Unidentified</th>
@@ -101,13 +103,13 @@ Numbers in parentheses are HP values.<br/>Spawn Rates: <span class="low">Low</sp
       <td>4</td>
       <td class="low"><img src="../images/monsters2/mamel_1.png"/> Mamel (5)</td>
       <td class="low"><img src="../images/monsters2/mini_robber_1.png"/> Mini Robber (5)</td>
-      <td class="low"><img src="../images/monsters2/mamel_2.png"/> Pit Mamel (8)</td>
+      <td class="low"><img src="../images/monsters2/mamel_2.png"/> Pit Mamel (5)</td>
     </tr>
     <tr>
       <td>5</td>
       <td class="low"><img src="../images/monsters2/mamel_1.png"/> Mamel (5)</td>
       <td class="low"><img src="../images/monsters2/mini_robber_1.png"/> Mini Robber (5)</td>
-      <td class="low"><img src="../images/monsters2/mamel_2.png"/> Pit Mamel (8)</td>
+      <td class="low"><img src="../images/monsters2/mamel_2.png"/> Pit Mamel (5)</td>
     </tr>
   </tbody>
 </table>

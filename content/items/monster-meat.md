@@ -14,7 +14,7 @@ metaDescription: "Complete monster meat details for Shiren the Wanderer DS1."
 - Select <span class="blueText">Special</span> to use the monster's special attack.
     - Some monsters don't have a special attack.
 - Items can't be picked up or used while transformed into a monster.
-    - You can't open the <span class="blueText">Items</span> menu, either.
+    - You can't open the <span class="blueText">Inventory</span> menu, either.
 
 # Summary
 

@@ -28,6 +28,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
     switch (items[0].label) {
       case 'blank-scroll-guide': // guides
         items[0] = { items:[], label: 'blank-scroll-guide', title: 'Blank Scroll', url: '/guides/blank-scroll-guide'};
+        items[1] = { items:[], label: 'rescue-rewards', title: 'Rescue Rewards', url: '/guides/rescue-rewards'};
         break;
       case 'armbands': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};
@@ -50,10 +51,15 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[4] = { items:[], label: 'villages', title: 'Villages', url: '/system/villages'};
         items[5] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
         break;
-      case 'road-to-the-hamlet': // dungeons
+      case 'ceremonial-cave': // dungeons
         items[0] = { items:[], label: 'road-to-the-hamlet', title: 'Road to Hamlet', url: '/dungeons/road-to-the-hamlet'};
         items[1] = { items:[], label: 'table-mountain', title: 'Table Mountain', url: '/dungeons/table-mountain'};
         items[2] = { items:[], label: 'tainted-path', title: 'Tainted Path', url: '/dungeons/tainted-path'};
+        items[3] = { items:[], label: 'ceremonial-cave', title: 'Ceremonial', url: '/dungeons/ceremonial-cave'};
+        items[4] = { items:[], label: 'ravine-of-the-dead', title: 'Ravine of Dead', url: '/dungeons/ravine-of-the-dead'};
+        items[5] = { items:[], label: 'kitchen-god', title: 'Kitchen God', url: '/dungeons/kitchen-god'};
+        items[6] = { items:[], label: 'scroll-cave', title: 'Scroll Cave', url: '/dungeons/scroll-cave'};
+        items[7] = { items:[], label: 'fays-final-puzzle', title: 'Final Puzzle', url: '/dungeons/fays-final-puzzle'};
         break;
       default:
         // do nothing

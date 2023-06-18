@@ -8,9 +8,10 @@ metaDescription: "Blank Scroll writing guide for Shiren the Wanderer DS1."
 
 - Input does not have to begin with an uppercase letter.
 - You need to have read the target scroll at least once in the past before you can write it.
+    - Reading a scroll inside a Fay's Puzzle (#1-50) doesn't count.
 - Sanctuary and Destruction inputs are unlocked by clearing the main story dungeon.
-    - Sanctuary - Clear Kobami Valley once.
-    - Destruction - Clear Kobami Valley without using storehouses, Storehouse Jar, or the storehouse NPC.
+    - Sanctuary - Clear Table Mountain.
+    - Destruction - Clear Table Mountain without fast-travel, warehouses, Storehouse Jar, or storehouse NPCs.
 
 # Scroll List
 

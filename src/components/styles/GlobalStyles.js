@@ -795,6 +795,9 @@ export const baseStyles = css`
   #monsterList td {
     text-align: center;
   }
+  .rewardTable th {
+    font-weight: normal;
+  }
   .dungeonItemTable th {
     font-weight: normal;
     background-color: #ececec;
@@ -803,7 +806,7 @@ export const baseStyles = css`
   }
   .dungeonItemTable td {
     text-align: center;
-    min-width: 30px;
+    min-width: 25px;
     padding: 4px;
   }
   .itemTable th {

@@ -6026,7 +6026,7 @@ Occasionally drops Skull Staff when defeated.
     <td>5</td>
     <td>35</td>
     <td rowspan="4">Normal</td>
-    <td rowspan="4">Occasionally deals a critical hit.<br/>Can drop a Minotaur Axe when defeated.</td>
+    <td rowspan="4">Occasionally deals a critical hit.<br/>Can drop a Minotaur's Axe when defeated.</td>
   </tr>
   <tr>
     <td>2</td>
