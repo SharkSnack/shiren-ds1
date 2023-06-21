@@ -48,8 +48,10 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[1] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
         items[2] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
         items[3] = { items:[], label: 'allies', title: 'Allies', url: '/system/allies'};
-        items[4] = { items:[], label: 'villages', title: 'Villages', url: '/system/villages'};
-        items[5] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
+        items[4] = { items:[], label: 'npcs', title: 'NPCs', url: '/system/npcs'};
+        items[5] = { items:[], label: 'side-quests', title: 'Side Quests', url: '/system/side-quests'};
+        items[6] = { items:[], label: 'villages', title: 'Villages', url: '/system/villages'};
+        items[7] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
         break;
       case 'ceremonial-cave': // dungeons
         items[0] = { items:[], label: 'road-to-the-hamlet', title: 'Road to Hamlet', url: '/dungeons/road-to-the-hamlet'};

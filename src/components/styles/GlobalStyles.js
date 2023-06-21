@@ -1205,6 +1205,9 @@ export const baseStyles = css`
   .highlightGreen {
     background-color: #CCFFCC !important;
   }
+  .highlightGreen2 {
+    background-color: #F3FFF3;
+  }
   .highlightGray {
     background-color: #f7f7f7 !important;
   }
@@ -1223,6 +1226,9 @@ export const baseStyles = css`
   .highlightPink {
     background-color: #ffd3d3 !important;
   }
+  .highlightPink2 {
+    background-color: #ffe9e9;
+  }
   .highlightBlue {
     background-color: #a3e0fd !important;
   }
@@ -1234,11 +1240,16 @@ export const baseStyles = css`
     background-color: #e6e6fa !important;
   }
   .highlightPurple2 {
-    background-color: #7700cc !important;
-    color: white;
+    background-color: #e7c6ff;
   }
   .highlightPurple3 {
     background-color: #dfb9ff !important;
+  }
+  .highlightBrown {
+    background-color: #e6bba6;
+  }
+  .highlightBrown2 {
+    background-color: #f4e5de;
   }
   .highlightRed {
     background-color: #ffb3b3 !important;

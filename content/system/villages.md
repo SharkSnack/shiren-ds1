@@ -6,7 +6,7 @@ metaDescription: "Village and other overworld area details for Shiren the Wander
 
 # Overview
 
-There are 7 notable overworld areas in the game, and each village has its own NPCs and facilities.<br/>For events and sidequests, check the Sidequests page.
+There are 7 notable overworld areas in the game, and each village has its own NPCs and facilities.<br/>For events and side quests, check the [Side Quests](/system/side-quests) page.
 
 # Canyon Hamlet
 
@@ -163,6 +163,7 @@ There are 7 notable overworld areas in the game, and each village has its own NP
 - Service can only be performed once per adventure.
 - Upgrade: 1000 Gitan.
     - Increase weapon upgrade value by 1.
+    - Small chance to increase by 3.
 
 #### C - Green Bamboo (Shop)
 
@@ -515,6 +516,7 @@ There are 7 notable overworld areas in the game, and each village has its own NP
 - Service can only be performed once per adventure.
 - Upgrade: 1000 Gitan.
     - Increase weapon upgrade value by 1.
+    - Small chance to increase by 3.
 
 #### E - Gaibara Kilns Gallery (Jar Shop)
 
