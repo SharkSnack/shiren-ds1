@@ -2887,7 +2887,7 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
     <td>3</td>
     <td>7</td>
     <td rowspan="4">Normal</td>
-    <td>Throws Poison Herb when lined up.</td>
+    <td>Throws Poison Herb when lined up (2 tile range).</td>
   </tr>
   <tr>
     <td>2</td>
@@ -2896,7 +2896,7 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
     <td>12</td>
     <td>9</td>
     <td>50</td>
-    <td>Throws Herb of Confusion when nearby.<br/>Throws Poison Herb if target has Confused status.</td>
+    <td>Throws Herb of Confusion within a 2 tile radius.<br/>Throws Poison Herb if target has Confused status.</td>
   </tr>
   <tr>
     <td>3</td>
@@ -2905,7 +2905,7 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
     <td>22</td>
     <td>12</td>
     <td>500</td>
-    <td>Throws Sleeping Herb when nearby.<br/>Throws Poison Herb if target has Sleepy status.</td>
+    <td>Throws Sleeping Herb within a 3 tile radius.<br/>Throws Poison Herb if target has Sleepy status.</td>
   </tr>
   <tr>
     <td>4</td>
@@ -2914,7 +2914,7 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
     <td>44</td>
     <td>16</td>
     <td>1300</td>
-    <td>Throws Kigny Seed when nearby.<br/>Throws Poison Herb if target has Berserk status.</td>
+    <td>Throws Kigny Seed within a 3 tile radius.<br/>Throws Poison Herb if target has Berserk status.</td>
   </tr>
 </table>
 

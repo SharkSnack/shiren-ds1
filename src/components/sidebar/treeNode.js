@@ -63,6 +63,11 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[6] = { items:[], label: 'scroll-cave', title: 'Scroll Cave', url: '/dungeons/scroll-cave'};
         items[7] = { items:[], label: 'fays-final-puzzle', title: 'Final Puzzle', url: '/dungeons/fays-final-puzzle'};
         break;
+      case 'cheat-codes': // other
+        items[0] = { items:[], label: 'cheat-codes', title: 'Cheat Codes', url: '/other/cheat-codes'};
+        items[1] = { items:[], label: 'experience-points', title: 'Exp Table', url: '/other/experience-points'};
+        items[2] = { items:[], label: 'damage', title: 'Damage', url: '/other/damage'};
+        break;
       default:
         // do nothing
     }

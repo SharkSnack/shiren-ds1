@@ -1638,6 +1638,11 @@ export const baseStyles = css`
   .relativeImage img {
     position: relative !important;
   }
+  .guideImage img {
+    max-height: 20px;
+    max-width: 20px;
+    position: relative !important;
+  }
   .pageTopImage img {
     padding-top: 5px;
     position: relative !important;

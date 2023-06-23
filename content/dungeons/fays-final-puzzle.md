@@ -695,6 +695,2414 @@ Numbers in parentheses are HP values.<br/>Spawn Rates: <span class="low">Low</sp
       <td class="high"><img src="../images/monsters2/ironhead_2.png"/> Chainhead (50)</td>
       <td class=""></td>
     </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">21</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/parthenos_2.png"/> Mistonos (50)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_2.png"/> Corporal Ant (35)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/popster_tank_2.png"/> Dadster Tank (40)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/gaze_2.png"/> Super Gaze (51)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_2.png"/> Young Tengu (25)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_2.png"/> Ghost Owl (7)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_3.png"/> Flying Egg (8)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_1.png"/> Air Devil (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_1.png"/> Mecharoid (60)</td>
+      <td class="low"><img src="../images/monsters2/schubell_1.png"/> Schubell (15)</td>
+      <td class="low"><img src="../images/monsters2/schubell_2.png"/> Menbell (25)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_2.png"/> Chainhead (50)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">22</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/parthenos_2.png"/> Mistonos (50)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_2.png"/> Corporal Ant (35)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/popster_tank_2.png"/> Dadster Tank (40)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/gaze_2.png"/> Super Gaze (51)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_3.png"/> Rice Boss (38)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_2.png"/> Ghost Owl (7)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_3.png"/> Flying Egg (8)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_1.png"/> Air Devil (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_1.png"/> Mecharoid (60)</td>
+      <td class="low"><img src="../images/monsters2/schubell_1.png"/> Schubell (15)</td>
+      <td class="low"><img src="../images/monsters2/schubell_2.png"/> Menbell (25)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">23</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_2.png"/> Haze Hermit (45)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_2.png"/> Corporal Ant (35)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/popster_tank_2.png"/> Dadster Tank (40)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/gaze_2.png"/> Super Gaze (51)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_3.png"/> Rice Boss (38)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_2.png"/> Ghost Owl (7)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_3.png"/> Flying Egg (8)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_1.png"/> Air Devil (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_1.png"/> Mecharoid (60)</td>
+      <td class="low"><img src="../images/monsters2/schubell_1.png"/> Schubell (15)</td>
+      <td class="low"><img src="../images/monsters2/schubell_2.png"/> Menbell (25)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_2.png"/> Pacorepkina (45)</td>
+      <td class="high"><img src="../images/monsters2/taur_2.png"/> Minotaur (55)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/polygon_spin_2.png"/> Polygon Jive (60)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_2.png"/> Metal Armor (65)</td>
+      <td class="high"><img src="../images/monsters2/spike_bomb_2.png"/> Spike Blast (80)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">24</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_2.png"/> Haze Hermit (45)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_2.png"/> Corporal Ant (35)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/popster_tank_2.png"/> Dadster Tank (40)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/gaze_2.png"/> Super Gaze (51)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_3.png"/> Rice Boss (38)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_2.png"/> Ghost Owl (7)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_3.png"/> Flying Egg (8)</td>
+      <td class="high"><img src="../images/monsters2/taur_2.png"/> Minotaur (55)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_1.png"/> Mecharoid (60)</td>
+      <td class="low"><img src="../images/monsters2/schubell_1.png"/> Schubell (15)</td>
+      <td class="low"><img src="../images/monsters2/schubell_2.png"/> Menbell (25)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_2.png"/> Pacorepkina (45)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/polygon_spin_2.png"/> Polygon Jive (60)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_2.png"/> Metal Armor (65)</td>
+      <td class="high"><img src="../images/monsters2/spike_bomb_2.png"/> Spike Blast (80)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">25</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_2.png"/> Haze Hermit (45)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_2.png"/> Corporal Ant (35)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_3.png"/> Blazepuff (40)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/flying_fowl_3.png"/> Hover Fowl (45)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_3.png"/> Rice Boss (38)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_2.png"/> Ghost Owl (7)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_3.png"/> Flying Egg (8)</td>
+      <td class="high"><img src="../images/monsters2/taur_2.png"/> Minotaur (55)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/polygon_spin_2.png"/> Polygon Jive (60)</td>
+      <td class="low"><img src="../images/monsters2/schubell_1.png"/> Schubell (15)</td>
+      <td class="low"><img src="../images/monsters2/schubell_2.png"/> Menbell (25)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_2.png"/> Pacorepkina (45)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/cell_armor_2.png"/> Metal Armor (65)</td>
+      <td class="high"><img src="../images/monsters2/spike_bomb_2.png"/> Spike Blast (80)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">26</td>
+      <td rowspan="2" class="highlightShop"></td>
+      <td rowspan="2" class="highlightMH"></td>
+      <td rowspan="2" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/skull_mage_3.png"/> Skull Wraith (60)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_3.png"/> Death Angel (65)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_3.png"/> Blazepuff (40)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/flying_fowl_3.png"/> Hover Fowl (45)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_2.png"/> Tiger Uhoho (65)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_2.png"/> Ghost Owl (7)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/taur_2.png"/> Minotaur (55)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">27</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/skull_mage_3.png"/> Skull Wraith (60)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_3.png"/> Death Angel (65)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_3.png"/> Blazepuff (40)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/flying_fowl_3.png"/> Hover Fowl (45)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_2.png"/> Tiger Uhoho (65)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_2.png"/> Ghost Owl (7)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/piggy_2.png"/> Piggo (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_1.png"/> Dragon (90)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_2.png"/> Madremlas (60)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_2.png"/> Dragon Head (70)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">28</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/skull_mage_3.png"/> Skull Wraith (60)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_3.png"/> Death Angel (65)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_2.png"/> Leech Bug (32)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/flying_fowl_3.png"/> Hover Fowl (45)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_2.png"/> Tiger Uhoho (65)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_2.png"/> Ghost Owl (7)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/piggy_2.png"/> Piggo (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_1.png"/> Dragon (90)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_2.png"/> Madremlas (60)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_2.png"/> Dragon Head (70)</td>
+      <td class="mid"><img src="../images/monsters2/field_bandit_3.png"/> Item Bandit (35)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">29</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/skull_mage_3.png"/> Skull Wraith (60)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_3.png"/> Death Angel (65)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_2.png"/> Leech Bug (32)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_1.png"/> Dragon (90)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_2.png"/> Tiger Uhoho (65)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_2.png"/> Ghost Owl (7)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/piggy_2.png"/> Piggo (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_2.png"/> Madremlas (60)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_2.png"/> Dragon Head (70)</td>
+      <td class="mid"><img src="../images/monsters2/field_bandit_3.png"/> Item Bandit (35)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">30</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/skull_mage_3.png"/> Skull Wraith (60)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_3.png"/> Death Angel (65)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_2.png"/> Leech Bug (32)</td>
+      <td class="low"><img src="../images/monsters2/nduba_2.png"/> N'Dulu (35)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_1.png"/> Dragon (90)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_2.png"/> Tiger Uhoho (65)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_2.png"/> Dragon Head (70)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/piggy_2.png"/> Piggo (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_2.png"/> Madremlas (60)</td>
+      <td class=""></td>
+      <td class="mid"><img src="../images/monsters2/field_bandit_3.png"/> Item Bandit (35)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">31</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_2.png"/> Floppy Hani (40)</td>
+      <td class="high"><img src="../images/monsters2/dark_eye_3.png"/> Shadow Eye (40)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_3.png"/> Curse Mom (56)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_1.png"/> Dragon (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_2.png"/> Dragon Head (70)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/piggy_2.png"/> Piggo (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_2.png"/> Madremlas (60)</td>
+      <td class=""></td>
+      <td class="mid"><img src="../images/monsters2/field_bandit_3.png"/> Item Bandit (35)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">32</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_2.png"/> Floppy Hani (40)</td>
+      <td class="high"><img src="../images/monsters2/dark_eye_3.png"/> Shadow Eye (40)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_3.png"/> Curse Mom (56)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_1.png"/> Dragon (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_2.png"/> Dragon Head (70)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/piggy_2.png"/> Piggo (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_2.png"/> Madremlas (60)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">33</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_2.png"/> Floppy Hani (40)</td>
+      <td class="high"><img src="../images/monsters2/dark_eye_3.png"/> Shadow Eye (40)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_3.png"/> Curse Mom (56)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_1.png"/> Dragon (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_2.png"/> Dragon Head (70)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/piggy_2.png"/> Piggo (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_2.png"/> Madremlas (60)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">34</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_2.png"/> Floppy Hani (40)</td>
+      <td class="high"><img src="../images/monsters2/dark_eye_3.png"/> Shadow Eye (40)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_3.png"/> Curse Mom (56)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_1.png"/> Dragon (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_2.png"/> Dragon Head (70)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/piggy_2.png"/> Piggo (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mamel_3.png"/> Cave Mamel (5)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_2.png"/> Madremlas (60)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">35</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dragon_1.png"/> Dragon (90)</td>
+      <td class="high"><img src="../images/monsters2/dark_eye_3.png"/> Shadow Eye (40)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_3.png"/> Curse Mom (56)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mamel_3.png"/> Cave Mamel (5)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_2.png"/> Dragon Head (70)</td>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_3.png"/> Captain Ant (50)</td>
+      <td class="high"><img src="../images/monsters2/piggy_2.png"/> Piggo (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_2.png"/> Madremlas (60)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">36</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high">Kigny3 (75)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_3.png"/> Steel Armor (80)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/spike_bomb_3.png"/> Spike Fire (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mamel_3.png"/> Cave Mamel (5)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_3.png"/> Tengu Chief (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/inferno_3.png"/> Inferno3 (65)</td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">37</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high">Kigny3 (75)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_3.png"/> Steel Armor (80)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/spike_bomb_3.png"/> Spike Fire (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mamel_3.png"/> Cave Mamel (5)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_3.png"/> Tengu Chief (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/inferno_3.png"/> Inferno3 (65)</td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">38</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high">Kigny3 (75)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_3.png"/> Steel Armor (80)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/spike_bomb_3.png"/> Spike Fire (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/inferno_3.png"/> Inferno3 (65)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_3.png"/> Tengu Chief (40)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">39</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high">Kigny3 (75)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_3.png"/> Steel Armor (80)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/spike_bomb_3.png"/> Spike Fire (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/inferno_3.png"/> Inferno3 (65)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_3.png"/> Tengu Chief (40)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">40</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high">Kigny3 (75)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_3.png"/> Steel Armor (80)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/spike_bomb_3.png"/> Spike Fire (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/inferno_3.png"/> Inferno3 (65)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_3.png"/> Tengu Chief (40)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">41</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/mecharoid_2.png"/> Steamroid (65)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_3.png"/> Burglar (25)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/polygon_spin_3.png"/> Polygon Song (80)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_2.png"/> Half Fighter (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">42</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/mecharoid_2.png"/> Steamroid (65)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_3.png"/> Burglar (25)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/polygon_spin_3.png"/> Polygon Song (80)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_2.png"/> Half Fighter (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">43</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/mecharoid_2.png"/> Steamroid (65)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_3.png"/> Burglar (25)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/polygon_spin_3.png"/> Polygon Song (80)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_2.png"/> Half Fighter (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">44</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/mecharoid_2.png"/> Steamroid (65)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_3.png"/> Burglar (25)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/polygon_spin_3.png"/> Polygon Song (80)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_2.png"/> Half Fighter (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">45</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/mecharoid_2.png"/> Steamroid (65)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_3.png"/> Burglar (25)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/polygon_spin_3.png"/> Polygon Song (80)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_2.png"/> Wraith Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/gather_2.png"/> Killer Gather (60)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_3.png"/> Dusk Owl (10)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_2.png"/> Half Fighter (50)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/snaky_3.png"/> Pythy (70)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_3.png"/> Verginos (70)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_3.png"/> Gigahead (70)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">46</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">47</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">48</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">49</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">50</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_3.png"/> Ironwalrus (70)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_3.png"/> N'Bama (40)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">51</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">52</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">53</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">54</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">55</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="high"><img src="../images/monsters2/green_slime_3.png"/> Grey Slime (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">56</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">57</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">58</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">59</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">60</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/leech_worm_3.png"/> Leech Fly (41)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/ghost_radish_3.png"/> Sleep Radish (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/pacorepkin_3.png"/> Pacorepking (60)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_3.png"/> Mist Hermit (60)</td>
+      <td class="high"><img src="../images/monsters2/hen_3.png"/> Great Hen (60)</td>
+      <td class="high"><img src="../images/monsters2/gaze_3.png"/> Hyper Gaze (70)</td>
+      <td class="high"><img src="../images/monsters2/floor_dragon_3.png"/> Dirt Dragon (80)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dragon_2.png"/> Sky Dragon (100)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">61</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">62</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">63</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class="high"><img src="../images/monsters2/snaky_4.png"/> Anacondy (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">64</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class="high"><img src="../images/monsters2/snaky_4.png"/> Anacondy (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">65</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="low"><img src="../images/monsters2/mamel_4.png"/> Gitan Mamel (6)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_3.png"/> Bladegator (70)</td>
+      <td class="high"><img src="../images/monsters2/death_reaper_4.png"/> Death Master (77)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_3.png"/> Tiger Uhon (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_3.png"/> Megataur (90)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/dremlas_3.png"/> Hardremlas (130)</td>
+      <td class="mid"><img src="../images/monsters2/schubell_3.png"/> Bellthoven (40)</td>
+      <td class="high"><img src="../images/monsters2/snaky_4.png"/> Anacondy (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">66</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class="high"><img src="../images/monsters2/snaky_4.png"/> Anacondy (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">67</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class="high"><img src="../images/monsters2/snaky_4.png"/> Anacondy (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">68</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class="high"><img src="../images/monsters2/snaky_4.png"/> Anacondy (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">69</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class="high"><img src="../images/monsters2/snaky_4.png"/> Anacondy (100)</td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">70</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">71</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">72</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">73</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">74</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">75</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/popster_tank_3.png"/> Oldster Tank (50)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_3.png"/> Droopy Hani (55)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/piggy_3.png"/> Piggora (70)</td>
+      <td class="high"><img src="../images/monsters2/skull_mage_4.png"/> Skull Demon (75)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_3.png"/> Half Master (80)</td>
+      <td class="low"><img src="../images/monsters2/egg_thing_4.png"/> Hiding Egg (10)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="mid"><img src="../images/monsters2/air_devil_3.png"/> Mirage Devil (50)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/curse_girl_4.png"/> Curse Gran (72)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">76</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class=""></td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">77</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class=""></td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">78</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class=""></td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">79</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class=""></td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4">80</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class="highlightMH"></td>
+      <td rowspan="4" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/firepuff_4.png"/> Infernopuff (80)</td>
+      <td class="high"><img src="../images/monsters2/ironhead_4.png"/> Deathhead (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/soldier_ant_4.png"/> General Ant (80)</td>
+      <td class="high"><img src="../images/monsters2/flying_fowl_4.png"/> Jet Fowl (80)</td>
+      <td class="high"><img src="../images/monsters2/gather_3.png"/> Hell Gather (90)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/dark_owl_4.png"/> Chaos Owl (15)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/mecharoid_3.png"/> Electroid (70)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="high"><img src="../images/monsters2/cell_armor_4.png"/> Alloy Armor (100)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class="mid"><img src="../images/monsters2/evil_soldier_4.png"/> Evil Shogun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">81</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">82</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">83</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">84</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">85</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/hen_4.png"/> Miracle Hen (80)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="low"><img src="../images/monsters2/baby_tengu_4.png"/> Tengu Elder (55)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">86</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">87</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">88</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">89</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">90</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/dark_eye_4.png"/> Fear Eye (60)</td>
+      <td class="high"><img src="../images/monsters2/leech_worm_4.png"/> Leech Queen (50)</td>
+      <td class="high"><img src="../images/monsters2/knifegator_4.png"/> Swordgator (100)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/floor_dragon_4.png"/> Earth Dragon (110)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="low"><img src="../images/monsters2/pickpocket_4.png"/> Kleptomaniac (35)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/thiefwalrus_4.png"/> Roguewalrus (100)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/spike_bomb_4.png"/> Spike Erupt (200)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class="high"><img src="../images/monsters2/tiger_uho_4.png"/> Tiger Uboho (100)</td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">91</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_4.png"/> Wrinkly Hani (70)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_4.png"/> Pacorepgod (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_4.png"/> Gigataur (120)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/air_devil_4.png"/> Astral Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_4.png"/> Half Lord (100)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">92</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_4.png"/> Wrinkly Hani (70)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_4.png"/> Pacorepgod (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_4.png"/> Gigataur (120)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/air_devil_4.png"/> Astral Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_4.png"/> Half Lord (100)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">93</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_4.png"/> Wrinkly Hani (70)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_4.png"/> Pacorepgod (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_4.png"/> Gigataur (120)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/air_devil_4.png"/> Astral Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_4.png"/> Half Lord (100)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">94</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_4.png"/> Wrinkly Hani (70)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_4.png"/> Pacorepgod (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_4.png"/> Gigataur (120)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/air_devil_4.png"/> Astral Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_4.png"/> Half Lord (100)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">95</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="high"><img src="../images/monsters2/twisty_hani_4.png"/> Wrinkly Hani (70)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_4.png"/> Pacorepgod (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_4.png"/> Gigataur (120)</td>
+      <td class="high"><img src="../images/monsters2/dragon_3.png"/> Ark Dragon (120)</td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="mid"><img src="../images/monsters2/air_devil_4.png"/> Astral Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_4.png"/> Half Lord (100)</td>
+      <td class="high"><img src="../images/monsters2/rice_baby_4.png"/> Rice Master (70)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/ghost_radish_4.png"/> Fear Radish (70)</td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class="high"><img src="../images/monsters2/piggy_4.png"/> Piggaron (90)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_4.png"/> Goldinos (100)</td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">96</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="mid"><img src="../images/monsters2/air_devil_4.png"/> Astral Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_4.png"/> Pacorepgod (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_4.png"/> Gigataur (120)</td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/ghost_radish_4.png"/> Fear Radish (70)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_4.png"/> Half Lord (100)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_4.png"/> Goldinos (100)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">97</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="mid"><img src="../images/monsters2/air_devil_4.png"/> Astral Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_4.png"/> Pacorepgod (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_4.png"/> Gigataur (120)</td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/ghost_radish_4.png"/> Fear Radish (70)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_4.png"/> Half Lord (100)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_4.png"/> Goldinos (100)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">98</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="mid"><img src="../images/monsters2/air_devil_4.png"/> Astral Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_4.png"/> Pacorepgod (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_4.png"/> Gigataur (120)</td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/ghost_radish_4.png"/> Fear Radish (70)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_4.png"/> Half Lord (100)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_4.png"/> Goldinos (100)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3">99</td>
+      <td rowspan="3" class="highlightShop"></td>
+      <td rowspan="3" class="highlightMH"></td>
+      <td rowspan="3" class="highlightGitan"></td>
+      <td class="mid"><img src="../images/monsters2/air_devil_4.png"/> Astral Devil (50)</td>
+      <td class="high"><img src="../images/monsters2/pacorepkin_4.png"/> Pacorepgod (80)</td>
+      <td class="high"><img src="../images/monsters2/taur_4.png"/> Gigataur (120)</td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/nduba_4.png"/> N'Balun (50)</td>
+    </tr>
+    <tr>
+      <td class="high"><img src="../images/monsters2/ghost_radish_4.png"/> Fear Radish (70)</td>
+      <td class="high"><img src="../images/monsters2/fog_hermit_4.png"/> Cloud Hermit (70)</td>
+      <td class="mid"><img src="../images/monsters2/half_warrior_4.png"/> Half Lord (100)</td>
+      <td class="high"><img src="../images/monsters2/parthenos_4.png"/> Goldinos (100)</td>
+      <td class="low"><img src="../images/monsters2/fluffy_bunny.png"/> Fluffy Bunny (5)</td>
+    </tr>
+    <tr>
+      <td class=""></td>
+      <td class="high"><img src="../images/monsters2/dremlas_4.png"/> Heavyremlas (150)</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class="low"><img src="../images/monsters2/schubell_4.png"/> Showpin (60)</td>
+    </tr>
   </tbody>
 </table>
 
