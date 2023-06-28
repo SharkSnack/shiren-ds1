@@ -5,7 +5,7 @@ metaDescription: "Table Mountain (Kobami Valley) dungeon guide for Shiren the Wa
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/kobami_valley.png"/><img src="../images/areas/kobami_valley_2.png"/>
+  <img src="../images/areas/table_mountain.png"/><img src="../images/areas/kobami_valley_2.png"/>
 </div>
 
 Table Mountain (also known as Kobami Valley) is the main story dungeon of Shiren 1.<br/>The dungeon is split into a number of areas, and there are overworld rest spots along the way.<br/>Backtracking is possible, but you can only go forward once you go past Cryptic Rock Valley.
@@ -75,6 +75,14 @@ This page mostly assumes you're attempting to clear the main story in 1 adventur
 
 # Strategy
 
+### Equipment
+
+It's possible to clear the dungeon with any equipment, but a Katana and Iron Shield make things much easier.<br/>Both items can appear at the Bamboo Village shop - Use backtracking if you want to ensure obtaining them.
+
+If you use weaker equipment, consider hunting an extra Rice Master to level up a bit more than usual.<br/>Shiren's attack power increases as he levels up, and higher max HP raises survivability in general.
+
+Mastersword is stronger than a Katana, but a Katana can be upgraded into a better weapon in the long run.<br/>Hide Shield can be used to conserve fullness early game, but isn't recommended from around Waterfall Marsh.<br/>Armor Ward is strong, but it doubles your hunger rate (1 fullness / 5 turns), so you'll need lots of food if you use it.<br/>If you've unlocked Melding Jar through the [Gaibara Side Quest](/system/side-quests#gaibara), feel free to combine Armor Ward and Hide Shield.<br/>1 Hide Shield will erase the faster hunger rate ability, and melding another Hide Shield will halve your hunger rate.
+
 ### Backtracking
 
 Returning to the previous floor is possible by selecting <span class="blueText">Back</span> while standing on an Exit tile.<br/>A new map will be generated for the previous floor, but there won't be any items on the ground.<br/>If you return to Canyon Hamlet, the current adventure ends and your stats reset, but you keep items and money.
@@ -130,15 +138,27 @@ Have <span class="guideImage"><img src="../images/monsters2/rice_baby_2.png"/></
 
 ### Old Cedar Road (1-2F)
 
+<div class="dungeonPageImage2">
+  <img src="../images/areas/old_cedar_road.png"/>
+</div>
+
 Enemies only use direct attacks, but you might struggle if you get swarmed in the starting room.<br/><span class="guideImage"><img src="../images/monsters2/chintala_1.png"/></span> Chintala and <span class="guideImage"><img src="../images/monsters2/mini_robber_1.png"/></span> Mini Robber deal 3 damage without a shield, so use hallways to fight them 1 vs 1.<br/>HP regeneration rate is slow at first (1 HP per 15 turns), but speeds up as your max HP increases.<br/>Be sure to check every room for items before advancing to the next floor.
 
 ### Mountain Stream (3-4F)
+
+<div class="dungeonPageImage2">
+  <img src="../images/areas/mountain_stream.png"/>
+</div>
 
 <p><span class="guideImage"><img src="../images/monsters2/snaky_1.png"/></span> Snaky has 17 HP and deals 7~9 damage without a shield, so watch your HP and use an item if needed.<br/><span class="guideImage"><img src="../images/monsters2/bowboy_1.png"/></span> Bowboys shoot Wooden Arrows from up to 10 tiles away - Use zigzag movement to safely approach them.<br/><span class="guideImage"><img src="../images/monsters2/pickpocket_1.png"/></span> Pickpockets will steal your Gitan when they're adjacent - Shoot arrows before they get close.<br/>As a bonus, defeating Pickpockets before they steal ensures they drop a fresh bag of Gitan.</p>
 
 If you find Gitan, you can hold B to step on it without picking it up, and then <span class="blueText">Trade</span> it with an inventory item,<br/>which allows you to carry the Gitan and <span class="blueText">Throw</span> it to deal damage equal to 1/10 of its value.<br/>It's a handy technique to defeat stronger enemies when Shiren is still lacking in stats or equipment.<br/>Continue checking every room for items before advancing to the next floor.
 
 ### Bamboo Village
+
+<div class="dungeonPageImage2">
+  <img src="../images/areas/bamboo_village_2.png"/>
+</div>
 
 See [Villages](/system/villages#bamboo-village) and [Side Quests](/system/side-quests) pages for more information.
 
@@ -158,6 +178,10 @@ Pay 1000 Gitan to upgrade a weapon of your choice (+1 upgrade value, or +3 if yo
 
 ### Pegasus Ridge (5-6F)
 
+<div class="dungeonPageImage2">
+  <img src="../images/areas/pegasus_ridge.png"/>
+</div>
+
 <p><span class="guideImage"><img src="../images/monsters2/rice_baby_2.png"/></span> Rice Changer (5-7F) has 23 HP and its special attack transforms 1 inventory item into a Big Riceball.<br/>This is helpful if it's an unneeded item, but it's quite bad if it happens to a valuable item like Jar of Holding.<br/>You likely won't be able to defeat them in 1 hit using direct attacks until you've <a href="#rice-master-(5-7f)">hunted a Rice Master</a> or two.<br/>However, you can instantly defeat Rice Changers by throwing any riceball item at them if needed.<br/>Otherwise, shoot arrows if there's distance or use staves when adjacent to ensure they don't act.</p>
 
 <p><span class="guideImage"><img src="../images/monsters2/evil_soldier_1.png"/></span> Evil Soldier (5-7F) revives as <span class="guideImage"><img src="../images/monsters2/dead_soldier_1.png"/></span> Dead Soldier 4 turns after it's been defeated.<br/>Dead Soldier has 3 HP but only takes 1 damage from direct attacks unless you have a Sickle Slayer equipped.<br/>It will seek out and possess a different monster, resulting in the possessed monster leveling up.<br/>This can be dangerous depending on the monster, so it's good to have Gitan on hand to be used as a projectile.<br/>Once you get the hang of these two monsters, you can use them to hunt a Rice Master for 1500 exp.</p>
@@ -166,9 +190,17 @@ Other notable threats include <span class="guideImage"><img src="../images/monst
 
 ### Mountaintop Forest (7F)
 
+<div class="dungeonPageImage2">
+  <img src="../images/areas/mountaintop_forest.png"/>
+</div>
+
 Monsters are the same as Pegasus Ridge, but with the addition of <span class="guideImage"><img src="../images/monsters2/skull_mage_1.png"/></span> Skull Mage (7-9F).<br/>It has 21 HP and shoots a random effect magic bullet (Warp, Knockback, Switch positions, Swift) when lined up.<br/>None of the effects are that harmful, but it's good to get into the habit of using zigzag movement anyway.
 
 ### Mountaintop Town
+
+<div class="dungeonPageImage2">
+  <img src="../images/areas/mountaintop_town_2.png"/>
+</div>
 
 See [Villages](/system/villages#mountaintop-town) and [Side Quests](/system/side-quests) pages for more information.
 
@@ -186,9 +218,17 @@ Pay 1000 Gitan to upgrade a weapon of your choice (+1 upgrade value, or +3 if yo
 
 #### Gaibara's Manor
 
+<div class="dungeonPageImage2">
+  <img src="../images/areas/gaibara_manor.png"/>
+</div>
+
 <p><span class="redText">Warning: If you enter this building with a jar in your inventory, Gaibara will smash it and contents will be lost.</span><br/>This applies only to the first time you meet Gaibara, and excludes Walrus Jar and Monster Jar.</p>
 
 ### Old Mine at Mount Nebri (8-9F)
+
+<div class="dungeonPageImage2">
+  <img src="../images/areas/old_mine.png"/>
+</div>
 
 This is around the point where the difficulty of the dungeon begins to ramp up.<br/>Monster Houses (rooms packed full of monsters, items, and traps) can be generated between 8-14F.<br/>Save items like Scroll of Confusion and Blastwave Scroll for these situations if possible.
 
@@ -202,11 +242,19 @@ Spike Bombs turn red and stop moving once their HP falls below 45% (Remaining HP
 
 ### Janus Valley
 
+<div class="dungeonPageImage2">
+  <img src="../images/areas/janus_valley_2.png"/>
+</div>
+
 See [Villages](/system/villages#janus-valley) and [Side Quests](/system/side-quests) pages for more information.
 
 No events or facilities during your first visit.
 
 ### Cavern in the Cliff (10-11F)
+
+<div class="dungeonPageImage2">
+  <img src="../images/areas/cliff_cavern.png"/>
+</div>
 
 <p><span class="guideImage"><img src="../images/monsters2/curse_girl_1.png"/></span> Curse Girl (10-12F) has 25 HP and curses 1 inventory item when adjacent - Shoot arrows from a distance.<br/>If a piece of equipment gets cursed, you won't be able to unequip it, and non-equipment items will be unusable.<br/>Lift a curse by reading a Scroll of Blessing (any item), Air Bless Scroll (weapon), or Earth Bless Scroll (shield).</p>
 
@@ -218,11 +266,19 @@ Other notable threats include <span class="guideImage"><img src="../images/monst
 
 ### Cave of the Mountain Spirits (12-14F)
 
+<div class="dungeonPageImage2">
+  <img src="../images/areas/mountain_spirits.png"/>
+</div>
+
 The dream team of <span class="guideImage"><img src="../images/monsters2/inferno_1.png"/></span> Inferno (12-14F) and <span class="guideImage"><img src="../images/monsters2/popster_tank_1.png"/></span> Popster Tank (12-14F) threaten you with a good time.<br/>Inferno has 35 HP and 17 attack, and is immune to projectiles unless the projectile has piercing properties.<br/>Popster Tank has 36 HP and Slow speed, and fires a cannon which deals 20 damage in a 1 tile radius.<br/>Neither are too bad on their own, but there's a catch - Infernos multiply when they get hit by explosions.<br/>Watch red dots on the map to ensure Popster Tank doesn't hit Infernos or other monsters with its cannon.
 
 Otherwise, the only other new threat is <span class="guideImage"><img src="../images/monsters2/kigny_1.png"/></span> Kigny (12-14F), who attacks any creature - friend or foe.<br/>It has 40 HP and 25 attack at first, but will level up and get stronger each time it defeats a creature.<br/>If it reaches Lv3 or higher, step in place in a room and shoot arrows instead of risking a hallway encounter.
 
 ### Cryptic Rock Valley
+
+<div class="dungeonPageImage2">
+  <img src="../images/areas/cryptic_rock_valley_2.png"/>
+</div>
 
 See [Villages](/system/villages#cryptic-rock-valley) and [Side Quests](/system/side-quests) pages for more information.
 
@@ -238,6 +294,10 @@ Again, store items inside the warehouse to keep them safe if you'd like.<br/>The
 
 ### Waterfall Marsh (15-16F)
 
+<div class="dungeonPageImage2">
+  <img src="../images/areas/waterfall_marsh.png"/>
+</div>
+
 Highly recommended to rush to the exit instead of checking rooms for items.<br/>Monsters here can lower your stats or destroy items, so it's really not worth lingering on these floors.
 
 <p><span class="guideImage"><img src="../images/monsters2/twisty_hani_1.png"/></span> Twisty Hani has 25 HP and reduces your level by 1 when adjacent.<br/><span class="guideImage"><img src="../images/monsters2/leech_worm_1.png"/></span> Leech Worm has 23 HP and reduces your max strength by 1 when adjacent.<br/><span class="guideImage"><img src="../images/monsters2/green_slime_2.png"/></span> Purple Slime has 40 HP and lowers weapon or shield strength by 2 when adjacent, and can multiply when hit.<br/><span class="guideImage"><img src="../images/monsters2/flying_fowl_2.png"/></span> Flutter Fowl has 30 HP and can electrify 1 herb or scroll in your inventory, which outright destroys the item.<br/><span class="guideImage"><img src="../images/monsters2/ghost_radish_2.png"/></span> Daze Radish has 30 HP and throws Herb of Confusion within a 2 tile radius, or Poison Herb if you're confused.<br/>Poison Herb slows your action speed to 1 action every 2 turns, and also reduces strength by 1.</p>
@@ -247,6 +307,10 @@ If you have a Jar of Holding, leave 2 slots open in case you become adjacent to 
 Physical attacker threats include <span class="guideImage"><img src="../images/monsters2/gather_1.png"/></span> Gather and <span class="guideImage"><img src="../images/monsters2/knifegator_2.png"/></span> Sabregator.<br/>Gather has 36 HP and 25 attack, and only uses direct attacks (19\~25 damage with Bronzeward).<br/>Sabregator has 35 HP and 18 attack, but attacks twice per turn. (26\~34 damage total with Bronzeward).<br/>
 
 ### Table Mountain (17-21F)
+
+<div class="dungeonPageImage2">
+  <img src="../images/areas/table_first.png"/>
+</div>
 
 This is basically the first major wall for novice players - Especially for those who try to check every room.<br/>It takes experience to develop a sense for it, but once you have enough items, it can be better to rush to the stairs.
 
@@ -269,6 +333,10 @@ That said, there's a cute monster called <span class="guideImage"><img src="../i
 
 ### Underground Stream Village
 
+<div class="dungeonPageImage2">
+  <img src="../images/areas/stream_village_2.png"/>
+</div>
+
 See [Villages](/system/villages#stream-village) for more information.
 
 #### Inn
@@ -281,9 +349,17 @@ The shop has a random selection of 6 items for sale - Buy whatever looks useful.
 
 ### Table Mountain (22-25)
 
+<div class="dungeonPageImage2">
+  <img src="../images/areas/table_second.png"/>
+</div>
+
 <p><span class="guideImage"><img src="../images/monsters2/taur_2.png"/></span> Minotaur (23-25F) has 55 HP and 35 attack, and occasionally deals a critical hit - Another power type.<br/><span class="guideImage"><img src="../images/monsters2/fog_hermit_2.png"/></span> Haze Hermit (23-25F) has 45 HP and casts a spell that pauses Shiren's HP regeneration when lined up.<br/><span class="guideImage"><img src="../images/monsters2/polygon_spin_2.png"/></span> Polygon Jive (23-25F) has 60 HP and warps to Shiren inside rooms, and lowers fullness by 30.<br/><span class="guideImage"><img src="../images/monsters2/flying_fowl_3.png"/></span> Hover Fowl (24-26F) has 45 HP and electrifies 1 herb, scroll, or staff in your inventory, making it unusable.<br/><span class="guideImage"><img src="../images/monsters2/spike_bomb_2.png"/></span> Spike Blast (23-25F) has 80 HP and explodes when remaining HP &le; 16 HP - Deal with it similarly to Spike Bomb.</p>
 
 ### Ravine of Illusions (26F) - The Three Trials (27-29F)
+
+<div class="dungeonPageImage3">
+  <img src="../images/areas/ravine_illusions.png"/><img src="../images/areas/trials_3.png"/>
+</div>
 
 The final stretch - Single turns can be very important, so be careful with inputs.<br/>Highly recommended to use Scroll of Light and rush to the stairs instead of checking rooms for items.
 
@@ -298,6 +374,10 @@ The final stretch - Single turns can be very important, so be careful with input
 Other threats on 27-29F include <span class="guideImage"><img src="../images/monsters2/floor_dragon_2.png"/></span> Dragon Head, <span class="guideImage"><img src="../images/monsters2/tiger_uho_2.png"/></span> Tiger Uhoho, <span class="guideImage"><img src="../images/monsters2/piggy_2.png"/></span> Piggo, and <span class="guideImage"><img src="../images/monsters2/dremlas_2.png"/></span> Madremlas.<br/>Dragon Head has 70 HP and 32 attack, and will try to sandwich you between another enemy in a hallway.<br/>Tiger Uhoho has 65 HP and 26 attack, and can throw creatures within a 10 tile radius.<br/>Piggo has 50 HP, 35 attack, and can throw rocks within a 5 tile radius.<br/>Madremlas has 60 HP, 30 attack, and can make Shiren trip and drop inventory items on the ground.
 
 ### Golden City / Rainbow's End
+
+<div class="dungeonPageImage2">
+  <img src="../images/areas/golden_city_2.png"/>
+</div>
 
 No facilities, but you can check the stone slabs to learn about the city.
 

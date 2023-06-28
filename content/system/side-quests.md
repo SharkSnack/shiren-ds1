@@ -230,7 +230,7 @@ Girl who asks for a random item from your inventory, and gives you a different i
   <img src="../images/event/selfish_girl.png"/>
 </div>
 
-<p><span class="highlightYellow">Requirement</span>: Before unlocking Ceremonial Cave.<br/><span class="highlightYellow2">Location</span>: Cryptic Rock Valley</p>
+<p><span class="highlightYellow">Requirement</span>: None.<br/><span class="highlightYellow2">Location</span>: Cryptic Rock Valley</p>
 
 On rare occasions, the girl and mother in the northeast house will be outdoors when you visit.<br/>If you have 3 or more items, the girl will ask for a random item counting from the top of your inventory.<br/>Give her the item she requests, and you'll be given one of the following items as thanks:
 

@@ -1581,10 +1581,18 @@ export const baseStyles = css`
   }
   .dungeonPageImage2 {
     display: flex;
-    width: 680px !important;
+    width: 180px !important;
     height: auto;
   }
   .dungeonPageImage2 img {
+    position: relative !important;
+  }
+  .dungeonPageImage3 {
+    display: flex;
+    width: 360px !important;
+    height: auto;
+  }
+  .dungeonPageImage3 img {
     position: relative !important;
   }
   .allyPageImage {

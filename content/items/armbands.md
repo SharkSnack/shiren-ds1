@@ -143,7 +143,7 @@ metaDescription: "Complete armband details for Shiren the Wanderer DS1."
     </tr>
     <tr>
       <td class="priceTableName">Defense Armband</td>
-      <td class="leftText">Reduces damage received from direct attacks.</td>
+      <td class="leftText">Reduces damage received from direct attacks by 25%.</td>
     </tr>
     <tr>
       <td class="priceTableName">Ace's Armband</td>

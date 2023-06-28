@@ -5,7 +5,7 @@ metaDescription: "Kitchen God Shrine dungeon guide for Shiren the Wanderer DS1."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-
+  <img src="../images/areas/kitchen_god.png"/><img src="../images/areas/kitchen_god_2.png"/>
 </div>
 
 [Introduction]
@@ -24,11 +24,11 @@ metaDescription: "Kitchen God Shrine dungeon guide for Shiren the Wanderer DS1."
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">1. Clear the main story.<br/>2. </td>
+    <td class="highlightYellow">1. Clear the main story.<br/>2. Finish the Gaibara side quest.<br/>3. Finish the Naoki side quest.<br/>4. Go to Bamboo Village.<br/>5. Go to where the statue dedicated to Bufu was located.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Bamboo Village ()</td>
+    <td class="highlightYellow">Bamboo Village (North side of village)</td>
   </tr>
 </table>
 

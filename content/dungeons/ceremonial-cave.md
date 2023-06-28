@@ -5,10 +5,14 @@ metaDescription: "Ceremonial Cave dungeon guide for Shiren the Wanderer DS1."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-
+  <img src="../images/areas/ceremonial_cave.png"/><img src="../images/areas/ceremonial_cave_2.png"/>
 </div>
 
-[Introduction]
+Shorter dungeon where higher level Kigny and Inferno monsters appear on nearly all floors.<br/>You need to bring items to stand a chance, but it's not as hard as other carry-in items postgame dungeons.<br/>However, the boss fight at the end is arguably the hardest one in the game
+
+The exclusive <span class="purpleText">Kigny Axe</span> and <span class="purpleText">Kigny Shield</span> can rarely be found buried in Gitan vaults on specific floors.<br/>Kigny Axe only has a chance of being generated on 25F, meanwhile Kigny Shield can only appear on 29F.<br/>The item can also only appear if you currently don't have it in your inventory or any warehouse.
+
+In addition, the Jar of Change item table for this dungeon is special between 10-12F.<br/>Transformed items have a chance to turn into <span class="purpleText">Kabra's Blade</span> or <span class="purpleText">Windshield</span> only on these 3 floors.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -24,11 +28,11 @@ metaDescription: "Ceremonial Cave dungeon guide for Shiren the Wanderer DS1."
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">1. Clear the main story.<br/>2. </td>
+    <td class="highlightYellow">1. Clear the main story.<br/>2. Finish the Surala side quest.<br/>3. Talk to the lady in the northwest house in Cryptic Rock Valley.<br/>4. Go on an adventure and return.<br/>5. Go near the same house in Cryptic Rock Valley for an event with Sabu.<br/>6. Go on an adventure and return.<br/>7. Talk to the Courier near the exit in Canyon Hamlet.<br/>　(Must not be during Tainted Path unlock event)<br/>　(Must not be during Scroll Cave unlock event)<br/>8. Talk to the dog in Cryptic Rock Valley.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Cryptic Rock Valley ()</td>
+    <td class="highlightYellow">Cryptic Rock Valley (Outside northwest house)</td>
   </tr>
 </table>
 
@@ -71,7 +75,115 @@ metaDescription: "Ceremonial Cave dungeon guide for Shiren the Wanderer DS1."
   </tr>
 </table>
 
+# Rare Items
+
+### Kigny Axe & Kigny Shield
+
+As mentioned in the dungeon intro, these two items can rarely be found buried in Gitan vaults.<br/><span class="purpleText">Kigny Axe</span> only has a chance of being generated on 25F, and <span class="purpleText">Kigny Shield</span> can only be generated on 29F.<br/>Gitan vaults can appear between 15-29F, but they always just contain Gitan on floors besides 25F and 29F.<br/>Each item can also only appear if you currently don't have it in your inventory or any warehouse.
+
+The quickest way to check for a vault is to equip an Armband of Sight, which instantly reveals it on the map.<br/>Once you've located a vault, you can use an unbreakable Pickaxe (<span class="guideImage"><img src="../images/meld/pickaxe_gold.png"/></span> meld ability) to enter the room.<br/>Alternatively, you can eat monster meat like Death Angel or Pacorepkin to pass through walls.
+
+The items are NOT guaranteed to be generated just because a vault was generated on 25F or 29F.<br/>If you're unlucky, it can take hours of running the dungeon before you find a winning vault.<br/>(If you don't care about finding it yourself, you can just use a [Rescue Password](/guides/rescue-rewards#passwords))
+
+### Jar of Change (10-12F)
+
+As mentioned earlier, the Jar of Change item table for this dungeon is special between 10-12F.<br/>Transformed items have a chance to turn into <span class="purpleText">Kabra's Blade</span> or <span class="purpleText">Windshield</span> only on these 3 floors.<br/>If you want to obtain these without the use of passwords, one option is to visit this dungeon with lots of jars.
+
 # Strategy
+
+### Equipment
+
+#### Weapon
+
+Aim for a weapon with a minimum of 30 attack.
+
+#### Shield
+
+Aim for a shield with a minimum of 30 defense, but really 50+ is better.<br/>To give you an idea, here's a damage table based on shield strength:
+
+<table class="dungeonItemTable">
+  <thead>
+    <tr>
+      <th rowspan="2">Monster</th>
+      <th colspan="5">Shield Strength</th>
+    </tr>
+    <tr>
+      <th>30</th>
+      <th>40</th>
+      <th>51</th>
+      <th>64</th>
+      <th>82</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Kigny2</td>
+      <td>8~16</td>
+      <td>1~9</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Kigny3</td>
+      <td>25~39</td>
+      <td>17~31</td>
+      <td>9~22</td>
+      <td>1~12</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Kigny4</td>
+      <td>38~55</td>
+      <td>33~47</td>
+      <td>22~39</td>
+      <td>12~29</td>
+      <td>1~15</td>
+    </tr>
+    <tr>
+      <td>Kigny5</td>
+      <td>54~71</td>
+      <td>44~63</td>
+      <td>36~55</td>
+      <td>25~45</td>
+      <td>13~31</td>
+    </tr>
+    <tr>
+      <td>Inferno3</td>
+      <td>16~25</td>
+      <td>9~18</td>
+      <td>1~8</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Inferno4</td>
+      <td>29~43</td>
+      <td>22~35</td>
+      <td>12~26</td>
+      <td>3~16</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Inferno5</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Boss</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+#### Armbands
 
 # Floor Guide
 
@@ -750,6 +862,10 @@ Numbers in parentheses are HP values.<br/>Spawn Rates: <span class="low">Low</sp
 </table>
 
 # Items
+
+#### Kigny Axe / Kigny Shield
+
+<p><span class="highlightGitan">Important</span>: Kigny Axe (25F) and Kigny Shield (29F) can rarely be found inside Gitan vaults on specific floors,<br/>but only if you currently don't own a copy of the item in your inventory or any warehouse.</p>
 
 #### Spawn Rates
 

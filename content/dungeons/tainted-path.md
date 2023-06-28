@@ -5,7 +5,7 @@ metaDescription: "Tainted Path dungeon guide for Shiren the Wanderer DS1."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-
+  <img src="../images/areas/tainted_path.png"/><img src="../images/areas/tainted_path_2.png"/>
 </div>
 
 Dungeon you can enter by talking to a foreign wanderer and revisiting Golden City after clearing the main story.<br/>It's a direct continuation of Table Mountain, so you're expected to bring items and the dungeon begins on 31F.
@@ -26,7 +26,7 @@ There's a single room Monster House featuring a Tainted Soldier every 10 floors,
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">1. Clear the main story.<br/>2. </td>
+    <td class="highlightYellow">1. Clear the main story.<br/>2. Talk to the foreign wanderer near the exit in Canyon Hamlet.<br/>3. Go to the Golden City.<br/>4. Enter the building with a condor mural.</td>
   </tr>
   <tr>
     <th>Entrance</th>
@@ -75,7 +75,233 @@ There's a single room Monster House featuring a Tainted Soldier every 10 floors,
 
 # Strategy
 
+### Equipment
+
+#### Weapon
+
+|Weapon|Atk|Notes|
+|-|-|-|
+|Kabra Reborn+99|149|One-shot most monsters.|
+|Firebrand+99|119|One-shot many monsters, still comfortable.|
+|Kabra's Blade+70|82|Lacks power compared to the above, but manageable.|
+|Mastersword+60|68|Lack of power is noticeable.|
+|Katana+50|56|Minimum you should bring for an okay time.|
+
+#### Weapon Melds
+
+These meld abilities are easy to obtain if you use [Rescue Passwords](/guides/rescue-rewards#passwords).
+
+<table class="sealTable">
+  <tr>
+    <th>Icon</th>
+    <th>Item</th>
+    <th>Effect</th>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/golden_blade.png"/></td>
+    <td>Golden Blade</td>
+    <td>Weapon won't rust from traps or monster attacks.<br/>(Doesn't stop Lv3-4 Green Slimes from erasing meld abilities)</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/razor_wind.png"/></td>
+    <td>Razor Wind</td>
+    <td>Attack in 3 forward directions.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/bufus_cleaver.png"/></td>
+    <td>Bufu's Cleaver</td>
+    <td>Chance to turn defeated monsters into meat.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/dragonkiller.png"/></td>
+    <td>Dragonkiller</td>
+    <td>Deal x2.0 damage to Dragon types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/sickle_slayer.png"/></td>
+    <td>Sickle Slayer</td>
+    <td>Deal x2.0 damage to Ghost types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/cyclops_killer.png"/></td>
+    <td>Cyclops Killer</td>
+    <td>Deal x2.0 damage to One-Eyed types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/drain_buster.png"/></td>
+    <td>Drain Buster</td>
+    <td>Deal x2.0 damage to Drain types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/crescent_arm.png"/></td>
+    <td>Crescent Arm</td>
+    <td>Deal x2.0 damage to Exploding types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/air_slayer.png"/></td>
+    <td>Air Slayer</td>
+    <td>Deal x2.0 damage to Floating types.</td>
+  </tr>
+</table>
+
+#### Shield
+
+|Shield|Def|Notes|
+|-|-|-|
+|Stormward+99|149|Receive 1 damage from most monsters.|
+|Windshield+70|82|Receive 5\~50 damage from stronger monsters.|
+|Armor Ward+55|64|Receive 10\~60 damage from stronger monsters.|
+|Iron Shield+45|51|Receive 25~70 damage from stronger monsters.|
+
+#### Shield Melds
+
+These meld abilities are easy to obtain if you use [Rescue Passwords](/guides/rescue-rewards#passwords).
+
+<table class="sealTable">
+  <tr>
+    <th>Icon</th>
+    <th>Item</th>
+    <th>Effect</th>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/gold_shield.png"/></td>
+    <td>Gold Shield</td>
+    <td>Shield won't rust from traps or monster attacks.<br/>(Doesn't stop Lv3-4 Green Slimes from erasing meld abilities)</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/dragonward.png"/></td>
+    <td>Dragonward</td>
+    <td>Reduces fire damage by 50%.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/blast_shield.png"/></td>
+    <td>Blast Shield</td>
+    <td>Reduces explosion damage by 50%.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/walrus_shield.png"/></td>
+    <td>Walrus Shield</td>
+    <td>Protects items and Gitan from being stolen.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/hide_shield.png"/></td>
+    <td>Hide Shield</td>
+    <td>Halves hunger rate (1 fullness / 20 turns).</td>
+  </tr>
+</table>
+
+#### Armbands
+
+|Armband|Notes|
+|-|-|
+|Armband of Sight|Reveals the locations of characters and items.<br/>(Also makes you able to see invisible monsters such as Air Devil)|
+|Trap Armband|Check for hidden traps when you enter a new room.|
+|Sleepless Armband|For Sleep Radish (49-54F).|
+
+### Other Items
+
+Rare items like Bufu's Staff and Herb of Revival are great as well.
+
+|Item|Notes|
+|-|-|
+|Chiropractic Jar [5]|Bring 3 of these.|
+|Air Devil Meat|Turn invisible - Great for Monster Houses in particular.|
+|Scroll of Removal|Throw it at Ark Dragon or some other monster you dislike.<br/>(Can use a Blank Scroll instead of the real thing)|
+|Scroll of Blessing|Nice to have in case key items get cursed.|
+|Doppelganger Staff|Useful for a variety of situations.|
+|Staff of Postpone|Use with Armband of Sight to quickly locate the stairs.|
+|Staff of Sloth|Swing it at the boss to have a one-sided fight.|
+|Staff of Paralysis|Paralyze monsters with troublesome special attacks.|
+|Switching Staff|Hurry to the stairs in a Monster House, etc.|
+|Scroll of Need|Nice to have in case you get surrounded.|
+|Scroll of Confusion|For Monster Houses or such.|
+
 # Floor Guide
+
+### General
+
+You can bring level ups into this dungeon, so consider starting from Table Mountain instead of Golden City.
+
+Swap to Trap Armband to check for traps when entering rooms, then switch back to Armband of Sight.<br/>The exception to this is Sleep Radish (49-54F) floors, where you'll want to use Sleepless Armband instead.
+
+Fixed Monster Houses featuring a Tainted Soldier appear on 40F, 50F, 60F, 70F, 80F, and 90F.<br/>Tainted Soldier has 500 HP and 80 attack, so they can be rough if you trade hits without any strategy.<br/>Use Air Devil type monster meat, Scroll of Confusion, Doppelganger Staff, etc. to overcome them.<br/>Tainted Soldier always drops a Chiropractic Jar when defeated in a normal manner.
+
+The boss on 99F has 900 HP and 130 attack power, so you'll take notable damage even with a good shield.<br/>Use Staff of Sloth or Air Devil type monster meat to have a one-sided fight.<br/>Tainted Queen always drops a Kabra's Blade when defeated in a normal manner.
+
+<p><span class="redText">Warning</span> - If you want the Kabra's Blade from Tainted Queen, DO NOT do any of the following:</p>
+
+- Throw monster meat at Tainted Queen to turn it into a different monster.
+- Steal an item from Tainted Queen using Thiefwalrus type meat.
+- Knock away an item from Tainted Queen using Cell Armor type meat.
+
+### 31-35F
+
+<p><span class="guideImage"><img src="../images/monsters2/dark_eye_3.png"/></span> Shadow Eye (31-35F) can one-shot you if you're at Lv1 and have a weaker shield like Armor Ward+55.<br/><span class="guideImage"><img src="../images/monsters2/skull_mage_3.png"/></span> Skull Wraith (31-35F) shoots a magic bullet (Riceball, Paralyzed, Slow, Sealed, Confused, Level-1) when lined up.</p>
+
+### 36-48F
+
+<p><span class="guideImage"><img src="../images/monsters2/air_devil_2.png"/></span> Wraith Devil (36-50F) appears, so obtain 6 Wraith Devil Meat to prepare for fixed Monster Houses.<br/>Remember that Air Devil types reflect staff magic - Bufu's Staff won't work unless you throw the staff itself.<br/>It's best to use a weapon with the Bufu's Cleaver meld ability for this.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/rice_baby_3.png"/></span> Rice Boss (38-43F) should be an easy one-shot, but you can be turned into a Riceball if you miss.<br/>Riceball status nullifies equipment stats while active, so just keep that in mind.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/polygon_spin_3.png"/></span> Polygon Song (44-49F) has 80 HP and 19 defense, and lowers max fullness by 10.<br/>Hunger shouldn't be an issue if you have Bufu's Cleaver and Hide Shield melded, so don't worry about it too much.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/curse_girl_3.png"/></span> Curse Mom (47-53F) curses 1 inventory item - Disable her with a staff instead of risking a miss.</p>
+
+### 49-54F
+
+<p><span class="guideImage"><img src="../images/monsters2/ghost_radish_3.png"/></span> Sleep Radish (49-54F) appears alongside <span class="guideImage"><img src="../images/monsters2/green_slime_3.png"/></span> Grey Slime (50-54F), so keep Sleepless Armband equipped.<br/>If you forget to equip it, there's a chance you'll lose multiple meld abilities at once.<br/>Sleep Radish throws Sleeping Herbs within a 3 tile radius.</p>
+
+### 55-60F
+
+<p><span class="guideImage"><img src="../images/monsters2/gaze_3.png"/></span> Hyper Gaze makes you waste items if you miss, so beware if you lack the <span class="guideImage"><img src="../images/meld/homing_blade.png"/></span> Homing Blade meld.<br/>It's probably best to use an item to disable it instead of risking a miss, even if your attack power is sufficient.<br/>If you have the <span class="guideImage"><img src="../images/meld/gaze_shield.png"/></span> Gaze Shield meld ability from Ravine of the Dead, it's fine to use direct attacks.</p>
+
+### 61-98F
+
+Dangerous ranged attackers include <span class="guideImage"><img src="../images/monsters2/dragon_2.png"/></span> Sky Dragon (60-66F) and <span class="guideImage"><img src="../images/monsters2/skull_mage_4.png"/></span> Skull Demon (63-70F).<br/>Sky Dragon spews a flame which deals 40 damage (20 with Dragonward) from anywhere in the room.<br/>Skull Demon shoots a random effect magic bullet (Riceball, Sleepy, Blinded, 40 damage, Level-3) when lined up.
+
+<p><span class="guideImage"><img src="../images/monsters2/mamel_4.png"/></span> Gitan Mamel (61-70F) has 6 HP, 60 attack, 140 defense, and Swift 2 speed (move twice, attack twice).<br/>They aren't dangerous if you have a strong shield, but otherwise they can be problematic.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/flying_fowl_4.png"/></span> Jet Fowl (66-75F) has 80 HP and electrifies jars, which outright destroys the jar and all contents.<br/>It's extremely important to use an item to prevent it from acting when it's adjacent to you.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/popster_tank_3.png"/></span> Oldster Tank (71-79F) overlaps with <span class="guideImage"><img src="../images/monsters2/cell_armor_4.png"/></span> Alloy Armor (75-85F) for a little while.<br/>Alloy Armor has 100 HP and 21 defense, so depending on your main weapon you might not one-shot it.<br/>Oldster Tank only has 50 HP, but its Swift 2 speed and 40 damage (20 with Blast Shield) cannonballs can hurt.<br/>Items on the ground vanish if they get caught in an explosion, so don't let Alloy Armor disarm your equipment.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/curse_girl_4.png"/></span> Curse Gran (76-85F) curses 1 inventory item - Again, disable her with a staff instead of risking a miss,<br/>especially if you're running low on Scroll of Blessings at this point.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/dark_eye_4.png"/></span> Fear Eye (77-89F) has 100 attack, which is the highest in the dungeon aside from the final boss.<br/>Damage sample: 47~71 (Iron Shield+45), 37~61 (Armor Ward+55), 23~47 (Windshield+70), 1 (Stormward+99).<br/>Keep Armband of Sight equipped, and avoid dashing in hallways so that you don't get hit by a surprise attack.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/fog_hermit_4.png"/></span> Cloud Hermit (80-98F) casts a spell that stops HP regen / inflicts HP drain from anywhere on the floor.<br/>If you haven't melded <span class="guideImage"><img src="../images/meld/prism_shield.png"/></span> Prism Shield from Ravine of the Dead, it's best to rush to the stairs.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/ironhead_4.png"/></span> Deathhead (80-98F) has 77 attack so you'll take a decent amount of damage if your shield is weak.<br/>Damage sample: 27~46 (Iron Shield+45), 18~35 (Armor Ward+55), 3~21 (Windshield+70), 1 (Stormward+99).<br/>Comparisons: <span class="guideImage"><img src="../images/monsters2/dragon_3.png"/></span> Ark Dragon - 78 atk, <span class="guideImage"><img src="../images/monsters2/nduba_4.png"/></span> N'Balun - 70 atk, <span class="guideImage"><img src="../images/monsters2/floor_dragon_4.png"/></span> Earth Dragon - 64 atk, <span class="guideImage"><img src="../images/monsters2/hen_4.png"/></span> Miracle Hen - 47 atk.</p>
+
+<p><span class="guideImage"><img src="../images/monsters2/dragon_3.png"/></span> Ark Dragon (90-98F) spews fire which deals 50 damage (25 with Dragonward) from anywhere on the floor.<br/>It has 120 HP and attack power about equal to Deathhead, so keep that in mind if you decide to fight it.<br/>If you're low on Chiropractic Jars, remember that you can use Air Devil type meat to turn invisible.</p>
+
+### 99F - Final Boss
+
+Boss fight with Tainted Queen (No other monsters).
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Tainted Queen</td>
+    <td>900</td>
+    <td>130</td>
+    <td>40</td>
+    <td>15555</td>
+    <td>Normal</td>
+    <td>No abilities, immune to Bufu's Staff.</td>
+  </tr>
+</table>
+
+Swing a Staff of Sloth at Tainted Queen, then loop attack → step away to defeat it without taking any damage.<br/>That's literally all there is to it - Don't forget to pick up the Kabra's Blade dropped by the boss.<br/>Once you defeat Tainted Queen, she won't spawn ever again, so the Kabra's Blade is a one-time reward.
 
 # Monsters
 

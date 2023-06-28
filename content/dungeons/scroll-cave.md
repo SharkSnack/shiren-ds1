@@ -4,6 +4,10 @@ metaTitle: "Scroll Cave - Shiren DS1 Wiki"
 metaDescription: "Scroll Cave dungeon guide for Shiren the Wanderer DS1."
 ---
 
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/scroll_cave.png"/><img src="../images/areas/scroll_cave_2.png"/>
+</div>
+
 [Introduction]
 
 <ul class="quickLinksUL">
@@ -20,11 +24,11 @@ metaDescription: "Scroll Cave dungeon guide for Shiren the Wanderer DS1."
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">1. Clear the main story.<br/>2. </td>
+    <td class="highlightYellow">1. Clear the main story.<br/>2. Finish the Gaibara side quest.<br/>3. Finish the Naoki side quest.<br/>4. Talk to Fourth Apprentice near the exit in Canyon Hamlet.<br/>　(Won't appear during Tainted Path unlock event)<br/>5. Talk to Saruyama inside Gaibara's Manor.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Mountaintop Town ()</td>
+    <td class="highlightYellow">Mountaintop Town (Gaibara's Manor)</td>
   </tr>
 </table>
 

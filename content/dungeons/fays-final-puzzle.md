@@ -5,7 +5,7 @@ metaDescription: "Fay's Final Puzzle dungeon guide for Shiren the Wanderer DS1."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-
+  <img src="../images/areas/final_puzzle.png"/><img src="../images/areas/final_puzzle_2.png"/>
 </div>
 
 [Introduction]
@@ -24,11 +24,11 @@ metaDescription: "Fay's Final Puzzle dungeon guide for Shiren the Wanderer DS1."
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">1. Clear the main story.<br/>2. </td>
+    <td class="highlightYellow">1. Clear the main story.<br/>2. Clear all 50 Fay's Puzzles.<br/>3. Enter Kitchen God once.<br/>4. Enter Scroll Cave once.<br/>5. Talk to Fay the Researcher.<br/>6. Go on an adventure and return.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Canyon Hamlet ()</td>
+    <td class="highlightYellow">Canyon Hamlet (Fay's Puzzle Building)</td>
   </tr>
 </table>
 

@@ -5,7 +5,7 @@ metaDescription: "Ravine of the Dead dungeon guide for Shiren the Wanderer DS1."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-
+  <img src="../images/areas/ravine_of_dead.png"/><img src="../images/areas/ravine_of_dead_2.png"/>
 </div>
 
 [Introduction]
@@ -24,11 +24,11 @@ metaDescription: "Ravine of the Dead dungeon guide for Shiren the Wanderer DS1."
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">1. Clear the main story.<br/>2. </td>
+    <td class="highlightYellow">1. Clear the main story.<br/>2. Finish the Pekeji side quest.<br/>3. Finish the Bungee Jump side quest.<br/>4. Talk to the old lady inside the Canyon Hamlet Inn.<br/>5. Go on an adventure and return.<br/>6. Hear Pekeji's voice inside the Canyon Hamlet Inn.<br/>7. Go on an adventure and return.<br/>7. Hear Pekeji's voice again.<br/>8. Go to Janus Valley and talk to Butafooter.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Janus Valley ()</td>
+    <td class="highlightYellow">Janus Valley (First broken spot on bridge)</td>
   </tr>
 </table>
 
