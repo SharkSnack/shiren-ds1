@@ -95,7 +95,66 @@ As mentioned earlier, the Jar of Change item table for this dungeon is special b
 
 #### Weapon
 
-Aim for a weapon with a minimum of 30 attack.
+Aim for a weapon with a minimum of 30 attack, but of course higher is better.<br/>Creating it takes a while, but a Firebrand+99 (119 atk) or Kabra Reborn+99 (149 atk) makes this dungeon easy.<br/>If you decide to use a weaker weapon, you'll want to bring more items to help you out in fights.
+
+#### Weapon Melds
+
+Golden Blade and Razor Wind are top priority, along with Pickaxe\* if you want Kigny Axe & Kigny Shield.<br/>The rest of the listed melds are nice to have, but aren't essential depending on weapon strength.<br/>(Many of these meld abilities are easily obtained using [Rescue Passwords](/guides/rescue-rewards#passwords))
+
+<table class="sealTable">
+  <tr>
+    <th>Icon</th>
+    <th>Item</th>
+    <th>Effect</th>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/golden_blade.png"/></td>
+    <td>Golden Blade</td>
+    <td>Weapon won't rust from traps or monster attacks.<br/>(Doesn't stop Lv3-4 Green Slimes from erasing meld abilities)</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/razor_wind.png"/></td>
+    <td>Razor Wind</td>
+    <td>Attack in 3 forward directions.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/bufus_cleaver.png"/></td>
+    <td>Bufu's Cleaver</td>
+    <td>Chance to turn defeated monsters into meat.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/pickaxe_gold.png"/></td>
+    <td>Pickaxe*</td>
+    <td>Dig through walls, the weapon never breaks.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/sickle_slayer.png"/></td>
+    <td>Sickle Slayer</td>
+    <td>Deal x2.0 damage to Ghost types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/cyclops_killer.png"/></td>
+    <td>Cyclops Killer</td>
+    <td>Deal x2.0 damage to One-Eyed types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/drain_buster.png"/></td>
+    <td>Drain Buster</td>
+    <td>Deal x2.0 damage to Drain types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/crescent_arm.png"/></td>
+    <td>Crescent Arm</td>
+    <td>Deal x2.0 damage to Exploding types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/air_slayer.png"/></td>
+    <td>Air Slayer</td>
+    <td>Deal x2.0 damage to Floating types.</td>
+  </tr>
+</table>
+
+Pickaxe* = Unbreakable Pickaxe obtained from the Blacksmith.
 
 #### Shield
 
@@ -105,19 +164,21 @@ Aim for a shield with a minimum of 30 defense, but really 50+ is better.<br/>To 
   <thead>
     <tr>
       <th rowspan="2">Monster</th>
+      <th rowspan="2">Atk</th>
       <th colspan="5">Shield Strength</th>
     </tr>
     <tr>
-      <th>30</th>
-      <th>40</th>
-      <th>51</th>
-      <th>64</th>
-      <th>82</th>
+      <th>Iron Shield+24<br/>(30 defense)</th>
+      <th>Iron Shield+34<br/>(40 defense)</th>
+      <th>Iron Shield+45<br/>(51 defense)</th>
+      <th>Armor Ward+55<br/>(64 defense)</th>
+      <th>Windshield+70<br/>(82 defense)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Kigny2</td>
+      <td>36</td>
       <td>8~16</td>
       <td>1~9</td>
       <td>1</td>
@@ -126,6 +187,7 @@ Aim for a shield with a minimum of 30 defense, but really 50+ is better.<br/>To 
     </tr>
     <tr>
       <td>Kigny3</td>
+      <td>56</td>
       <td>25~39</td>
       <td>17~31</td>
       <td>9~22</td>
@@ -134,6 +196,7 @@ Aim for a shield with a minimum of 30 defense, but really 50+ is better.<br/>To 
     </tr>
     <tr>
       <td>Kigny4</td>
+      <td>71</td>
       <td>38~55</td>
       <td>33~47</td>
       <td>22~39</td>
@@ -142,6 +205,7 @@ Aim for a shield with a minimum of 30 defense, but really 50+ is better.<br/>To 
     </tr>
     <tr>
       <td>Kigny5</td>
+      <td>86</td>
       <td>54~71</td>
       <td>44~63</td>
       <td>36~55</td>
@@ -150,6 +214,7 @@ Aim for a shield with a minimum of 30 defense, but really 50+ is better.<br/>To 
     </tr>
     <tr>
       <td>Inferno3</td>
+      <td>45</td>
       <td>16~25</td>
       <td>9~18</td>
       <td>1~8</td>
@@ -158,6 +223,7 @@ Aim for a shield with a minimum of 30 defense, but really 50+ is better.<br/>To 
     </tr>
     <tr>
       <td>Inferno4</td>
+      <td>60</td>
       <td>29~43</td>
       <td>22~35</td>
       <td>12~26</td>
@@ -166,26 +232,189 @@ Aim for a shield with a minimum of 30 defense, but really 50+ is better.<br/>To 
     </tr>
     <tr>
       <td>Inferno5</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>75</td>
+      <td>42~58</td>
+      <td>35~52</td>
+      <td>25~43</td>
+      <td>15~33</td>
+      <td>1~19</td>
     </tr>
     <tr>
       <td>Boss</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>105</td>
+      <td>68~89</td>
+      <td>60~81</td>
+      <td>53~77</td>
+      <td>41~64</td>
+      <td>27~51</td>
     </tr>
   </tbody>
 </table>
 
+#### Shield Melds
+
+Gold Shield and Hide Shield are top priority, but otherwise the rest aren't exactly mandatory here.<br/>Evasive Shield and Spiked Ward are both great against Kignys and Infernos if your shield strength is low.<br/>(Many of these meld abilities are easily obtained using [Rescue Passwords](/guides/rescue-rewards#passwords))
+
+<table class="sealTable">
+  <tr>
+    <th>Icon</th>
+    <th>Item</th>
+    <th>Effect</th>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/gold_shield.png"/></td>
+    <td>Gold Shield</td>
+    <td>Shield won't rust from traps or monster attacks.<br/>(Doesn't stop Lv3-4 Green Slimes from erasing meld abilities)</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/evasive_shield.png"/></td>
+    <td>Evasive Shield</td>
+    <td>Increases your chance to evade enemy direct attacks.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/spiked_ward.png"/></td>
+    <td>Spiked Ward</td>
+    <td>Reflect 1/3 of damage received. (6 or less damage = 1)</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/dragonward.png"/></td>
+    <td>Dragonward</td>
+    <td>Reduces fire damage by 50%.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/blast_shield.png"/></td>
+    <td>Blast Shield</td>
+    <td>Reduces explosion damage by 50%.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/walrus_shield.png"/></td>
+    <td>Walrus Shield</td>
+    <td>Protects items and Gitan from being stolen.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/hide_shield.png"/></td>
+    <td>Hide Shield</td>
+    <td>Halves hunger rate (1 fullness / 20 turns).</td>
+  </tr>
+</table>
+
 #### Armbands
 
+|Armband|Notes|
+|-|-|
+|Armband of Sight|Reveals the locations of characters and items.<br/>(Also makes you able to see invisible monsters such as Air Devil)|
+|Trap Armband|Check for hidden traps when you enter a new room.|
+|Sleepless Armband|For Sleep Radish (10-12F).|
+
+### Other Items
+
+Rare items like Bufu's Staff and Herb of Revival are great as well.
+
+|Item|Notes|
+|-|-|
+|Chiropractic Jar [5]|Bring at least 1 of these.|
+|Air Devil Meat|Turn invisible - Ensures victory during the boss fight.|
+|Scroll of Removal|Throw it at a Kigny to remove risk of Kigny level up accidents.<br/>(Can use a Blank Scroll instead of the real thing)|
+|Scroll of Blessing|Nice to have in case key items get cursed.|
+|Doppelganger Staff|Useful for a variety of situations.|
+|Staff of Postpone|Use with Armband of Sight to quickly locate the stairs.|
+|Staff of Paralysis|Paralyze monsters with troublesome special attacks.|
+|Switching Staff|Hurry to the stairs in a Monster House, etc.|
+|Scroll of Need|Nice to have in case you get surrounded.|
+|Scroll of Confusion|For Monster Houses or such.|
+
 # Floor Guide
+
+### General
+
+You can bring level ups, so consider starting from Table Mountain instead of Cryptic Rock Valley.
+
+Swap to Trap Armband to check for traps when entering rooms, then switch back to Armband of Sight.<br/>The exception to this is Sleep Radish (10-12F) floors, where you'll want to use Sleepless Armband instead.
+
+Don't get lazy about using items against troublesome monsters like Super Gaze - Direct attacks can still miss.<br/>(It's fine to rely on direct attacks if you have the <span class="guideImage"><img src="../images/meld/homing_blade.png"/></span> Homing Blade meld ability from Ravine of the Dead).
+
+### 1-9F
+
+Nothing too notable aside from monsters who can mess with your items.<br/>If you brought a Scroll of Removal for Kigny monsters, go ahead and throw it at a Kigny2 right away.
+
+#### Item Related
+
+<p><span class="guideImage"><img src="../images/monsters2/dremlas_1.png"/></span> Dremlas (1-2F) has 40 HP and makes Shiren trip and drop items, which can cause jars to break.<br/><span class="guideImage"><img src="../images/monsters2/cell_armor_1.png"/></span> Cell Armor (1-2F) has 35 HP and knocks away your equipped shield when adjacent.<br/><span class="guideImage"><img src="../images/monsters2/field_bandit_2.png"/></span> Jar Bandit (4-5F) has 25 HP and throws Weeds into open jars when lined up.<br/><span class="guideImage"><img src="../images/monsters2/flying_fowl_2.png"/></span> Flutter Fowl (4-6F) has 30 HP and electrifies 1 herb or scroll in your inventory, which destroys the item.<br/><span class="guideImage"><img src="../images/monsters2/gaze_2.png"/></span> Super Gaze (6-9F) has 51 HP and hypnotizes Shiren, forcing item usage or an attack.<br/><span class="guideImage"><img src="../images/monsters2/curse_girl_2.png"/></span> Curse Sis (7-9F) has 33 HP and curses 1 inventory item, sealing its abilities or making it unusable.</p>
+
+#### Slight Caution
+
+<p><span class="guideImage"><img src="../images/monsters2/skull_mage_2.png"/></span> Skull Wizard (3-4F) has 35 HP and shoots a magic bullet (Presto, Confused, Postpone, 25 damage).<br/><span class="guideImage"><img src="../images/monsters2/rice_baby_3.png"/></span> Rice Boss (7-9F) has 38 HP and inflicts Shiren with Riceball status, nullifying stats from equipment.<br/><span class="guideImage"><img src="../images/monsters2/popster_tank_2.png"/></span> Dadster Tank (7-9F) has 40 HP and fires a cannon which deals 30 damage in a 1 tile radius.<br/><span class="guideImage"><img src="../images/monsters2/half_warrior_1.png"/></span> Half Warrior (5-6F) has 25 HP but only takes 1 damage when attacked from frontal directions.<br/>The trick is to lure it into a hallway and hit it from the side at a hallway bend to one-shot it.</p>
+
+### 10-12F
+
+Dangerous floor range, though most of the risk is toward inventory items or Shiren's stats and not his life.<br/>Keep a Sleepless Armband equipped, and use a staff on Grey Slime instead of hitting it to avoid it multiplying.<br/>Don't forget to use Jar of Change while on this floor range if you brought some with you.
+
+#### Item or Stats Related
+
+<p><span class="guideImage"><img src="../images/monsters2/green_slime_3.png"/></span> Grey Slime has 70 HP, can multiply when hit, and either rusts equipment or erases 1 meld ability.<br/><span class="guideImage"><img src="../images/monsters2/leech_worm_2.png"/></span> Leech Bug has 32 HP and lowers max strength by 1 when adjacent.<br/><span class="guideImage"><img src="../images/monsters2/twisty_hani_2.png"/></span> Floppy Hani has 40 HP and lowers level by 1 when adjacent.</p>
+
+#### Caution
+
+<p><span class="guideImage"><img src="../images/monsters2/ghost_radish_3.png"/></span> Sleep Radish has 55 HP and throws Sleeping Herb within 3 tiles, or Poison Herb if you're asleep.<br/><span class="guideImage"><img src="../images/monsters2/spike_bomb_2.png"/></span> Spike Blast has 80 HP and explodes when remaining HP &le; 16 HP.</p>
+
+### 13-24F
+
+Kigny and Inferno monsters are now bumped up to level 3 starting from 13F.<br/>You'll take heavier damage if you only have 30 defense, but it should still be comfortable with 50 defense.<br/>Other monsters in this floor range don't hit as hard as Kigny3, so just watch out for special attacks.<br/>If you forgot Air Devil Meat but have Bufu's Cleaver melded, hunt Wraith Devils (13-29F) until you get its meat.
+
+#### Item Related
+
+<p><span class="guideImage"><img src="../images/monsters2/cell_armor_2.png"/></span> Metal Armor (13-16F) has 65 HP and knocks away your equipped weapon or shield.<br/><span class="guideImage"><img src="../images/monsters2/thiefwalrus_2.png"/></span> Greenwalrus (13-16F) has 58 HP and steals 1 item from your inventory or the ground.<br/><span class="guideImage"><img src="../images/monsters2/dremlas_2.png"/></span> Madremlas (19-23F) has 60 HP and makes Shiren trip and drop items, which can cause jars to break.</p>
+
+#### Caution
+
+<p><span class="guideImage"><img src="../images/monsters2/kigny_1.png"/></span> Kigny3 (13-24F) has 75 HP, 56 attack, 7 defense, and will level up if it defeats any creature.<br/><span class="guideImage"><img src="../images/monsters2/inferno_3.png"/></span> Inferno3 (13-24F) has 65 HP, 45 attack, 20 defense, and is immune to projectiles that don't pierce.<br/><span class="guideImage"><img src="../images/monsters2/skull_mage_3.png"/></span> Skull Wraith (19-23F) has 60 HP and shoots a magic bullet (Riceball, Paralyzed, Slow, Sealed, Confused, Level-1).<br/><span class="guideImage"><img src="../images/monsters2/dragon_1.png"/></span> Dragon (19-23F) has 90 HP, 40 attack, 18 defense, and spews fire which deals 30 damage in a line.</p>
+
+### 25-29F
+
+Kigny and Inferno monsters are now bumped up to level 4 starting from 25F.<br/>You'll take a decent amount of damage even with 50 defense, so always keep an eye on your HP.<br/>Drain types return, along with monsters who can destroy items - Use items to disable them.
+
+#### Item Related
+
+<p><span class="guideImage"><img src="../images/monsters2/field_bandit_3.png"/></span> Item Bandit (24-25F) has 35 HP and can turn an inventory item into Weeds when adjacent.<br/><span class="guideImage"><img src="../images/monsters2/curse_girl_3.png"/></span> Curse Mom (26-29F) has 56 HP and curses 1 inventory item, sealing its abilities or making it unusable.<br/><span class="guideImage"><img src="../images/monsters2/gaze_3.png"/></span> Hyper Gaze (26-29F) has 70 HP and hypnotizes Shiren, forcing item usage or an attack.<br/><span class="guideImage"><img src="../images/monsters2/green_slime_4.png"/></span> Red Slime (26-29F) has 100 HP, can multiply when hit, and either rusts equipment or erases 1 meld ability.</p>
+
+#### Caution
+
+<p><span class="guideImage"><img src="../images/monsters2/kigny_1.png"/></span> Kigny4 (25-29F) has 90 HP, 71 attack, 9 defense, and will level up if it defeats any creature.<br/><span class="guideImage"><img src="../images/monsters2/inferno_4.png"/></span> Inferno4 (25-29F) has 80 HP, 60 attack, 24 defense, and is immune to projectiles that don't pierce.<br/><span class="guideImage"><img src="../images/monsters2/nduba_3.png"/></span> N'Bama (25-29F) has 40 HP, 55 attack, 20 defense, and disguises itself as an item.</p>
+
+### 30F - Boss
+
+Boss fight against King of the Kigny and a number of Kigny5 and Inferno5.<br/>※ The Kigny5 will only focus on Shiren while King of the Kigny is alive.
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>King of the Kigny</td>
+    <td>350</td>
+    <td>105</td>
+    <td>28</td>
+    <td>5000</td>
+    <td>Normal<br/>Swift 1</td>
+    <td>Double speed, 1 attack.<br/>Immune to Bufu's Staff.</td>
+  </tr>
+</table>
+
+The bonfire in the center of the room will continuously spawn Inferno5 monsters until you destroy it.<br/>The first Inferno5 spawns after 2 turns, then a new Inferno5 spawns every 6 turns.
+
+The easiest strategy is to eat an Air Devil Meat which makes all enemies unable to detect Shiren.<br/>At that point, all that's left is to defeat each monster with direct attacks while they're unable to retaliate at all.
+
+Another option is to use Half Warrior Meat and the hallway to reduce all damage received to 1 point.<br/>However, this is only recommended if you have a strong weapon that can outpace new Inferno5 spawns.
+
+Otherwise, you could read Scroll of Confusion → Blastwave Scroll x 4 to safely clear out non-boss enemies,<br/>and then fight the boss + any new Inferno5 spawns using other items you have on hand.<br/>It shouldn't be too bad as long as you use items - Don't just trade direct attacks.
 
 # Monsters
 
@@ -1529,3 +1758,96 @@ The values like "1-30" in the Notes column represents the floor range where the 
 ※1 - Never found on the floor between 10-12F.
 
 # Traps
+
+See [Traps](/system/traps) for details.
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stumble</td>
+      <td>1-9, 13-30</td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Log</td>
+      <td>13-30</td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Landmine</td>
+      <td>13-30</td>
+    </tr>
+    <tr>
+      <td>Rusty</td>
+      <td>1-9, 13-30</td>
+      <td>Spin</td>
+      <td>1-30</td>
+      <td>Big Landmine</td>
+      <td>13-30</td>
+    </tr>
+    <tr>
+      <td>Unequip</td>
+      <td>1-30</td>
+      <td>Dream Gas</td>
+      <td>1-12</td>
+      <td>Wood Arrow</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rotten</td>
+      <td>10-30</td>
+      <td>Sleeping Gas</td>
+      <td>1-30</td>
+      <td>Iron Arrow</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Alarm</td>
+      <td>1-9, 13-30</td>
+      <td>Slowness</td>
+      <td>1-30</td>
+      <td>One-way</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Summons</td>
+      <td>1-9, 13-30</td>
+      <td>Immobilization</td>
+      <td>1-30</td>
+      <td>Knockback</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Multiplication</td>
+      <td>13-30</td>
+      <td>Hunger</td>
+      <td>13-30</td>
+      <td>Riceball</td>
+      <td>13-30</td>
+    </tr>
+    <tr>
+      <td>Pitfall</td>
+      <td>1-9, 13-30</td>
+      <td>Poison Dart</td>
+      <td>1-30</td>
+      <td>Curse</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Spring</td>
+      <td>1-9, 13-30</td>
+      <td>Boulder</td>
+      <td>1-9, 13-30</td>
+      <td>Stairway</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>

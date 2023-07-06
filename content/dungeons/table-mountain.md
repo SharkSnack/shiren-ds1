@@ -2071,16 +2071,92 @@ The values like "1-29" in the Notes column represents the floor range where the 
 
 See [Traps](/system/traps) for details.
 
-<table class="sealTable">
+<table class="dungeonTable">
   <thead>
     <tr>
-      <th>Floor</th>
-      <th>Traps</th>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1-2</td>
+      <td>Stumble</td>
+      <td>1-14, 17-25, 27-30</td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Log</td>
+      <td>17-25</td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Landmine</td>
+      <td>17-25, 27-29</td>
+    </tr>
+    <tr>
+      <td>Rusty</td>
+      <td>8-14, 17-25, 30</td>
+      <td>Spin</td>
+      <td>1-30</td>
+      <td>Big Landmine</td>
+      <td>17-25, 27-29</td>
+    </tr>
+    <tr>
+      <td>Unequip</td>
+      <td>1-30</td>
+      <td>Dream Gas</td>
+      <td>3-16, 30</td>
+      <td>Wood Arrow</td>
+      <td>1-4</td>
+    </tr>
+    <tr>
+      <td>Rotten</td>
+      <td>15-25</td>
+      <td>Sleeping Gas</td>
+      <td>8-30</td>
+      <td>Iron Arrow</td>
+      <td>4-8</td>
+    </tr>
+    <tr>
+      <td>Alarm</td>
+      <td>8-14, 17-25, 27-29</td>
+      <td>Slowness</td>
+      <td>1-30</td>
+      <td>One-way</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Summons</td>
+      <td>8-14, 17-25, 27-29</td>
+      <td>Immobilization</td>
+      <td>1-30</td>
+      <td>Knockback</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Multiplication</td>
+      <td>17-25, 27-29</td>
+      <td>Hunger</td>
+      <td>17-26</td>
+      <td>Riceball</td>
+      <td>17-30</td>
+    </tr>
+    <tr>
+      <td>Pitfall</td>
+      <td>8-14, 17-25, 27-29</td>
+      <td>Poison Dart</td>
+      <td>8-30</td>
+      <td>Curse</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Spring</td>
+      <td>8-14, 17-25, 27-29</td>
+      <td>Boulder</td>
+      <td>8-14, 17-25</td>
+      <td>Stairway</td>
       <td></td>
     </tr>
   </tbody>

@@ -8,7 +8,7 @@ metaDescription: "Ravine of the Dead dungeon guide for Shiren the Wanderer DS1."
   <img src="../images/areas/ravine_of_dead.png"/><img src="../images/areas/ravine_of_dead_2.png"/>
 </div>
 
-[Introduction]
+Dungeon where lots of Stairway Traps appear, and only 1 item is generated on each floor.<br/>You're expected to bring items to stand a chance, as the monster table ramps up in difficulty very quickly.<br/>Exclusives include Gaze Shield, Prism Shield, and Homing Blade, which can only be found between 41-50F.<br/>The objective is to rescue Pekeji (who is located on 26F) before the Ravine of the Dead claims his life.<br/>After the 1st clear, Transport Patterns can be found from 26F onwards to escape from the dungeon.<br/>Overall, it's considered to be the hardest dungeon that allows carry-in items in this game.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -148,9 +148,226 @@ metaDescription: "Ravine of the Dead dungeon guide for Shiren the Wanderer DS1."
   </tr>
 </table>
 
+# Rare Items
+
+### Gaze Shield, Prism Shield, Homing Blade
+
+As mentioned in the intro, this dungeon has 3 exclusive items - Gaze Shield, Prism Shield, and Homing Blade.<br/>Gaze Shield and Prism Shield have a chance of being generated between 41-45F and on 50F.<br/>Homing Blade has a chance of being generated between 46-50F.
+
+The dungeon loops endlessly once you reach 50F (Descend stairs on 50F → Next floor is 50F again),<br/>and the 1 item per floor rule doesn't apply to Monster Houses, so it's not as bad as it probably sounds.<br/>But it can still take a lot of time to hunt down one of each item, so some prefer to use [Rescue Passwords](/guides/rescue-rewards#passwords).
+
+To increase your chances, you could bring Monster Scrolls and read them on 50F to generate more items.<br/>Otherwise, there isn't much you can do to speed up the search aside from using an Armband of Sight.
+
 # Strategy
 
+### Equipment
+
+#### Weapon
+
+|Weapon|Atk|Notes|
+|-|-|-|
+|Kabra Reborn+99|149|One-shot most monsters.|
+|Firebrand+99|119|One-shot many monsters, still comfortable.|
+|Kabra's Blade+70|82|You really should upgrade this to Kabra Reborn.|
+|Mastersword+60|68|Lack of power is noticeable, but fine for the 1st clear.|
+|Katana+50|56|Minimum you should bring for the 1st clear.|
+
+#### Weapon Melds
+
+Razor Wind + Pickaxe* lets you strike incoming monsters first in hallways if you dig out a wall tile.<br/>Bufu's Cleaver is needed to sustain fullness, and meat has all sorts of great uses.<br/>(Many of these meld abilities are easily obtained using [Rescue Passwords](/guides/rescue-rewards#passwords))
+
+<table class="sealTable">
+  <tr>
+    <th>Icon</th>
+    <th>Item</th>
+    <th>Effect</th>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/golden_blade.png"/></td>
+    <td>Golden Blade</td>
+    <td>Weapon won't rust from traps or monster attacks.<br/>(Doesn't stop Lv3-4 Green Slimes from erasing meld abilities)</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/razor_wind.png"/></td>
+    <td>Razor Wind</td>
+    <td>Attack in 3 forward directions.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/bufus_cleaver.png"/></td>
+    <td>Bufu's Cleaver</td>
+    <td>Chance to turn defeated monsters into meat.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/pickaxe_gold.png"/></td>
+    <td>Pickaxe*</td>
+    <td>Dig through walls, the weapon never breaks.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/dragonkiller.png"/></td>
+    <td>Dragonkiller</td>
+    <td>Deal x2.0 damage to Dragon types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/sickle_slayer.png"/></td>
+    <td>Sickle Slayer</td>
+    <td>Deal x2.0 damage to Ghost types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/cyclops_killer.png"/></td>
+    <td>Cyclops Killer</td>
+    <td>Deal x2.0 damage to One-Eyed types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/drain_buster.png"/></td>
+    <td>Drain Buster</td>
+    <td>Deal x2.0 damage to Drain types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/crescent_arm.png"/></td>
+    <td>Crescent Arm</td>
+    <td>Deal x2.0 damage to Exploding types.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/air_slayer.png"/></td>
+    <td>Air Slayer</td>
+    <td>Deal x2.0 damage to Floating types.</td>
+  </tr>
+</table>
+
+Pickaxe* = Unbreakable Pickaxe obtained from the Blacksmith.
+
+#### Shield
+
+|Shield|Def|Notes|
+|-|-|-|
+|Stormward+99|149|Receive 1 damage from monsters.|
+|Windshield+70|82|You really should upgrade this to Stormward.|
+|Armor Ward+55|64|Should be fine for the 1st clear.|
+|Iron Shield+45|51|Minimum you should bring for the 1st clear.|
+
+#### Shield Melds
+
+Gold Shield, Dragonward, Blast Shield, and Walrus Shield are top priority.<br/>Evasive Shield and Spiked Ward are particularly good if your shield strength is low.<br/>(Many of these meld abilities are easily obtained using [Rescue Passwords](/guides/rescue-rewards#passwords))
+
+<table class="sealTable">
+  <tr>
+    <th>Icon</th>
+    <th>Item</th>
+    <th>Effect</th>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/gold_shield.png"/></td>
+    <td>Gold Shield</td>
+    <td>Shield won't rust from traps or monster attacks.<br/>(Doesn't stop Lv3-4 Green Slimes from erasing meld abilities)</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/dragonward.png"/></td>
+    <td>Dragonward</td>
+    <td>Reduces fire damage by 50%.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/blast_shield.png"/></td>
+    <td>Blast Shield</td>
+    <td>Reduces explosion damage by 50%.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/walrus_shield.png"/></td>
+    <td>Walrus Shield</td>
+    <td>Protects items and Gitan from being stolen.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/hide_shield.png"/></td>
+    <td>Hide Shield</td>
+    <td>Halves hunger rate (1 fullness / 20 turns).</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/evasive_shield.png"/></td>
+    <td>Evasive Shield</td>
+    <td>Increases your chance to evade enemy direct attacks.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/meld/spiked_ward.png"/></td>
+    <td>Spiked Ward</td>
+    <td>Reflect 1/3 of damage received. (6 or less damage = 1)</td>
+  </tr>
+</table>
+
+#### Armbands
+
+|Armband|Notes|
+|-|-|
+|Armband of Sight|Reveals the locations of characters and items.<br/>(Also makes you able to see invisible monsters such as Air Devil)|
+|Trap Armband|Reveal Stairway Traps, check for hidden traps when you enter a new room.|
+|Sleepless Armband|For Sleep Radish (7-10F).|
+
+### Other Items
+
+Rare items like Bufu's Staff and Herb of Revival are great as well.
+
+|Item|Notes|
+|-|-|
+|Chiropractic Jar [5]|Bring at least 3 of these.|
+|Air Devil Meat|Turn invisible - Great for Monster Houses, etc.|
+|Scroll of Removal|Probably best thrown at a Dragon family monster.<br/>(Can use a Blank Scroll instead of the real thing)|
+|Scroll of Blessing<br/>Curse Girl Meat|Nice to have in case key items get cursed.|
+|Doppelganger Staff|Useful for a variety of situations.|
+|Staff of Postpone|Use with Armband of Sight to quickly locate the stairs.|
+|Staff of Paralysis|Paralyze monsters with troublesome special attacks.|
+|Staff of Stability|Protects jars from breaking when tripped by Dremlas types.|
+|Switching Staff|Hurry to the stairs in a Monster House, etc.|
+|Scroll of Need|Nice to have in case you get surrounded.|
+|Scroll of Confusion|For Monster Houses or such.|
+|Blank Scroll|Use it as a Destruction Scroll, etc.|
+
 # Floor Guide
+
+### General
+
+Eating Air Devil type meat is the best way to deal with Monster Houses in this dungeon.
+
+Swap to Trap Armband to check for traps when entering rooms, then switch back to Armband of Sight.<br/>The exception to this is Sleep Radish (7-10F) floors, where you'll want to use Sleepless Armband instead.<br/>Equipping a Trap Armband instantly reveals all Stairway Traps.
+
+Don't get lazy about using items against troublesome monsters like Super Gaze - Direct attacks can still miss.<br/>(It's fine to rely on direct attacks if you have the <span class="guideImage"><img src="../images/meld/homing_blade.png"/></span> Homing Blade meld ability from this dungeon).
+
+### 1-2F
+
+Monsters aren't a threat if you brought the suggested items.<br/>Throw a Scroll of Removal at a <span class="guideImage"><img src="../images/monsters2/dragon_1.png"/></span> Dragon (2-4F) to banish Ark Dragon and Hell Dragon from the adventure.<br/>Hunt <span class="guideImage"><img src="../images/monsters2/air_devil_1.png"/></span> Air Devil (1-2F) to stock up on Air Devil Meat if you have Bufu's Cleaver melded.
+
+### 3-19F
+
+Monsters are generally easy, but there are some special attacks you'll want to watch out for.<br/>Remember to equip a Sleepless Armband between 7-10F for Sleep Radishes.
+
+#### Item Related
+
+<p><span class="guideImage"><img src="../images/monsters2/gaze_2.png"/></span> Super Gaze (3-6F) has 51 HP and hypnotizes Shiren, forcing item usage or an attack.<br/><span class="guideImage"><img src="../images/monsters2/field_bandit_3.png"/></span> Item Bandit (4-6F) has 35 HP and can turn an inventory item into Weeds when adjacent.<br/><span class="guideImage"><img src="../images/monsters2/dremlas_2.png"/></span> Madremlas (5-8F) has 60 HP and makes Shiren trip and drop items, which can cause jars to break.<br/><span class="guideImage"><img src="../images/monsters2/curse_girl_3.png"/></span> Curse Mom (7-10F) has 56 HP and curses 1 inventory item, sealing its abilities or making it unusable.<br/><span class="guideImage"><img src="../images/monsters2/cell_armor_3.png"/></span> Steel Armor (9-12F) has 80 HP and knocks away your equipped weapon or shield when adjacent.<br/><span class="guideImage"><img src="../images/monsters2/flying_fowl_3.png"/></span> Hover Fowl (11-14F) has 45 HP and electrifies 1 herb, scroll, or staff in your inventory, destroying the item.<br/><span class="guideImage"><img src="../images/monsters2/green_slime_3.png"/></span> Grey Slime (11-20F) has 70 HP, can multiply when hit, and either rusts equipment or erases 1 meld ability.</p>
+
+#### Caution
+
+<p><span class="guideImage"><img src="../images/monsters2/rice_baby_3.png"/></span> Rice Boss (5-8F) has 38 HP and inflicts Shiren with Riceball status, nullifying stats from equipment.<br/><span class="guideImage"><img src="../images/monsters2/ghost_radish_3.png"/></span> Sleep Radish (7-10F) has 55 HP and throws Sleeping Herb within 3 tiles, or Poison Herb if you're asleep.<br/><span class="guideImage"><img src="../images/monsters2/skull_mage_3.png"/></span> Skull Wraith (9-12F) has 60 HP and shoots a magic bullet (Riceball, Paralyzed, Slow, Sealed, Confused, Level-1).<br/><span class="guideImage"><img src="../images/monsters2/dragon_2.png"/></span> Sky Dragon (10-13F) has 100 HP and spews a 40 damage (20 w/Dragonward) flame from anywhere in the room.<br/><span class="guideImage"><img src="../images/monsters2/popster_tank_3.png"/></span> Oldster Tank (15-20F) has 50 HP, Swift 2 speed, and fires a 40 damage (20 w/Blast Shield) cannon.<br/><span class="guideImage"><img src="../images/monsters2/fog_hermit_3.png"/></span> Mist Hermit (16-20F) has 60 HP and casts a spell that stops HP regen / drains HP from anywhere in the room.</p>
+
+### 20-38F
+
+Monsters are Lv3-4 now, and the lineup of special attacks becomes quite nasty.<br/>The goal for the 1st clear is to find Pekeji who can be found on all floors starting on 26F.<br/>If you're using weaker equipment, consider escaping on 26F and coming back for the exclusive items later.<br/><span class="guideImage"><img src="../images/monsters2/dark_eye_4.png"/></span> Fear Eye (26-35F), <span class="guideImage"><img src="../images/monsters2/mecharoid_4.png"/></span> Bioroid (26-50F), and <span class="guideImage"><img src="../images/monsters2/gather_4.png"/></span> Fallen Gather (30-50F) hit hard if your shield is weak.
+
+#### Item Related
+
+<p><span class="guideImage"><img src="../images/monsters2/gaze_3.png"/></span> Hyper Gaze (20-25F) has 70 HP and hypnotizes Shiren, forcing item usage or an attack.<br/><span class="guideImage"><img src="../images/monsters2/field_bandit_4.png"/></span> Trove Bandit (21-30F) has 50 HP and can turn an inventory item into Weeds when adjacent.<br/><span class="guideImage"><img src="../images/monsters2/curse_girl_3.png"/></span> Curse Gran (27-35F) has 72 HP and curses 1 inventory item, sealing its abilities or making it unusable.<br/><span class="guideImage"><img src="../images/monsters2/cell_armor_4.png"/></span> Alloy Armor (28-37F) has 100 HP and knocks away your equipped weapon, shield, or armband.<br/><span class="guideImage"><img src="../images/monsters2/green_slime_4.png"/></span> Red Slime (30-38F) has 100 HP, can multiply when hit, and either rusts equipment or erases 1 meld ability.<br/><span class="guideImage"><img src="../images/monsters2/flying_fowl_4.png"/></span> Jet Fowl (36-40F) has 80 HP and electrifies a jar, destroying both the jar and contents.</p>
+
+#### Caution
+
+<p><span class="guideImage"><img src="../images/monsters2/dragon_3.png"/></span> Ark Dragon (20-31F) has 120 HP and spews a 50 damage (25 w/Dragonward) flame from anywhere on the floor.<br/><span class="guideImage"><img src="../images/monsters2/ghost_radish_4.png"/></span> Fear Radish (29-33F) has 70 HP and throws Kigny Seed within 3 tiles, or Poison Herb if you're berserk.<br/><span class="guideImage"><img src="../images/monsters2/skull_mage_4.png"/></span> Skull Demon (31-38F) has 75 HP and shoots a magic bullet (Riceball, Sleepy, Blinded, 40 damage, Level-3).<br/><span class="guideImage"><img src="../images/monsters2/rice_baby_4.png"/></span> Rice Master (31-50F) has 70 HP and inflicts Shiren with Riceball status or turns inventory items into riceballs.<br/><span class="guideImage"><img src="../images/monsters2/popster_tank_4.png"/></span> Cranky Tank (32-50F) has 80 HP, Swift 2 speed, and fires a 50 damage (25 w/Blast Shield) cannon.<br/><span class="guideImage"><img src="../images/monsters2/fog_hermit_4.png"/></span> Cloud Hermit (38-50F) has 70 HP and casts a spell that stops HP regen / drains HP from anywhere on the floor.</p>
+
+### 39-50F
+
+The monster table doesn't change much from this point, but powerful monsters including Hell Dragon appear.<br/>The goal around here is to search for Gaze Shield & Prism Shield (41-45F, 50F) and Homing Blade (46-50F).<br/>Monster direct attacks shouldn't be an issue if you have a Stormward+99.
+
+#### Item Related
+
+<p><span class="guideImage"><img src="../images/monsters2/flying_fowl_4.png"/></span> Jet Fowl (36-40F) has 80 HP and electrifies a jar, destroying both the jar and contents.<br/><span class="guideImage"><img src="../images/monsters2/thiefwalrus_4.png"/></span> Roguewalrus (36-50F) has 100 HP and steals 1 item from your inventory or the ground, then vanishes.<br/><span class="guideImage"><img src="../images/monsters2/gaze_4.png"/></span> Ultra Gaze (40-50F) has 90 HP and hypnotizes Shiren, forcing item usage or an attack.<br/><span class="guideImage"><img src="../images/monsters2/green_slime_4.png"/></span> Red Slime (45-50F) has 100 HP, can multiply when hit, and either rusts equipment or erases 1 meld ability.</p>
+
+#### Caution
+
+<p><span class="guideImage"><img src="../images/monsters2/dragon_4.png"/></span> Hell Dragon (39-50F) has 150 HP and spews a 60 damage (30 w/Dragonward) flame from anywhere on the floor.<br/><span class="guideImage"><img src="../images/monsters2/rice_baby_4.png"/></span> Rice Master (31-50F) has 70 HP and inflicts Shiren with Riceball status or turns inventory items into riceballs.<br/><span class="guideImage"><img src="../images/monsters2/popster_tank_4.png"/></span> Cranky Tank (32-50F) has 80 HP, Swift 2 speed, and fires a 50 damage (25 w/Blast Shield) cannon.<br/><span class="guideImage"><img src="../images/monsters2/fog_hermit_4.png"/></span> Cloud Hermit (38-50F) has 70 HP and casts a spell that stops HP regen / drains HP from anywhere on the floor.<br/><span class="guideImage"><img src="../images/monsters2/tiger_uho_4.png"/></span> Tiger Uboho (44-50F) has 100 HP and throws other monsters at Shiren or such (Range of 20 tiles).</p>
 
 # Monsters
 
@@ -1926,17 +2143,93 @@ The values like "46-50" in the Notes column represents the floor range where the
 
 See [Traps](/system/traps) for details.
 
-<table class="sealTable">
+<table class="dungeonTable">
   <thead>
     <tr>
-      <th>Floor</th>
-      <th>Traps</th>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>Stumble</td>
       <td>1-50</td>
-      <td>Stumble, Alarm, Summons, Slowness, Poison Dart, Landmine, Big Landmine, Riceball, Curse, Stairway</td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Log</td>
+      <td></td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Landmine</td>
+      <td>1-50</td>
+    </tr>
+    <tr>
+      <td>Rusty</td>
+      <td></td>
+      <td>Spin</td>
+      <td></td>
+      <td>Big Landmine</td>
+      <td>1-50</td>
+    </tr>
+    <tr>
+      <td>Unequip</td>
+      <td></td>
+      <td>Dream Gas</td>
+      <td></td>
+      <td>Wood Arrow</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rotten</td>
+      <td></td>
+      <td>Sleeping Gas</td>
+      <td></td>
+      <td>Iron Arrow</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Alarm</td>
+      <td>1-50</td>
+      <td>Slowness</td>
+      <td>1-50</td>
+      <td>One-way</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Summons</td>
+      <td>1-50</td>
+      <td>Immobilization</td>
+      <td></td>
+      <td>Knockback</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Multiplication</td>
+      <td></td>
+      <td>Hunger</td>
+      <td></td>
+      <td>Riceball</td>
+      <td>1-50</td>
+    </tr>
+    <tr>
+      <td>Pitfall</td>
+      <td></td>
+      <td>Poison Dart</td>
+      <td>1-50</td>
+      <td>Curse</td>
+      <td>1-50</td>
+    </tr>
+    <tr>
+      <td>Spring</td>
+      <td></td>
+      <td>Boulder</td>
+      <td></td>
+      <td>Stairway</td>
+      <td>1-50</td>
     </tr>
   </tbody>
 </table>

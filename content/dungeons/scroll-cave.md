@@ -3086,3 +3086,97 @@ The values like "1-99" in the Notes column represents the floor range where the 
 ※1 - Never found in shops between 6-99F.
 
 # Traps
+
+See [Traps](/system/traps) for details.
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stumble</td>
+      <td>1-99</td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Log</td>
+      <td>1-99</td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Landmine</td>
+      <td>1-99</td>
+    </tr>
+    <tr>
+      <td>Rusty</td>
+      <td>1-99</td>
+      <td>Spin</td>
+      <td>1-99</td>
+      <td>Big Landmine</td>
+      <td>1-99</td>
+    </tr>
+    <tr>
+      <td>Unequip</td>
+      <td>1-99</td>
+      <td>Dream Gas</td>
+      <td>1-99</td>
+      <td>Wood Arrow</td>
+      <td>1-99</td>
+    </tr>
+    <tr>
+      <td>Rotten</td>
+      <td>1-99</td>
+      <td>Sleeping Gas</td>
+      <td>1-99</td>
+      <td>Iron Arrow</td>
+      <td>1-99</td>
+    </tr>
+    <tr>
+      <td>Alarm</td>
+      <td>1-99</td>
+      <td>Slowness</td>
+      <td>1-99</td>
+      <td>One-way</td>
+      <td>1-99</td>
+    </tr>
+    <tr>
+      <td>Summons</td>
+      <td>1-99</td>
+      <td>Immobilization</td>
+      <td>1-99</td>
+      <td>Knockback</td>
+      <td>1-99</td>
+    </tr>
+    <tr>
+      <td>Multiplication</td>
+      <td>4-20, 24-40, 46-60, 71-89</td>
+      <td>Spring</td>
+      <td>1-99</td>
+      <td>Riceball</td>
+      <td>1-99</td>
+    </tr>
+    <tr>
+      <td>Pitfall</td>
+      <td>1-20, 24-40, 46-60, 71-89</td>
+      <td>Poison Dart</td>
+      <td>1-99</td>
+      <td>Curse</td>
+      <td>1-99</td>
+    </tr>
+    <tr>
+      <td>Hunger</td>
+      <td>1-20, 24-40, 46-60, 71-89</td>
+      <td>Boulder</td>
+      <td>1-99</td>
+      <td>Stairway</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+

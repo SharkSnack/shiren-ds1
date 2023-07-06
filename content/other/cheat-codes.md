@@ -200,14 +200,14 @@ metaDescription: "Cheat codes for Shiren the Wanderer DS1."
 |0B6|182|Skull|
 |0B7|183|Stone|
 |0B8|184|Ironhead Meat|
-|0B9|185||
-|0BA|186||
-|0BB|187||
-|0BC|188||
+|0B9|185|Chainhead Meat|
+|0BA|186|Gigahead Meat|
+|0BB|187|Deathhead Meat|
+|0BC|188|Fluffy Bunny Meat|
 |0BD|189|Air Devil Meat|
-|0BE|190||
-|0BF|191||
-|0C0|192||
+|0BE|190|Wraith Devil Meat|
+|0BF|191|Mirage Devil Meat|
+|0C0|192|Astral Devil Meat|
 |0C1|193||
 |0C2|194||
 |0C3|195||
@@ -216,9 +216,9 @@ metaDescription: "Cheat codes for Shiren the Wanderer DS1."
 |0C6|198||
 |0C7|199||
 |0C8|200||
-|0C9|201||
-|0CA|202||
-|0CB|203||
+|0C9|201|Inferno Meat|
+|0CA|202|Clear Armband|
+|0CB|203|Warding Armband|
 |0CC|204||
 |0CD|205||
 |0CE|206||
@@ -227,9 +227,9 @@ metaDescription: "Cheat codes for Shiren the Wanderer DS1."
 |0D1|209||
 |0D2|210||
 |0D3|211||
-|0D4|212||
-|0D5|213||
-|0D6|214||
+|0D4|212|Kigny Meat|
+|0D5|213|Pure Armband|
+|0D6|214|Vigilant Armband|
 |0D7|215||
 |0D8|216||
 |0D9|217||
@@ -436,3 +436,45 @@ metaDescription: "Cheat codes for Shiren the Wanderer DS1."
 |1A2|418|?|
 |1A3|419|?|
 |1A4|420|?|
+
+#### Meld Abilities
+
+Weapon (All) = 6FFB<br/>
+Shield (All) = 0FDB
+
+##### Weapon
+
+|Value|Meld Ability|
+|-|-|
+|0001|Golden Blade|
+|0002|Dragonkiller|
+|0004|Fragile Edge|
+|0008|Minotaur's Axe|
+|0010|Sickle Slayer|
+|0020|Homing Blade|
+|0040|Razor Wind|
+|0080|Cyclops Killer|
+|0100|Drain Buster|
+|0200|Bufu's Cleaver|
+|0400|Crescent Arm|
+|0800|Air Slayer|
+|1000|Pickaxe|
+|2000|Kigny Axe|
+|4000|Pickaxe (Gold)|
+
+##### Shield
+
+|Value|Meld Ability|
+|-|-|
+|0001|Gold Shield|
+|0002|Dragonward|
+|0004|Fragile Shield|
+|0008|Hide Shield|
+|0010|Spiked Ward|
+|0020|Armor Ward|
+|0040|Evasive Shield|
+|0080|Blast Shield|
+|0100|Walrus Shield|
+|0200|Prism Shield|
+|0400|Gaze Shield|
+|0800|Kigny Shield|

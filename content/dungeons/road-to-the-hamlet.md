@@ -164,17 +164,21 @@ Numbers in parentheses are HP values.<br/>Spawn Rates: <span class="low">Low</sp
 
 # Traps
 
-<table class="sealTable">
+<table class="dungeonTable">
   <thead>
     <tr>
-      <th>Floor</th>
-      <th>Traps</th>
+      <th>Trap</th>
+      <th>Floors</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>Immobilization</td>
       <td>1-5</td>
-      <td><img src="../images/traps/immobilization.png"/><img src="../images/traps/wood_arrow.png"/></td>
+    </tr>
+    <tr>
+      <td>Wood Arrow</td>
+      <td>1-5</td>
     </tr>
   </tbody>
 </table>

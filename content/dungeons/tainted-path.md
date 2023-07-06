@@ -2968,3 +2968,96 @@ The values like "31-98" in the Notes column represents the floor range where the
 </table>
 
 # Traps
+
+See [Traps](/system/traps) for details.
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th class="tableDivider"></th>
+      <th>Trap</th>
+      <th>Floors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stumble</td>
+      <td>31-99</td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Log</td>
+      <td>31-99</td>
+      <td rowspan="9" class="tableDivider"></td>
+      <td>Landmine</td>
+      <td>31-99</td>
+    </tr>
+    <tr>
+      <td>Rusty</td>
+      <td>31-99</td>
+      <td>Spin</td>
+      <td>31-99</td>
+      <td>Big Landmine</td>
+      <td>31-99</td>
+    </tr>
+    <tr>
+      <td>Unequip</td>
+      <td>31-99</td>
+      <td>Dream Gas</td>
+      <td>31-99</td>
+      <td>Wood Arrow</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rotten</td>
+      <td>31-99</td>
+      <td>Sleeping Gas</td>
+      <td>31-99</td>
+      <td>Iron Arrow</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Alarm</td>
+      <td>31-99</td>
+      <td>Slowness</td>
+      <td>31-99</td>
+      <td>One-way</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Summons</td>
+      <td>31-99</td>
+      <td>Immobilization</td>
+      <td>31-99</td>
+      <td>Knockback</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Multiplication</td>
+      <td>31-99</td>
+      <td>Hunger</td>
+      <td>31-99</td>
+      <td>Riceball</td>
+      <td>31-99</td>
+    </tr>
+    <tr>
+      <td>Pitfall</td>
+      <td>31-99</td>
+      <td>Poison Dart</td>
+      <td>31-99</td>
+      <td>Curse</td>
+      <td>31-99</td>
+    </tr>
+    <tr>
+      <td>Spring</td>
+      <td>31-99</td>
+      <td>Boulder</td>
+      <td>31-99</td>
+      <td>Stairway</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>

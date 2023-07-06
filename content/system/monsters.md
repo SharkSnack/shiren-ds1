@@ -3034,7 +3034,7 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
     <td>16</td>
     <td>12</td>
     <td>200</td>
-    <td>Removes plating, and erases 1 rune or lowers upgrade value by 1.<br/>Occasionally multiplies when attacked.</td>
+    <td>Removes plating, and erases 1 rune or lowers upgrade value by 1.<br/>Prioritizes removing Plating before other meld abilities.<br/>Occasionally multiplies when attacked.</td>
   </tr>
   <tr>
     <td>4</td>
@@ -3043,7 +3043,7 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
     <td>24</td>
     <td>16</td>
     <td>600</td>
-    <td>Removes plating, and erases 1 rune or lowers upgrade value by 3.<br/>Occasionally multiplies when attacked.</td>
+    <td>Removes plating, and erases 1 rune or lowers upgrade value by 3.<br/>Prioritizes removing Plating before other meld abilities.<br/>Occasionally multiplies when attacked.</td>
   </tr>
 </table>
 
@@ -3399,10 +3399,42 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
     <td>Inferno</td>
     <td>35</td>
     <td>17</td>
-    <td>11</td>
+    <td>10</td>
     <td>55</td>
-    <td>Normal</td>
-    <td>Burns projectiles unless they have piercing properties.<br/>Multiplies from explosions.<br/>Levels up from fire damage. (Max: 99)<br/>Rust Trap will instantly defeat it.</td>
+    <td rowspan="5">Normal</td>
+    <td rowspan="5">Burns projectiles unless they have piercing properties.<br/>Multiplies from explosions.<br/>Levels up from fire damage. (Max: 99)<br/>Rust Trap will instantly defeat it.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Inferno2</td>
+    <td>50</td>
+    <td>25</td>
+    <td>16</td>
+    <td>90</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Inferno3</td>
+    <td>65</td>
+    <td>45</td>
+    <td>20</td>
+    <td>250</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Inferno4</td>
+    <td>80</td>
+    <td>60</td>
+    <td>24</td>
+    <td>550</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Inferno5</td>
+    <td>95</td>
+    <td>75</td>
+    <td>28</td>
+    <td>950</td>
   </tr>
 </table>
 
@@ -3471,6 +3503,19 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
     <td></td>
     <td></td>
     <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Inferno5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -3626,11 +3671,43 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
     <td>1</td>
     <td>Kigny</td>
     <td>40</td>
-    <td>25</td>
-    <td>5</td>
+    <td>26</td>
+    <td>3</td>
     <td>50</td>
-    <td>Normal</td>
-    <td>Attacks any adjacent creature, friend or foe.<br/>Levels up when it defeats a creature. (Max: 99)<br/>Levels up if hit by Kigny Seed.</td>
+    <td rowspan="5">Normal</td>
+    <td rowspan="5">Attacks any adjacent creature, friend or foe.<br/>Levels up when it defeats a creature. (Max: 99)<br/>Levels up if hit by Kigny Seed.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Kigny2</td>
+    <td>60</td>
+    <td>36</td>
+    <td>5</td>
+    <td>80</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Kigny3</td>
+    <td>75</td>
+    <td>56</td>
+    <td>7</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Kigny4</td>
+    <td>90</td>
+    <td>71</td>
+    <td>9</td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Kigny5</td>
+    <td>110</td>
+    <td>86</td>
+    <td>11</td>
+    <td>900</td>
   </tr>
 </table>
 
@@ -3695,6 +3772,19 @@ Disarmed equipment will fly outside the map if you have a Pitcher's Armband equi
   <tr>
     <td>4</td>
     <td>Kigny4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Kigny5</td>
     <td></td>
     <td></td>
     <td></td>
